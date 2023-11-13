@@ -1,0 +1,6073 @@
+ID Author
+1 Kee-Eung Kim
+2 C. Cordell Green
+3 Jorge A. Baier
+4 Sheila A. McIlraith
+5 Shirin Sohrabi
+6 Bin Gu 0001
+7 Charles X. Ling
+8 Huaimin Wang
+9 Xiang Li 0012
+10 Ning Xu
+11 Xin Geng
+12 Boi Faltings
+13 Haipeng Chen 0001
+14 Noseong Park
+15 Sushil Jajodia
+16 V. S. Subrahmanian
+17 Adith Swaminathan
+18 Thorsten Joachims
+19 Grigorios Tsoumakas
+20 Meghyn Bienvenu
+21 Michal Thomazo
+22 Allegra De Filippo
+23 Michela Milano
+24 Michele Lombardi 0001
+25 Ashutosh Saxena
+26 Nannan Wang 0001
+27 Xinbo Gao 0001
+28 Lingfei Wu
+29 Heiner Stuckenschmidt
+30 Simone Paolo Ponzetto
+31 Minoru Asada
+32 Lawrence J. Henschen
+33 Jin-Kao Hao
+34 Geoffrey J. Gordon
+35 Joelle Pineau
+36 Sebastian Thrun
+37 Frank Nussbaum
+38 Joachim Giesen
+39 Yan Song 0003
+40 Alessandra Russo
+41 L. Elisa Celis
+42 James T. Kwok
+43 Jeffrey Junfeng Pan
+44 Qiang Yang 0001
+45 Yiqiang Chen
+46 Anthony Tomasic
+47 William W. Cohen
+48 Blai Bonet
+49 Hector Geffner
+50 Ioannis Caragiannis
+51 Jrme Monnot
+52 Laurent Gourvs
+53 Fei Wu 0001
+54 Wanyun Cui
+55 Wei Wang 0009
+56 Yanghua Xiao
+57 Birte Glimm
+58 Carsten Lutz
+59 Ian Horrocks 0001
+60 Ulrike Sattler
+61 Zhizhong Wang
+62 Hiroshi Ishiguro
+63 Saburo Tsuji
+64 Siwei Lyu
+65 Wenqi Ren
+66 Ning Xu 0009
+67 Bob Price
+68 Craig Boutilier
+69 Neeldhara Misra
+70 Palash Dey
+71 Mitsuru Ishizuka
+72 Chengqing Zong
+73 Jiajun Zhang 0001
+74 Peter Jonsson
+75 Feiping Nie 0001
+76 Hua Wang 0007
+77 Francesco Ricca
+78 Marco Maratea
+79 Martin Gebser
+80 Nicola Leone
+81 Torsten Schaub
+82 Michael Fink 0001
+83 Thomas Eiter
+84 Charles Lee Isbell Jr.
+85 Martin Ester
+86 Rajesh P. N. Rao
+87 Vladimir Lifschitz
+88 Kristian Kersting
+89 Domenico Fabio Savo
+90 Domenico Lembo
+91 Riccardo Rosati 0001
+92 Muhammad Aamir Cheema
+93 Shiming Xiang
+94 Peizhi Wu
+95 Xiaojie Yuan
+96 Zhenglu Yang
+97 Chris Tong
+98 Chenglin Miao
+99 Hengtong Zhang
+100 Jing Gao 0004
+101 Lu Su
+102 Yaliang Li
+103 Ciaran McCreesh
+104 Jakob Nordstrm
+105 Stephan Gocht
+106 Athirai Aravazhi Irissappane
+107 Frans A. Oliehoek
+108 Jie Zhang 0002
+109 Arjen Hommersom
+110 Peter J. F. Lucas
+111 Lin Padgham
+112 Ariel Felner
+113 Jonathan Schaeffer
+114 Robert C. Holte
+115 Jess Girldez-Cru
+116 Jordi Levy
+117 Lawrence Birnbaum
+118 Margot Flowers
+119 Zibin Zheng
+120 John R. Anderson
+121 Hadi Hosseini
+122 Rohit Vaish
+123 Robert T. Chien
+124 Toru Ishida 0001
+125 Moshe Tennenholtz
+126 Ronen I. Brafman
+127 Daniel Gnad 0001
+128 Jrg Hoffmann 0001
+129 lvaro Torralba
+130 Hctor Muoz-Avila
+131 Ugur Kuter
+132 Tuomas Sandholm
+133 Vincent Conitzer
+134 Wheeler Ruml
+135 Gerhard Lakemeyer
+136 Gianluigi Greco
+137 Bei Chen
+138 Dongmei Zhang 0001
+139 Jian-Guang Lou
+140 Qian Liu
+141 Haris Aziz 0001
+142 Jrme Lang
+143 Sholom M. Weiss
+144 James P. Delgrande
+145 Maurice Pagnucco
+146 Chao Qian 0001
+147 Carmine Dodaro
+148 Mario Alviano
+149 Jrgen Schmidhuber
+150 Emma Brunskill
+151 Baoxin Li
+152 Huan Liu 0001
+153 Jiliang Tang
+154 Suhang Wang
+155 Mingyu Xiao
+156 Weiru Liu
+157 Randall Davis
+158 Yale Song
+159 Aurlie C. Lozano
+160 Guillermo A. Cecchi
+161 Irina Rish
+162 Laveen N. Kanal
+163 Shin'ichi Satoh 0001
+164 Wenjun Zeng
+165 Zheng Wang 0007
+166 Jeffrey S. Rosenschein
+167 Yoram Bachrach
+168 David S. Rosenblum
+169 Kun Ouyang
+170 Wenwu Zhu 0001
+171 Xu Chu
+172 Yasha Wang
+173 Enhong Chen
+174 Hengshu Zhu
+175 Le Wu
+176 Qi Liu 0003
+177 Kyle Hollins Wray
+178 Shlomo Zilberstein
+179 Jing Yu 0007
+180 Qi Wu 0001
+181 Yajing Sun
+182 Yue Hu 0002
+183 Lejian Liao
+184 Xin Li 0033
+185 Avi Pfeffer
+186 Sylvain Bouveret
+187 Ulle Endriss
+188 Celia Cintas
+189 Komminist Weldemariam
+190 Victor Akinwande
+191 Daphne Koller
+192 Andrew K. C. Wong
+193 Doyen Sahoo
+194 Jing Lu
+195 Steven C. H. Hoi
+196 Feng Zheng
+197 Ling Shao 0001
+198 Wael Hamza
+199 Vijay Ganesh
+200 Henry A. Kautz
+201 Adnan Darwiche
+202 Stuart J. Russell
+203 Richard Booth 0001
+204 Yen-Yu Lin
+205 Yusheng Xie
+206 Bo Qiao 0001
+207 Chuan Luo
+208 Hongyu Zhang 0002
+209 Pu Zhao 0001
+210 Qingwei Lin
+211 Xin Chen
+212 Chuxu Zhang
+213 Jundong Li
+214 Kaize Ding
+215 Nitesh V. Chawla
+216 Xiangliang Zhang 0001
+217 Yanfang Ye 0001
+218 Marco Lippi 0001
+219 Paolo Torroni
+220 Richard E. Korf
+221 Cristian Molinaro
+222 Khaled Belahcne
+223 Vincent Mousseau
+224 Paul R. Cohen
+225 Claudia Linnhoff-Popien
+226 David A. Cohen
+227 Martin C. Cooper
+228 Peter Jeavons 0001
+229 Hong Liu 0008
+230 Mark O. Riedl
+231 Fanhua Shang
+232 Siegfried Nijssen
+233 Daniele Theseider Dupr
+234 Gerhard Friedrich
+235 Luca Console
+236 Chang-Tien Lu
+237 Naren Ramakrishnan
+238 Nathan Self
+239 Zhiqian Chen
+240 Christian Muise
+241 Hans Tompits
+242 Jie Li 0001
+243 Deyu Zhou
+244 Xin-Yu Dai
+245 Yulan He 0001
+246 Gerhard Brewka
+247 Kurt Konolige
+248 Linli Xu
+249 Yang Wang
+250 Alvaro Velasquez
+251 Susmit Jha
+252 Angelo Montanari
+253 Guido Sciavicco
+254 Nicola Gigante
+255 Eamonn J. Keogh
+256 Thanawin Rakthanmanon
+257 Gang Chen
+258 Sen Su
+259 Xiang Cheng 0003
+260 Bin Yao 0002
+261 Ke Li 0019
+262 Lisi Chen
+263 Panos Kalnis
+264 Shuo Shang
+265 Giuseppe De Giacomo
+266 Marco Console
+267 Maurizio Lenzerini
+268 Aaron Hunter
+269 Franois Schwarzentruber
+270 Alexander Feldman
+271 Arjan J. C. van Gemund
+272 Gregory M. Provan
+273 Chenwei Zhang
+274 Nan Du
+275 Philip S. Yu
+276 Wei Fan 0001
+277 Gary Doran
+278 Soumya Ray
+279 Heng Zhang 0006
+280 Yan Zhang 0003
+281 Jinye Peng
+282 Zitong Yu
+283 Ziyu Guan
+284 Alex Pentland
+285 Bart Selman
+286 Carla P. Gomes
+287 Stefano Ermon
+288 Yexiang Xue
+289 Ronald Parr
+290 Hongfu Liu
+291 Hui Xiong 0001
+292 Jie Cao 0001
+293 Junjie Wu 0002
+294 Huawei Shen
+295 Jiafeng Guo
+296 Xueqi Cheng
+297 James R. Foulds
+298 Kamalika Chaudhuri
+299 Max Welling
+300 Deyu Meng
+301 Jun Xiao 0001
+302 Xi Li 0001
+303 Yueting Zhuang
+304 Zhongfei Zhang
+305 Junjie Yao
+306 Yanyan Shen
+307 Ang Li
+308 Judea Pearl
+309 Cuneyt Gurcan Akcora
+310 Murat Kantarcioglu
+311 Yulia R. Gel
+312 Yue Zhang 0004
+313 Benjamin W. Wah
+314 Padraig Cunningham
+315 Mingrui Zhu
+316 Jialie Shen
+317 Lei Zhu 0002
+318 Liqiang Nie
+319 Xiaobai Liu
+320 Branislav Kveton
+321 Shlomo Berkovsky
+322 Zheng Wen
+323 Alberto Marchesi
+324 Matteo Castiglioni
+325 Nicola Gatti 0001
+326 Baojian Zhou
+327 Feng Chen 0001
+328 Wolfgang Faber 0001
+329 Gabriele Kern-Isberner
+330 Manuel Lopes 0001
+331 Marcello Restelli
+332 Weiping Wang 0005
+333 Laurent Siklssy
+334 Jing Zhao 0015
+335 Shiliang Sun
+336 Yuhong Guo
+337 Changshui Zhang
+338 Ivor W. Tsang
+339 Eiichiro Sumita
+340 Masao Utiyama
+341 Yukino Baba
+342 Chang Wang 0001
+343 Sridhar Mahadevan
+344 Meng Wang 0001
+345 Richang Hong
+346 Xing Xie 0001
+347 Yong Ge
+348 Min Yang 0007
+349 Wei Zhao
+350 Xiaojun Chen 0006
+351 Fuli Feng
+352 Guangyao Shen
+353 Jia Jia 0001
+354 Tat-Seng Chua
+355 Benjamin Kuipers
+356 Supriyo Ghosh
+357 Jean-Pierre Jouannaud
+358 Cheng Deng
+359 Heng Huang
+360 Dawei Yin
+361 Hongshen Chen
+362 Rodney A. Brooks
+363 Toms Lozano-Prez
+364 Gang Pan 0001
+365 Hang Yu
+366 Huajin Tang
+367 Yu Qi
+368 Zhaohui Wu 0001
+369 Liron Cohen 0002
+370 Sven Koenig
+371 T. K. Satish Kumar
+372 Tansel Uras
+373 Brian Logan 0001
+374 Natasha Alechina
+375 Hau Chan
+376 Long Tran-Thanh
+377 Martin Lackner
+378 Piotr Skowron 0001
+379 Franois Pachet
+380 Pierre Roy
+381 Fan Zhang
+382 Feifei Ma
+383 Jian Zhang 0001
+384 Pengfei Liu 0003
+385 Xipeng Qiu
+386 Xuanjing Huang 0001
+387 Djallel Bouneffouf 0001
+388 Horst Samulowitz
+389 Martin Wistuba
+390 Srinivasan Parthasarathy 0002
+391 Alan Fern
+392 Nir Oren
+393 Timothy J. Norman
+394 Frank Hutter
+395 Marius Lindauer
+396 Buyue Qian
+397 Fei Wang 0001
+398 Ian Davidson
+399 Jieping Ye
+400 Xiang Wang 0001
+401 Simina Brnzei
+402 Liang Hu 0004
+403 Longbing Cao
+404 Dan Guo
+405 Hui Wang
+406 Francesca Toni
+407 Jihong Ouyang
+408 Ximing Li
+409 Yiming Wang
+410 Jian Yin 0001
+411 Pierre Marquis
+412 Nicholas Mattei
+413 Nina Narodytska
+414 Serge Gaspers
+415 Toby Walsh
+416 Christophe Dousson
+417 Jianping Fan 0001
+418 Cheng Jin
+419 Liang-Jian Deng
+420 Yann Chevaleyre
+421 Yalin Wang 0001
+422 David Tolpin
+423 Solomon Eyal Shimony
+424 Prasad Tadepalli
+425 Sriraam Natarajan
+426 Caiwen Ding
+427 Chenghong Wang
+428 Hang Liu 0001
+429 Jinbo Bi
+430 Brian C. Williams
+431 Douglas E. Appelt
+432 N. S. Sridharan
+433 William R. Swartout
+434 Bernhard Nebel
+435 Jochen Renz
+436 Jean-Marie Lagniez
+437 Nicolas Schwind
+438 Sbastien Konieczny
+439 Enrico H. Gerding
+440 Nicholas R. Jennings
+441 Valentin Robu
+442 Eugene C. Freuder
+443 Matthew L. Ginsberg
+444 Rina Dechter
+445 Jun Wang 0012
+446 Heng Tao Shen
+447 Jingkuan Song
+448 Lianli Gao
+449 Tong Yu 0001
+450 Run Wang
+451 Xiaofei Xie
+452 Yang Liu 0003
+453 Christian Straer
+454 Edmund H. Durfee
+455 Piotr J. Gmytrasiewicz
+456 Mark H. Burstein
+457 Wendy G. Lehnert
+458 Hanmo Wang
+459 Lei Shi 0015
+460 Liang Du 0003
+461 Peng Zhou 0006
+462 Yi-Dong Shen
+463 Xiaochun Cao
+464 Thomas Drakengren
+465 Hongxia Jin
+466 Yilin Shen
+467 Yue Deng 0001
+468 Pierre Hansen
+469 Leonardo Lesmo
+470 Pietro Torasso
+471 Florian Pommerening
+472 Gabriele Rger
+473 Malte Helmert
+474 Alessio Lomuscio
+475 Panagiotis Kouvaros
+476 Steve A. Chien
+477 Marco Roveri
+478 Deli Zhao
+479 Fuchun Sun 0001
+480 Huaping Liu 0001
+481 Bruce G. Buchanan
+482 Reid G. Smith
+483 Tom M. Mitchell
+484 Nenggan Zheng
+485 Xiaofei He 0001
+486 Zhijie Lin
+487 Zhou Zhao
+488 Zhu Zhang
+489 Yanwei Fu
+490 Yi Yang 0001
+491 Kai Zhao
+492 Hongchang Gao
+493 Ho-fung Leung
+494 Shuyue Hu
+495 Shangsong Liang
+496 Dacheng Tao
+497 Diego Calvanese
+498 Anthony Jameson
+499 Wolfgang Wahlster
+500 Christopher W. Geib
+501 Chunyan Miao
+502 Cyril Leung
+503 Hongchao Jiang
+504 Zhiqi Shen 0001
+505 Shijun Wang
+506 Yu Liu
+507 John Thangarajah
+508 Michael Dann
+509 Yuan Yao 0007
+510 Henry Kanoui
+511 Michele Bevilacqua
+512 Roberto Navigli
+513 Abdeslam Boularias
+514 Yoshiaki Shirai
+515 Piyush Rai
+516 Seungjin Choi
+517 Chu Min Li
+518 Felip Many
+519 Fabio Ramos 0001
+520 Jaewoo Kang
+521 Yu-Ru Lin
+522 Jingdong Wang 0001
+523 Zhaoxiang Zhang
+524 David S. Wile
+525 Neil M. Goldman
+526 Robert Balzer
+527 Shikun Feng
+528 Yu Sun
+529 Zhengjie Huang
+530 Adish Singla
+531 Andreas Krause 0001
+532 Eric Horvitz
+533 Pushmeet Kohli
+534 Zhipeng L
+535 Zhouxing Su
+536 Yong Luo 0002
+537 Yonggang Wen 0001
+538 John F. Canny
+539 Tao Gui
+540 Wei Wu 0014
+541 Xintao Wu
+542 Zhi-Hua Zhou
+543 Tongliang Liu
+544 Yinan Li
+545 Huzefa Rangwala
+546 David W. Aha
+547 Dennis F. Kibler
+548 Dale Schuurmans
+549 Finnegan Southey
+550 Marta Kwiatkowska
+551 Scott Sanner
+552 Andr Schidler
+553 Manuel Sorge
+554 Robert Ganian
+555 Stefan Szeider
+556 Chuan Chen 0001
+557 Hai Wan
+558 Fang Kong 0001
+559 Guodong Zhou
+560 Hujun Bao
+561 Ming Ji
+562 Shaowei Cai 0001
+563 Claude-Guy Quimper
+564 Evi Micha
+565 Nisarg Shah 0001
+566 Rupert Freeman
+567 Jaime G. Carbonell
+568 Steven Minton
+569 Min Zhang 0005
+570 Xiangyu Duan
+571 Chong Luo
+572 Zheng-Jun Zha
+573 Hady W. Lauw
+574 Omar El Farouk Bourahla
+575 Shanshan Zhao
+576 Lirong Xia
+577 Qinfeng Shi
+578 Nawal Benabbou
+579 Patrice Perny
+580 Julian Togelius
+581 Philippe Cudr-Mauroux
+582 Anna Helena Reali Costa
+583 Brian Tanner
+584 Mark B. Ring
+585 Richard S. Sutton
+586 Makoto Nagao
+587 Peilin Zhao
+588 Shenghua Gao
+589 Sutanu Chakraborti
+590 Chao Lu
+591 Haifeng Huang
+592 Jun Chen
+593 Quan Yuan
+594 Rui Zhang 0040
+595 Kai Shu
+596 Prashant Doshi
+597 Hoong Chuin Lau
+598 Shih-Fen Cheng
+599 Sanjay Mittal
+600 Yiyu Shi 0001
+601 Zhepeng Wang
+602 Claudio Rullent
+603 Xiao Cai
+604 Edwina L. Rissland
+605 Dominik Wojtczak
+606 Sunil Simon
+607 Sarath Sreedharan
+608 Subbarao Kambhampati
+609 Tathagata Chakraborti
+610 Thomas Schneider 0002
+611 Tam V. Nguyen 0002
+612 Stefan Borgwardt
+613 Jean Christoph Jung
+614 Maurice Funk
+615 Christian Bessiere
+616 Nadjib Lazaar
+617 Franz Wotawa
+618 Ingo Pill
+619 Lijun Zhang 0005
+620 Xiaoyu Wang 0002
+621 Defu Lian
+622 Hao Liu 0026
+623 Huayu Li
+624 Ken-ichi Kawarabayashi
+625 Dongyun Yi
+626 Xinwang Liu
+627 Umberto Grandi
+628 Yiannis Aloimonos
+629 Chris H. Q. Ding
+630 Franz Baader
+631 Tyler Lu
+632 Benjamin Kaufmann
+633 Bernhard Bliem
+634 Stefan Woltran
+635 Yi-Hsuan Yang
+636 Furu Wei
+637 Houfeng Wang
+638 Shuming Ma
+639 Yixin Chen 0001
+640 Weinan Zhang 0001
+641 Yong Yu 0001
+642 Henri Prade
+643 Chen Zhang
+644 Gang Chen 0001
+645 Haobo Wang
+646 Tianlei Hu
+647 Weiwei Liu 0003
+648 Yang Zhao
+649 Sung Wook Yoon
+650 Jeremy L. Wyatt
+651 Richard Dearden
+652 Fei Sun 0001
+653 Fuyu Lv
+654 Keping Yang
+655 Menghan Wang
+656 Yu Zhu
+657 Haoyu Zhang
+658 Ji Wang
+659 Muhua Zhu
+660 Alan M. Frisch
+661 Xiaoming Jin
+662 Paolo Ciancarini
+663 Nicola Muscettola
+664 Paul H. Morris
+665 William C. Regli
+666 Daling Wang
+667 Ge Yu 0001
+668 Kaisong Song
+669 Kam-Fai Wong
+670 Shi Feng
+671 Wei Gao 0001
+672 Giuseppe Carenini
+673 Johanna D. Moore
+674 Yulun Zhang
+675 Hui Xue 0002
+676 Lu Zhang
+677 Jingfang Xu
+678 Minlie Huang
+679 Xiaoyan Zhu 0001
+680 Fei Gao
+681 Quanming Yao
+682 Tie-Yan Liu
+683 Wei Chen 0034
+684 Bettina Fazzinga
+685 Oana Tifrea-Marciuska
+686 Thomas Lukasiewicz
+687 Dirk Pattinson
+688 Lutz Schrder
+689 Francesco Parisi
+690 Gianvincenzo Alfano
+691 Irina Trubitsyna
+692 Sergio Greco
+693 Derek Long
+694 Maria Fox 0001
+695 Takeo Kanade
+696 Luigi Sauro
+697 Piero A. Bonatti
+698 Hongzhi Yin
+699 Quoc Viet Hung Nguyen
+700 Tong Chen 0005
+701 Debarun Bhattacharjya
+702 Dharmashankar Subramanian
+703 Tian Gao
+704 Katsumi Inoue
+705 Tobias Kaminski
+706 Hidde de Jong
+707 Paola Velardi
+708 Stefano Faralli 0001
+709 Dandan Song
+710 Hao Wu
+711 Xi Zhang
+712 Wu-Jun Li
+713 Dongsheng Li 0002
+714 Jiang Bian 0002
+715 Kan Ren
+716 Minghuan Liu
+717 Weiqing Liu
+718 Qi Zhang
+719 Chitta Baral
+720 Rohini K. Srihari
+721 Sargur N. Srihari
+722 Risto Miikkulainen
+723 Xiaofang Zhou 0001
+724 Louise Trav-Massuys
+725 Yoram Moses
+726 Hongteng Xu
+727 Lawrence Carin
+728 Timothy W. Finin
+729 Zenglin Xu
+730 Zhao Kang 0001
+731 Malik Ghallab
+732 David Rajaratnam
+733 Michael Thielscher
+734 Jiawei Han 0001
+735 Quanquan Gu
+736 Di Chen 0001
+737 Yada Zhu
+738 Michael J. Wooldridge
+739 Paul Harrenstein
+740 Thomas gotnes
+741 Wiebe van der Hoek
+742 Liang Lin
+743 Bo Li 0037
+744 Jiarui Gan
+745 Xiaowei Wu 0001
+746 Pengfei Zhu
+747 Qinghua Hu
+748 Bingzhe Wu
+749 Chaochao Chen 0001
+750 Jia Wu 0001
+751 Jun Zhou 0011
+752 Lingjuan Lyu
+753 Xiaolin Zheng
+754 Ziqi Liu
+755 Bin Ren
+756 Wei Niu
+757 Xue Lin
+758 Yanzhi Wang
+759 Lei Li 0005
+760 Stuart Russell 0001
+761 Yi Wu
+762 Chenrui Zhang
+763 Haibin Ling
+764 Leslie Pack Kaelbling
+765 Jinkun Lin
+766 Yiyuan Wang
+767 C. Lee Giles
+768 Cornelia Caragea
+769 Prasenjit Mitra
+770 Jianfei Cai 0001
+771 Yuan-Fang Li
+772 Xiaowei Huang 0001
+773 Felix Brandt 0001
+774 Markus Brill
+775 Miquel Ramrez
+776 Nir Lipovetzky
+777 Felipe Meneguzzi
+778 Mor Vered
+779 Bo Xu 0002
+780 Jun Zhao 0001
+781 Yong Cao
+782 Cheng Fu
+783 Le Sun 0001
+784 Xianpei Han
+785 Liwei Wang 0001
+786 Arindam Banerjee 0001
+787 Fangzhen Lin
+788 Witold Lukaszewicz
+789 Chuanqi Tan
+790 Fei Huang 0004
+791 Huajun Chen
+792 Luo Si
+793 Ningyu Zhang 0001
+794 Shumin Deng
+795 Daochen Zha
+796 Kwei-Herng Lai
+797 Xia Hu
+798 Jiayu Zhou
+799 Shiyu Chang
+800 Thomas S. Huang
+801 Yishay Mansour
+802 Rui Zhang
+803 Xingjun Ma
+804 Alexandre Niveau
+805 Hlne Fargier
+806 Leonid Libkin
+807 Bo Zhang 0010
+808 Hang Su 0006
+809 Jun Zhu 0001
+810 Chao Zhang 0029
+811 Hui Qian 0001
+812 Zebang Shen
+813 Oskar Skibski
+814 Huiji Gao
+815 Leilei Sun
+816 Liangzhe Han
+817 Yair Zick
+818 Pingzhong Tang
+819 Zihe Wang 0001
+820 Yu Chen
+821 Zhu Sun
+822 Sebastian Tschiatschek
+823 Jeremy Kubica
+824 Jilles Steeve Dibangoye
+825 Olivier Buffet
+826 Gongfan Fang
+827 Mingli Song
+828 Xinchao Wang
+829 Yao Hu
+830 Jan Maly 0001
+831 Bin Wang 0021
+832 Guiguang Ding
+833 Jungong Han
+834 Sarah M. Erfani
+835 Herbert A. Simon
+836 Michael R. Genesereth
+837 Alessandro Artale
+838 Ana Ozaki
+839 David L. Waltz
+840 Martin Mladenov
+841 Samuel Kolb
+842 Vaishak Belle
+843 Thao Minh Le
+844 Truyen Tran 0001
+845 Vuong Le
+846 Alon Altman
+847 Xuhui Fan
+848 Alok N. Choudhary
+849 Ankit Agrawal 0001
+850 Kunpeng Zhang
+851 Nagiza F. Samatova
+852 Yu Cheng 0001
+853 Zhengzhang Chen
+854 Yiu-ming Cheung
+855 Fei Fang
+856 Gerald DeJong
+857 Shankar A. Rajamoney
+858 Chao Zhang
+859 Manuela M. Veloso
+860 Michael H. Bowling
+861 Alan L. Yuille
+862 Chang Liu
+863 Changhu Wang
+864 Ed H. Chi
+865 Honglak Lee
+866 Martin A. Fischler
+867 Oscar Firschein
+868 Barry Smyth
+869 Maurice Coyle
+870 Stefano Melacci
+871 Hangwei Qian
+872 Hang Li
+873 Katashi Nagao
+874 Kiti Hasida
+875 Bo Du 0001
+876 Mingming Gong
+877 Kewen Wang 0001
+878 Bao-Liang Lu
+879 Hai Zhao
+880 Jiashi Feng
+881 Jie Fu
+882 Kian Hsiang Low
+883 Avigdor Gal
+884 Erez Karpas
+885 Sarah Keren
+886 Kohei Hayashi
+887 Yuto Yamaguchi
+888 Thierry Petit
+889 Peter Szolovits
+890 Chenggang Yan 0001
+891 Jiyong Zhang
+892 Yuchen Guo
+893 Keiji Kanazawa
+894 Frank Wolter
+895 Sinno Jialin Pan
+896 Christopher Leckie
+897 Carlos Guestrin
+898 Haiqin Yang
+899 David E. Smith 0001
+900 Joel E. Fischer
+901 Sheng Wang
+902 Wang-Cheng Kang
+903 Bing Qin 0001
+904 Xiachong Feng
+905 Xiaocheng Feng
+906 Andreas Pfandler
+907 Stefan Rmmele
+908 Shuiwang Ji
+909 Sudhir Kumar 0001
+910 Martha White
+911 John P. McDermott
+912 Mausam
+913 Rohan Paul
+914 Xiaoyong Du 0001
+915 Tong Xia
+916 Yong Li 0008
+917 Shirui Pan
+918 Argyrios Deligkas
+919 Chen Wang 0008
+920 Liming Zhu 0001
+921 Wei Liu 0007
+922 Carles Sierra
+923 Adi Botea
+924 Akihiro Kishimoto
+925 Hozumi Tanaka
+926 Makoto Iwayama
+927 Takenobu Tokunaga
+928 Qun Li
+929 Stefano Ferilli
+930 Ming Zhou 0001
+931 Weifeng Lv
+932 Hendrik Blockeel
+933 Jan Ramon
+934 Maurice Bruynooghe
+935 Dana H. Ballard
+936 Faraz Torabi
+937 Peter Stone
+938 Ruohan Zhang
+939 Ying Wei 0001
+940 Yu Zhang 0006
+941 Bruce W. Porter
+942 Jun Wang
+943 Shiwei Tong
+944 Zhenya Huang
+945 Wanli Shi
+946 Xiang Geng
+947 Aravind K. Joshi
+948 Bonnie L. Webber
+949 Eric Mays
+950 Edwin R. Hancock
+951 Junchi Yan
+952 Samir Loudni
+953 Edward A. Feigenbaum
+954 Minnan Luo
+955 Qinghua Zheng
+956 Minghao Yin
+957 Yew Soon Ong
+958 Le Zhang 0010
+959 Tong Xu 0001
+960 Vibhav Gogate
+961 Levi H. S. Lelis
+962 Michael Bowling
+963 Nathan R. Sturtevant
+964 Joshua B. Tenenbaum
+965 Rong Pan
+966 Kenneth D. Forbus
+967 Marc Cavazza
+968 Yifeng Zeng
+969 The Anh Han
+970 Nicolas Peltier
+971 Omer Lev
+972 Roie Zivan
+973 Jeffrey O. Kephart
+974 Rajarshi Das
+975 William E. Walsh
+976 Gal Chechik
+977 Dietmar Jannach
+978 Yun Fu 0001
+979 Qianhui Liu
+980 Christopher Jefferson
+981 Peter Nightingale
+982 Hongyuan Zha
+983 Yi Zhen
+984 Bartosz Zielinski 0001
+985 Hao Li
+986 Qi Zhang 0001
+987 Yeyun Gong
+988 Paul D. Scott
+989 Kate Larson
+990 Svetha Venkatesh
+991 Horace J. Enea
+992 Kenneth Mark Colby
+993 Yongmei Liu 0001
+994 Pascal Lenzner
+995 Tobias Friedrich 0001
+996 Francesco Scarcello
+997 Yangchen Pan
+998 Deng Cai 0001
+999 Shulong Tan
+1000 Wei Zhao 0019
+1001 Xiaoping Chen
+1002 Jay Pujara
+1003 Lise Getoor
+1004 Ping Li 0001
+1005 Stphane Demri
+1006 Frdric Koriche
+1007 Lin Zhu
+1008 Yihong Chen
+1009 Yuxin Peng
+1010 Bin Wang 0004
+1011 Jinsong Su
+1012 Linfeng Song
+1013 Yubao Liu
+1014 Eric Eaton
+1015 Byron Choi
+1016 Jianliang Xu
+1017 Guy Van den Broeck
+1018 Ting Liu 0001
+1019 Christopher Amato
+1020 Franois Charpillet
+1021 Jimmy Ho-Man Lee
+1022 Peter J. Stuckey
+1023 Robert C. Bolles
+1024 Biplav Srivastava
+1025 Di Wang 0008
+1026 Mingyu Fan
+1027 Xiaoqin Zhang 0002
+1028 David McArthur
+1029 Handong Zhao
+1030 Jun Li 0027
+1031 Zhiqiang Tao
+1032 Chiaki Sakama
+1033 Jae Hee Lee 0001
+1034 Peng Zhang 0021
+1035 Xiaoyu Ge
+1036 Chao Huang 0001
+1037 Liefeng Bo
+1038 Hector J. Levesque
+1039 John Mylopoulos
+1040 Milind Tambe
+1041 Paul S. Rosenbloom
+1042 Anne-Marie George
+1043 Nic Wilson
+1044 Kaile Su
+1045 Ke Xu 0001
+1046 Zhen Xiao
+1047 Pascal Van Hentenryck
+1048 Yves Deville
+1049 Giovanni Amendola
+1050 Cai Xu
+1051 Hady Wirawan Lauw
+1052 Tuan M. V. Le
+1053 Jianye Hao
+1054 Yali Du
+1055 Florian Brandl
+1056 Tom Bylander
+1057 Yuening Li
+1058 David Poole 0001
+1059 Dinh Q. Phung
+1060 Trung Le
+1061 Tu Dinh Nguyen
+1062 Michael P. Wellman
+1063 Guozheng Li
+1064 Peng Wang
+1065 Xu Chen
+1066 Benedek Rozemberczki
+1067 Sebastian Nilsson
+1068 Stephen Bonner
+1069 Hong Chang
+1070 Ke Chen 0004
+1071 Cao Xiao
+1072 Chaoqi Yang
+1073 Jimeng Sun 0001
+1074 Lucas Glass
+1075 Di Jin 0001
+1076 Dongxiao He
+1077 Rui Wang
+1078 Wei Lin
+1079 Weixiong Zhang
+1080 Xiang Li
+1081 Giovanni Guida
+1082 Xiaoli Li 0001
+1083 Xin Liu
+1084 Yong Liu 0020
+1085 Shuicheng Yan
+1086 Xiaojie Jin
+1087 Yunpeng Chen
+1088 Bo Li 0026
+1089 Dawn Song
+1090 Ron Lavi
+1091 Evgeny Kharlamov
+1092 Gong Cheng 0001
+1093 Kalpa Gunaratna
+1094 Wen Zhang 0015
+1095 Wei-Shi Zheng 0001
+1096 Jintao Li 0001
+1097 Yongdong Zhang 0001
+1098 Anton Dries
+1099 Luc De Raedt
+1100 Tias Guns
+1101 Jun Xu
+1102 Lin Xu
+1103 Chang Xu 0002
+1104 Christophe Lecoutre
+1105 Xiaohong Li 0001
+1106 Can Wang 0001
+1107 Hongxia Yang
+1108 Jiajun Bu
+1109 Jianwei Zhang 0012
+1110 Ofra Amir
+1111 Ya'akov (Kobi) Gal
+1112 Vadim Bulitko
+1113 Yngvi Bjrnsson
+1114 Jordi Sabater-Mir
+1115 Daniel Hller
+1116 Gregor Behnke
+1117 Susanne Biundo
+1118 Jing Qin 0001
+1119 Hwee Tou Ng
+1120 Junbo Zhang
+1121 Tianrui Li 0001
+1122 Xiuwen Yi
+1123 Yu Zheng 0004
+1124 Alban Grastien
+1125 Jussi Rintanen
+1126 Stephen F. Smith
+1127 Mohan S. Kankanhalli
+1128 Xiangnan He 0001
+1129 Xuemeng Song
+1130 Zhiyong Cheng 0001
+1131 Koen V. Hindriks
+1132 Zhongfei (Mark) Zhang
+1133 Brahim Chaib-draa
+1134 Ming Hou
+1135 Lei Yuan
+1136 Yang Yu 0001
+1137 Zongzhang Zhang
+1138 Alessandro Farinelli
+1139 Georgios Chalkiadakis
+1140 Cunchao Tu
+1141 Maosong Sun
+1142 Zhiyuan Liu 0001
+1143 Carlos Anstegui
+1144 Meinolf Sellmann
+1145 Yuri Malitsky
+1146 Francesco M. Donini
+1147 Tommaso Di Noia
+1148 Edith Elkind
+1149 Jitendra Malik
+1150 Thomas O. Binford
+1151 Alan Bundy
+1152 Frank van Harmelen
+1153 Ingrid Zukerman
+1154 Sheila Tejada
+1155 Wei Huang
+1156 Jing Yuan 0007
+1157 Fahiem Bacchus
+1158 Matthew Kitching
+1159 Amitava Bagchi
+1160 Anup K. Sen
+1161 Bo An 0001
+1162 Lei Feng 0006
+1163 Andrew G. Barto
+1164 Gerhard Widmer
+1165 Andrey Kolobov
+1166 Ece Kamar
+1167 Han Yu 0001
+1168 Lizhen Cui
+1169 Fuzhen Zhuang
+1170 Jiajie Xu 0001
+1171 Pengpeng Zhao
+1172 Victor S. Sheng
+1173 Yanchi Liu
+1174 Bernd Neumann
+1175 Hans-Hellmut Nagel
+1176 Inan Seylan
+1177 Fan Yang
+1178 Georg Gottlob
+1179 Reinhard Pichler
+1180 W. W. Bledsoe
+1181 Faez Ahmed
+1182 John P. Dickerson
+1183 Matthias Weidlich
+1184 Nguyen Quoc Viet Hung
+1185 Noam Brown
+1186 Marco Gori
+1187 Kristen Brent Venable
+1188 Neil Yorke-Smith
+1189 Kostas Stergiou 0001
+1190 Carlos Hernndez 0003
+1191 Pedro Meseguer
+1192 Jinpeng Huai
+1193 Richong Zhang
+1194 Yongyi Mao
+1195 Hiroshi Mamitsuka
+1196 Shanfeng Zhu
+1197 Xiaoqian Wang 0001
+1198 Douglas B. Lenat
+1199 Tetsuya Higuchi
+1200 Akira Kurematsu
+1201 Pong C. Yuen
+1202 Xiangyuan Lan
+1203 Juan A. Rodrguez-Aguilar
+1204 Mark d'Inverno
+1205 Branislav Bosansk
+1206 Viliam Lis
+1207 Michael L. Littman
+1208 L. Venkata Subramaniam
+1209 Sameep Mehta
+1210 Tanveer A. Faruquie
+1211 Li Liu 0004
+1212 Carlo Strapparava
+1213 Daniel D. Lee
+1214 Filippo Furfaro
+1215 Sergio Flesca
+1216 Inon Zuckerman
+1217 Sarit Kraus
+1218 Kai Zhang 0001
+1219 Lu-An Tang
+1220 Ting Chen 0007
+1221 Yizhou Sun
+1222 Carl Yang
+1223 Hao Peng
+1224 Jianxin Li 0002
+1225 Lichao Sun 0001
+1226 Lifang He 0001
+1227 Jinyuan Jia
+1228 Jie Zhou 0001
+1229 Pascal Poupart
+1230 Shan You
+1231 Svetlana Obraztsova
+1232 Irwin King
+1233 Michael R. Lyu
+1234 Bai Wang 0001
+1235 Bryan Hooi
+1236 Chuan Shi
+1237 Shenghua Liu
+1238 Minh Dao-Tran
+1239 Aming Wu
+1240 Jaesik Choi
+1241 Nan Li
+1242 Robert S. Boyer
+1243 Fan Zhang 0098
+1244 Xiaocheng Tang
+1245 Zhiwei (Tony) Qin
+1246 Tran Cao Son
+1247 Xindong Wu 0001
+1248 Jack Minker
+1249 Jorge Prez 0001
+1250 Olivier Spanjaard
+1251 Pavlos Peppas
+1252 Jude W. Shavlik
+1253 Raymond J. Mooney
+1254 Michalis Vazirgiannis
+1255 Junhua Gu
+1256 Liang Yang 0002
+1257 Yuanfang Guo
+1258 Hui Wang 0001
+1259 Chenliang Li
+1260 Long Xia
+1261 Samir Chopra
+1262 Arpita Biswas
+1263 Xiaoou Tang
+1264 Lee D. Erman
+1265 Erel Segal-Halevi
+1266 Warut Suksompong
+1267 Jin Huang
+1268 Ron Kohavi
+1269 Baochang Zhang 0001
+1270 Chen Chen 0001
+1271 Jianzhuang Liu
+1272 Jie-Hong R. Jiang
+1273 Wenye Li 0001
+1274 Dou Shen
+1275 Lan Yi
+1276 Davide Grossi
+1277 Guilin Li
+1278 Ruiming Tang
+1279 Yunhe Wang 0001
+1280 Zhenguo Li
+1281 Jean-Franois Baget
+1282 Marie-Laure Mugnier
+1283 Hanchao Ma
+1284 Yinghui Wu
+1285 Fbio Gagliardi Cozman
+1286 Laurent Simon
+1287 Sanjay Modgil
+1288 Luming Zhang
+1289 Silvan Sievers
+1290 Thomas Keller 0001
+1291 Ariel D. Procaccia
+1292 Christian Bhm
+1293 Junming Shao
+1294 Benjamin Aminof
+1295 Sasha Rubin
+1296 Mang Ye
+1297 Jesse Heyninck
+1298 Matthias Thimm
+1299 Tjitze Rienstra
+1300 William Yang Wang
+1301 Neil Burch
+1302 Kenji Araki
+1303 Rafal Rzepka
+1304 Allan D. Jepson
+1305 John K. Tsotsos
+1306 Shoushan Li
+1307 Zhongqing Wang
+1308 Yue Gao 0002
+1309 Bernhard Pfahringer
+1310 Russell Greiner
+1311 Chengxiang Zhai
+1312 Jos Hernndez-Orallo
+1313 Branimir Boguraev
+1314 Bin Liu 0045
+1315 Yanjie Fu
+1316 Zijun Yao 0001
+1317 Helen C. Wolf
+1318 Feiyue Huang
+1319 Rongrong Ji
+1320 Shaohui Lin
+1321 Yongjian Wu
+1322 Ruobing Xie
+1323 Baihua Zheng
+1324 Qize Jiang
+1325 Weiwei Sun 0008
+1326 Flavian Vasile
+1327 Bernardo Cuenca Grau
+1328 Yevgeny Kazakov
+1329 Fan Wang
+1330 Hua Wu 0003
+1331 Jinhua Peng
+1332 Min Xie
+1333 Keki B. Irani
+1334 Yahong Han
+1335 Richard L. Lewis
+1336 Satinder Singh 0001
+1337 Yuanlin Zhang 0002
+1338 Tengfei Ma 0001
+1339 Tianbao Yang
+1340 Ambuj K. Singh
+1341 Arlei Silva
+1342 Virginia Vassilevska Williams
+1343 Laurent Orseau
+1344 Johan de Kleer
+1345 Daniel Fiser
+1346 Ruzena Bajcsy
+1347 Daniele Nardi
+1348 Boris Motik
+1349 Giorgos Stoilos
+1350 Sylvie Thibaux
+1351 Yi Ren 0006
+1352 Hongyan Li 0002
+1353 Shenda Hong
+1354 Isabelle Alvarez
+1355 Jianqiang Huang
+1356 Zhiping Cai
+1357 Barbara J. Grosz
+1358 Yulong Pei
+1359 Hsuan-Tien Lin
+1360 Antoine Cornujols
+1361 De-Chuan Zhan
+1362 Han-Jia Ye
+1363 Yang Yang 0074
+1364 Yuan Jiang 0001
+1365 Maria L. Gini
+1366 John L. Bresina
+1367 Mark Drummond
+1368 Salem Benferhat
+1369 Jialin Zhang 0001
+1370 Xiaoming Sun
+1371 David Sarne
+1372 Simon Dixon
+1373 Andrew Lim 0001
+1374 Katia P. Sycara
+1375 Ke Chen 0005
+1376 Holger H. Hoos
+1377 Kevin Leyton-Brown
+1378 Shaojie Tang
+1379 Zi Huang
+1380 Ping Luo 0001
+1381 Qing He 0003
+1382 Rui Chen
+1383 Hailong Sun 0001
+1384 Chin-Yew Lin
+1385 Yunbo Cao
+1386 James R. Slagle
+1387 Yiming Zhang 0002
+1388 Yiyue Qian
+1389 Eugenia Ternovska
+1390 Dongmo Zhang
+1391 Laurent Perrussel
+1392 Ming Li 0005
+1393 Gao Cong
+1394 Tianyi Zhou 0001
+1395 Hiroki Arimura
+1396 Bruno Lacerda
+1397 Nick Hawes
+1398 Burak Uzkent
+1399 David B. Lobell
+1400 Marshall Burke
+1401 Pierre Schaus
+1402 Bamshad Mobasher
+1403 Mehdi Dastani
+1404 Mykel J. Kochenderfer
+1405 Makoto Nakatsuji
+1406 Yasuhiro Fujiwara
+1407 David A. Bell
+1408 Jian Wu
+1409 Ling-Yu Duan
+1410 Tiejun Huang 0001
+1411 Wen Gao 0001
+1412 Benjamin C. M. Fung
+1413 Kejing Yin
+1414 William K. Cheung
+1415 Rene Quiniou
+1416 Thomas Guyet
+1417 Fuzheng Zhang
+1418 Guangzhong Sun
+1419 Jianxun Lian
+1420 Michael Winikoff
+1421 Xianggen Liu
+1422 Xueyang Fu
+1423 Tengfei Zhou
+1424 Brian Milch
+1425 David A. Sontag
+1426 Yoad Lewenberg
+1427 Kele Xu
+1428 Franco Turini
+1429 Yangqiu Song
+1430 Feng Zhu 0011
+1431 Guanfeng Liu 0001
+1432 Longfei Li
+1433 Yan Wang 0002
+1434 Jake K. Aggarwal
+1435 Juntao Li
+1436 Lidong Bing
+1437 Rui Yan 0001
+1438 Shaul Markovitch
+1439 Moiss Goldszmidt
+1440 Zhouchen Lin
+1441 Alexander G. Hauptmann
+1442 Xiaojun Chang
+1443 Canh Hao Nguyen
+1444 Lu Sun 0001
+1445 Can Liu
+1446 Hao Yang 0037
+1447 Jinghua Feng
+1448 Li Sun
+1449 Xiang Ao 0001
+1450 Carlotta Domeniconi
+1451 Guoxian Yu
+1452 Jun Wang 0035
+1453 Casimir A. Kulikowski
+1454 Pin-Yu Chen
+1455 Sijia Liu 0001
+1456 Haixun Wang
+1457 Hongsong Li
+1458 Weizhu Chen
+1459 Zhongyuan Wang 0006
+1460 Lu Wang
+1461 Jie Tang 0001
+1462 Ming Ding 0004
+1463 Yukuo Cen
+1464 Haym Hirsh
+1465 Xiaolong Li 0005
+1466 M. Narasimha Murty
+1467 Paul E. Johnson
+1468 William B. Thompson
+1469 Guangda Huzhang
+1470 Shengyu Zhang 0002
+1471 Xiaohui Bei
+1472 Xin Huang
+1473 Kan Wu
+1474 Joseph Y. Halpern
+1475 Karthik Sankaranarayanan
+1476 Soumen Chakrabarti
+1477 Bihan Wen
+1478 Zhangyang Wang
+1479 Larry A. Rendell
+1480 Reid G. Simmons
+1481 Shuqiang Jiang
+1482 Tianyu Zhang
+1483 Yong Rui
+1484 Geng Yuan
+1485 Jiexiong Guan
+1486 Pei Yang 0001
+1487 Siddhartha Banerjee
+1488 Andreas Pieris
+1489 Michael Morak
+1490 Pierre Bourhis
+1491 Daniel Le Berre
+1492 Mary-Anne Williams
+1493 Pengfei Jiao
+1494 Jonathan Ben-Naim
+1495 Leila Amgoud
+1496 Anan Liu
+1497 Weizhi Nie
+1498 Wenhui Li
+1499 Yuting Su 0001
+1500 Christian Kroer
+1501 Hai Jin 0001
+1502 Nan Cao
+1503 Teng Zhang 0001
+1504 David Pearce 0001
+1505 Pedro Cabalar
+1506 Chunxiao Xing
+1507 Jin Wang 0007
+1508 Kai Zheng 0001
+1509 Yong Zhang 0002
+1510 Jean Lieber
+1511 Nicolas Usunier
+1512 Anders Jonsson
+1513 Javier Segovia Aguas
+1514 Sergio Jimnez Celorrio
+1515 Robert A. Morris 0001
+1516 Jianguo Xiao
+1517 Xiaojun Wan 0001
+1518 Michele Donini
+1519 Paolo Frasconi
+1520 Sambaran Bandyopadhyay
+1521 Li He
+1522 Qi Meng
+1523 Zhiming Ma
+1524 Yves Kodratoff
+1525 Zhongyu Wei
+1526 Huayu Wu 0001
+1527 Nimrod Talmon
+1528 Pallavi Jain 0001
+1529 Saket Saurabh 0001
+1530 Sushmita Gupta
+1531 Haifeng Chen
+1532 Jingchao Ni
+1533 Xiao Yu 0007
+1534 Bryan Wilder
+1535 Nathan Srebro
+1536 Huan Xu
+1537 Shie Mannor
+1538 Changlong Sun
+1539 Qiaoming Zhu
+1540 Dinggang Shen
+1541 Zhenghua Li
+1542 Wenqi Zhang
+1543 Tim Oates 0001
+1544 Daniel Halpern 0002
+1545 Quanxue Gao
+1546 Yang Liu 0069
+1547 Zhiang Wu 0001
+1548 Longin Jan Latecki
+1549 Gregg Collins
+1550 Jakob Suchan
+1551 Mehul Bhatt
+1552 Michael Spranger
+1553 Hao Chen
+1554 Siddharth Barman
+1555 Michael S. Ryoo
+1556 Ji Zhang
+1557 Baocai Yin
+1558 Junbin Gao
+1559 Werner Dilger
+1560 Dengji Zhao
+1561 Pasin Manurangsi
+1562 Zhengming Ding
+1563 Daniel S. Yeung
+1564 Lei Xiao
+1565 Andrew Y. Ng
+1566 Michael J. Kearns
+1567 Bin Wang 0015
+1568 Wei Wang 0011
+1569 Xianchao Zhang
+1570 Xiaochun Yang 0001
+1571 Bingbing Ni
+1572 Marcus Bjreland
+1573 Akshat Kumar
+1574 Daniel Sheldon
+1575 XiaoJian Wu
+1576 Fabio Patrizi
+1577 Marco Montali
+1578 Wolfram Burgard
+1579 Derek Hao Hu
+1580 Jie Yin
+1581 Vincent Wenchen Zheng
+1582 Niclas Boehmer
+1583 Piotr Faliszewski
+1584 Rolf Niedermeier
+1585 Stanislaw Szufa
+1586 Tomasz Was
+1587 Franco Raimondi
+1588 Gaurav Gupta
+1589 Shalini Ghosh
+1590 Carl Hewitt
+1591 Xianglong Liu 0001
+1592 Yue He 0001
+1593 Yuqing Ma
+1594 David Kempe 0001
+1595 Yevgeniy Vorobeychik
+1596 Mauro Vallati
+1597 Hao Wang
+1598 Wen-Ji Zhou
+1599 Chaoyue Wang
+1600 Dong Yuan
+1601 B. Chandrasekaran 0001
+1602 Zijia Lin
+1603 Paul E. Dunne
+1604 Pietro Baroni
+1605 Dusan Knop
+1606 Robert Bredereck
+1607 Francesca Rossi
+1608 Maria Silvia Pini
+1609 Kaixiong Zhou
+1610 Jilin Li
+1611 Shouhong Ding
+1612 Taiping Yao
+1613 Chuan Wang 0002
+1614 Jesse Davis
+1615 Luis Enrique Sucar
+1616 Duane Szafron
+1617 Luis Enrique Pineda
+1618 Leendert W. N. van der Torre
+1619 Di Wang 0015
+1620 Andrew Perrault
+1621 Dan Roth
+1622 Marcel Steinmetz
+1623 Jos C. Prncipe
+1624 Shujian Yu
+1625 Jie Zhou 0016
+1626 Qun Liu 0001
+1627 Senzhang Wang
+1628 Ivan Stojkovic
+1629 Zoran Obradovic
+1630 Jingjing Li 0001
+1631 Dimitris Plexousakis
+1632 Changjie Fan
+1633 Yingfeng Chen
+1634 Michael Buro
+1635 Timothy Furtak
+1636 Wei Zhang 0022
+1637 Yijun Wang
+1638 Roland H. C. Yap
+1639 Julie Porteous
+1640 Peter G. Selfridge
+1641 Ronald J. Brachman
+1642 Tom Fawcett
+1643 Rebecca Eifler
+1644 Olivier Pietquin
+1645 Zhiguo Gong
+1646 Mark E. Stickel
+1647 Jinbo Huang
+1648 Donghong Ji
+1649 Fei Li
+1650 Meishan Zhang
+1651 Takehisa Yairi
+1652 Weiran Shen
+1653 Andreas Herzig
+1654 Haifeng Xu
+1655 Yusuke Iwasawa
+1656 Yutaka Matsuo
+1657 Wei Wei
+1658 Ken Satoh
+1659 Luks Chrpa
+1660 Bing Liu 0001
+1661 Dongyan Zhao 0001
+1662 Yansong Feng
+1663 Kaiqi Huang
+1664 Jinqiao Wang
+1665 Junjun Jiang
+1666 Ruimin Hu
+1667 Yi Yu 0001
+1668 Yanyun Qu
+1669 Yuan Xie 0006
+1670 Michael G. Dyer
+1671 Michael J. Pazzani
+1672 Li Liu
+1673 Nanning Zheng 0001
+1674 Yihong Gong
+1675 Wentao Ouyang
+1676 Ira P. Goldstein
+1677 Pascal Bercher
+1678 Evangelos Markakis
+1679 Georgios Amanatidis
+1680 Georgios Birmpas
+1681 Dongha Lee
+1682 Hwanjo Yu
+1683 Norman Y. Foo
+1684 Armando Tacchella
+1685 Luca Pulina
+1686 Susan Craw
+1687 Peter A. Flach
+1688 Shmuel Katz
+1689 Zohar Manna
+1690 Ccile Paris
+1691 Srdjan Vesic
+1692 Francesco Belardinelli
+1693 Hisashi Kashima
+1694 Yasushi Kawase
+1695 David Page
+1696 Raghu Ramakrishnan
+1697 Vtor Santos Costa
+1698 Qian Wang 0002
+1699 Jianpeng Xu
+1700 Lifeng Luo
+1701 Pang-Ning Tan
+1702 Tyler Wilson
+1703 Sad Jabbour
+1704 Yacine Izza
+1705 Vijay Chandrasekhar 0001
+1706 Yuan Fang 0001
+1707 Mojtaba Montazery
+1708 Paolo Viappiani
+1709 Yuta Saito
+1710 Alice X. Zheng
+1711 Michael I. Jordan
+1712 Maria Polukarov
+1713 Tim Althoff
+1714 Yoav Shoham
+1715 Dongdong Zhang 0001
+1716 Jian Yang
+1717 Zhoujun Li 0001
+1718 Lizhuang Ma
+1719 Ralf Mller 0001
+1720 Shengrui Wang
+1721 Dong Wang
+1722 Jinjie Gu
+1723 Qiang Li
+1724 Yang Zhang
+1725 Zhiqiang Zhang 0012
+1726 Ximing Wen
+1727 Arnaud Lallouet
+1728 Jian Shen 0003
+1729 Ming Zhou
+1730 Takuya Akiba
+1731 Yuichi Yoshida
+1732 Emmanuel Hebrard
+1733 Hao Fei 0001
+1734 Jingye Li
+1735 Shengqiong Wu
+1736 Hal Daum III
+1737 Suresh Venkatasubramanian
+1738 Zhi-Hong Deng
+1739 Lakhdar Sais
+1740 Can Qin
+1741 Wenliang Zhong
+1742 Silvia Coradeschi
+1743 Thierry Vidal
+1744 Aron Culotta
+1745 Dit-Yan Yeung
+1746 Craig A. Knoblock
+1747 Ion Muslea
+1748 Bo Jin 0003
+1749 Wenhao Li
+1750 Xiangfeng Wang
+1751 Marcelo Arenas
+1752 Xin Tan
+1753 Christel Vrain
+1754 S. S. Ravi
+1755 Dragan Doder
+1756 Angelika Kimmig
+1757 Fusun Yaman
+1758 Qing Li
+1759 Benjamin Lubin
+1760 Sven Seuken
+1761 Jesse Thomason
+1762 Dingyi Fang
+1763 Lei Wang
+1764 Pengfei Xu 0003
+1765 Xiaojiang Chen
+1766 Xin Cao 0001
+1767 Xuefeng Chen 0001
+1768 Yixiang Fang
+1769 Joohyung Lee 0002
+1770 Volker Tresp
+1771 John E. Laird
+1772 Xinyu Zhang
+1773 Zhigang Wang
+1774 Min Chi
+1775 Xi Yang 0019
+1776 Yuan Zhang
+1777 Liang Sun 0001
+1778 Shipeng Yu
+1779 Ashish Kapoor
+1780 Jie Zhao 0013
+1781 Xiaodong He 0001
+1782 Zhijie Qiu
+1783 Harry E. Pople
+1784 William A. Martin
+1785 Omid Madani
+1786 Chun Yuan
+1787 Dieter Fox
+1788 Jerome A. Feldman
+1789 Arkadii Slinko
+1790 George W. Ernst
+1791 Ranan B. Banerji
+1792 Libo Qin 0001
+1793 Magdalena Ortiz 0001
+1794 Carlos Linares Lpez
+1795 Roni Stern
+1796 Leye Wang
+1797 Felipe W. Trevizan
+1798 Patrik Haslum
+1799 Binqiang Zhao
+1800 Corin R. Anderson
+1801 Daniel S. Weld
+1802 Pedro M. Domingos
+1803 Yan Liu
+1804 Ji-Rong Wen
+1805 Jing Jiang 0001
+1806 Wayne Xin Zhao
+1807 Ferdinando Fioretto
+1808 Guodong Guo
+1809 Kai Liu
+1810 Tianyi Wu
+1811 Barnabs Pczos
+1812 Wei-Cheng Chang
+1813 Yiming Yang
+1814 Cheng Wang 0003
+1815 Chenglu Wen
+1816 Jonathan Li 0001
+1817 Xu Tan 0003
+1818 Chuan Zhou 0001
+1819 Hong Yang
+1820 Jianlong Tan
+1821 Li Guo 0001
+1822 Daniel P. Miranker
+1823 Salvatore J. Stolfo
+1824 Markus Stumptner
+1825 Chao Bian 0002
+1826 Frank Neumann 0001
+1827 Kathleen R. McKeown
+1828 Shuo Chen 0008
+1829 Abhaya C. Nayak
+1830 Radu Marinescu 0002
+1831 Bob J. Wielinga
+1832 Qingliang Chen
+1833 Balder ten Cate
+1834 Enrico Franconi
+1835 Jian Yang 0003
+1836 Penousal Machado
+1837 Rui Li
+1838 Yang Liu
+1839 Nicolas Maudet
+1840 Paul Weng
+1841 Allen Newell
+1842 Masashi Sugiyama
+1843 Peng Zang
+1844 Steffen Staab
+1845 Udo Hahn
+1846 Marius Kloft
+1847 Yunwen Lei
+1848 Maria Vanina Martinez
+1849 David S. Touretzky
+1850 Brian Charles Williams
+1851 Christian J. Muise
+1852 Nikhil Bhargava
+1853 Mikko Koivisto
+1854 Teppo Mikael Niinimki
+1855 Jeremy Frank
+1856 Wenjie Li 0002
+1857 Qingtao Tang
+1858 Shu-Tao Xia
+1859 Tao Dai
+1860 Yisen Wang 0001
+1861 Jiaying Liu 0001
+1862 Yujing Wang
+1863 Jane Yung-jen Hsu
+1864 Peng Qian
+1865 Qinming He
+1866 Xiang Wang
+1867 Zhenguang Liu
+1868 Qingyu Guo
+1869 Alexey Ignatiev
+1870 Antnio Morgado 0001
+1871 Joo Marques-Silva 0001
+1872 Zhifeng Li 0001
+1873 Yan Yan
+1874 Matthew Lease
+1875 Sebastian Stein 0001
+1876 Chuanyi Li
+1877 Vincent Ng 0001
+1878 Pedro Zuidberg Dos Martires
+1879 Priel Levy
+1880 Rafael Pass
+1881 Gang Xu
+1882 Parisa Kordjamshidi
+1883 Evelina Lamma
+1884 Giulia Romano
+1885 David M. Pennock
+1886 Vincent Franois-Lavet
+1887 Hendrik Baier
+1888 Michael Kaisers
+1889 Shimon Whiteson
+1890 Rui Ye
+1891 Martin Mller 0003
+1892 YooJung Choi
+1893 Aris Filos-Ratsikas
+1894 Chenhao Wang 0001
+1895 Minming Li
+1896 Makoto Yokoo
+1897 Nathanal Barrot
+1898 Nuria Oliver
+1899 Yue Shi 0002
+1900 Jiawei Zhang 0001
+1901 Yi Chang 0001
+1902 Nick Bassiliades
+1903 Wenbin Hu
+1904 Hao Zhu
+1905 Ran He
+1906 Hongke Zhao
+1907 Li Wang
+1908 Ayumi Igarashi
+1909 Dominik Peters
+1910 Thomas Leo McCluskey
+1911 Wen-tau Yih
+1912 Chuck Rieger
+1913 Richard Maclin
+1914 Miroslaw Truszczynski
+1915 Ufuk Topcu
+1916 Madalina Croitoru
+1917 Liangda Fang
+1918 Liping Xiong
+1919 Evangelos E. Milios
+1920 Gregory Dudek
+1921 Thomas L. Dean
+1922 Duc-Trong Le
+1923 Jianyong Wang 0001
+1924 Wei Feng
+1925 Wei Zhang 0056
+1926 Chongyang Tao
+1927 Cuiping Li 0001
+1928 Hong Chen 0001
+1929 K. Seluk Candan
+1930 Ruocheng Guo
+1931 Kun Zhou 0001
+1932 J. Christopher Beck
+1933 Wei Zhang 0021
+1934 Qingming Huang
+1935 Benjamin Van Durme
+1936 Xiao Ding
+1937 Zhongyang Li
+1938 Tim Miller 0001
+1939 Chavalit Likitvivatanavong
+1940 James Bowen
+1941 William Yeoh 0001
+1942 Xiaoxun Sun
+1943 Sebastian Sardia
+1944 Lefei Zhang
+1945 Yipeng Zhang
+1946 Ramakant Nevatia
+1947 Claudia Plant
+1948 Dominik Mautz
+1949 Lena G. M. Bauer
+1950 Markus Ulbricht 0001
+1951 Ringo Baumann
+1952 Pat Langley
+1953 R. Bharat Rao
+1954 Feng Shi
+1955 Yu-Feng Li
+1956 Guansheng Zheng
+1957 Christoph Koch 0001
+1958 Ramasuri Narayanam
+1959 Bo Zheng
+1960 Tao Qin
+1961 Weidong Ma
+1962 Takayuki Osogami
+1963 Rong Jin 0001
+1964 Yu Han
+1965 Cline Robardet
+1966 Marc Plantevit
+1967 Zoi Terzopoulou
+1968 Alexandros A. Voudouris
+1969 Federico Heras
+1970 Javier Larrosa
+1971 Berthold K. P. Horn
+1972 Jean Oh
+1973 Yuxiao Huang
+1974 Pushpak Bhattacharyya
+1975 Bhavani Raskutti
+1976 Daniel D. Corkill
+1977 Victor R. Lesser
+1978 Philip J. Hayes
+1979 Scott Niekum
+1980 Bang Zhang
+1981 Ping Tan
+1982 Qi Wang
+1983 Changsheng Li
+1984 Guoren Wang
+1985 Ye Yuan 0001
+1986 Tommaso Pasini
+1987 Heyan Huang
+1988 Xiaochi Wei
+1989 Odile Papini
+1990 Peifeng Li
+1991 Stephen H. Muggleton
+1992 Lianwen Jin
+1993 Marco Maggini
+1994 Samuel Kaski
+1995 Ke Tang 0001
+1996 Bo Han 0003
+1997 Chen Gong 0002
+1998 Haofeng Zhang
+1999 Yuming Shen
+2000 Lu Chen 0001
+2001 Yunjun Gao
+2002 Ziquan Fang
+2003 Jeffrey Scott Vitter
+2004 Yong Xu
+2005 Jon Doyle
+2006 Jie Zhang 0008
+2007 Rui Abreu 0001
+2008 Subhajit Roy 0001
+2009 Jean-Franois Condotta
+2010 Michael Sioutis
+2011 Sanjiang Li
+2012 Ying Sun
+2013 Alessandro Sperduti
+2014 Jingrui He
+2015 Jun Wu 0019
+2016 Finale Doshi-Velez
+2017 Feng Yuan
+2018 Lina Yao 0001
+2019 Xuelong Li 0001
+2020 Shizhong Liao
+2021 Xiao Zhang 0034
+2022 Songfang Huang
+2023 Xin Gao 0001
+2024 Zhiwu Lu 0001
+2025 Masahiko Yachida
+2026 Qiang Ji
+2027 Pavel Naumov
+2028 R. L. Beurle
+2029 Daniel Harabor
+2030 Jiaoyang Li 0001
+2031 Zhe Chen
+2032 Attilio Giordana
+2033 Marco Botta
+2034 Mohammad Ghavamzadeh
+2035 Ryszard S. Michalski
+2036 Thomas G. Dietterich
+2037 Yingkai Li
+2038 Jayant Kalagnanam
+2039 Bin Guo 0001
+2040 Zhiwen Yu 0001
+2041 Hanqing Lu
+2042 Jing Liu 0001
+2043 Feng Wu 0001
+2044 Yi Zhou
+2045 Olivier D. Faugeras
+2046 Mingyue Shang
+2047 Zhenxin Fu
+2048 Jian Yang 0001
+2049 Christopher Kiekintveld
+2050 Thomas Hofmann
+2051 Moshe Y. Vardi
+2052 Abdul Sattar 0001
+2053 Zhiqiang Zhuang
+2054 Jinfeng Yi
+2055 Stefan Wermter
+2056 Chia-Wen Lin
+2057 Wu Liu
+2058 Frederick Hayes-Roth
+2059 Philip Klahr
+2060 Mark S. Fox
+2061 Raj Reddy
+2062 Guillem Francs
+2063 Margaret King
+2064 Jiji Zhang
+2065 Jiuyong Li
+2066 Jixue Liu
+2067 Lin Liu 0003
+2068 Thuc Duy Le
+2069 Anika Schumann
+2070 Andrew Cropper
+2071 Didier Dubois
+2072 Hiroshi Motoda
+2073 Takashi Washio
+2074 Jing Li
+2075 Mo Yu
+2076 Daniele Magazzeni
+2077 Enrico Scala
+2078 Ah-Hwee Tan
+2079 Youfang Lin
+2080 Avi Rosenfeld
+2081 Sebastijan Dumancic
+2082 Sanjaya Addanki
+2083 Allen R. Hanson
+2084 Edward M. Riseman
+2085 James C. Lester
+2086 Piji Li
+2087 Wai Lam
+2088 Matthijs T. J. Spaan
+2089 Xinrun Wang
+2090 Shen Gao
+2091 Zhangming Chan
+2092 Daniel Borrajo
+2093 Adrian R. Pearce
+2094 Paolo Felli
+2095 Peng Wang 0015
+2096 Zhe Wang 0001
+2097 James A. Hendler
+2098 Wenhao Jiang
+2099 Shiliang Pu
+2100 Julian J. McAuley
+2101 Ruining He
+2102 Arjun Mukherjee
+2103 Mal Castellanos
+2104 Meichun Hsu
+2105 Riddhiman Ghosh
+2106 Zhiyuan Chen 0001
+2107 Shuji Doshita
+2108 Toyoaki Nishida
+2109 Stefan J. Witwicki
+2110 Sarvapali D. Ramchurn
+2111 Christos Faloutsos
+2112 Matti Jrvisalo
+2113 Rick Siow Mong Goh
+2114 Giovanni Casini
+2115 Christer Bckstrm
+2116 Zheng-Fan Wu
+2117 Joel Veness
+2118 Marc G. Bellemare
+2119 Marcus Hutter
+2120 Eyal Amir
+2121 Daisuke Hatano
+2122 Katsutoshi Hirayama
+2123 Hao Wang 0014
+2124 Wei Cheng 0002
+2125 Xiang Zhang 0001
+2126 Xiao Liu
+2127 Xiaoqiang Lu
+2128 Alfred Ultsch
+2129 Qinmu Peng
+2130 Shuo Wang
+2131 Xinge You
+2132 Weijia Jia 0001
+2133 Xinyu Yang
+2134 Byoung-Tak Zhang
+2135 Mantas Simkus
+2136 Zhipeng Xie
+2137 Joanna Bryson
+2138 Xiong Wang
+2139 Roni Khardon
+2140 Christopher M. Brown
+2141 Qifan Wang
+2142 Tao Wu
+2143 Zhiwei Zhang
+2144 Bowen Zhou
+2145 Andrew W. Moore 0001
+2146 Xiaokang Yang
+2147 Hongyu Guo
+2148 Martin Renqiang Min
+2149 Ariel Rosenfeld
+2150 Licheng Jiao
+2151 Richard J. Waldinger
+2152 Ashok K. Goel 0001
+2153 Sethu Vijayakumar
+2154 Jun'ichi Tsujii
+2155 Yusuke Miyao
+2156 Wei Shen 0004
+2157 Shigeo Matsubara
+2158 Yuko Sakurai
+2159 Yiannis Demiris
+2160 Xiang-Rong Sheng
+2161 Ins Lynce
+2162 Miguel Terra-Neves
+2163 Vasco M. Manquinho
+2164 Chuang Zhang
+2165 Cheng-Te Li
+2166 Ming Zhang 0004
+2167 Daniel Damir Harabor
+2168 Zhiyong Feng 0002
+2169 Abdallah Saffidine
+2170 Yannis Dimopoulos
+2171 Ninghao Liu
+2172 Xiao Huang 0001
+2173 Enrico Pontelli
+2174 Enrico Malizia
+2175 Luigi Palopoli 0001
+2176 Dana S. Nau
+2177 Elias Bareinboim
+2178 Jiaxin Mao
+2179 Min Zhang 0006
+2180 Shaoping Ma
+2181 Weizhi Ma
+2182 Yiqun Liu 0001
+2183 Xiaoming Zheng
+2184 Ian D. Watson
+2185 Siliang Tang
+2186 Lenhart K. Schubert
+2187 David Wingate
+2188 Wannes Meert
+2189 Weiming Hu
+2190 Minh Binh Do
+2191 Tuan Anh Nguyen 0001
+2192 Changde Du
+2193 Changying Du
+2194 Jia He
+2195 Srinivasan Parthasarathy 0001
+2196 Emanuel Sallinger
+2197 Francisco C. Santos
+2198 Lus Moniz Pereira
+2199 Alessandro Saffiotti
+2200 Jinwei Qi
+2201 Sheng Li 0001
+2202 Chengqi Zhang
+2203 Daxin Jiang
+2204 Guodong Long
+2205 Jing Jiang 0002
+2206 Shiqi Zhang 0001
+2207 David J. Israel
+2208 Masakazu Ejiri
+2209 Dan Ventura
+2210 Claudia V. Goldman
+2211 Kurt Keutzer
+2212 Hans van Ditmarsch
+2213 Sophie Pinchinat
+2214 Fuli Luo
+2215 Peng Chen
+2216 Xu Sun 0001
+2217 Murray Shanahan
+2218 Bin Li 0015
+2219 Xiangyang Xue
+2220 Harish Ragavan
+2221 Alexander Skopalik
+2222 Martin Hoefer 0001
+2223 Eoin M. Kenny
+2224 Mark T. Keane
+2225 Changqing Zhang
+2226 Yue Liu
+2227 Yves Lesprance
+2228 Bradford W. Mott
+2229 Jonathan P. Rowe
+2230 Wookhee Min
+2231 David C. Parkes
+2232 Xiaojin Zhu 0001
+2233 Egor V. Kostylev
+2234 Mark Kaminski
+2235 Mark Craven
+2236 Weidong Cai 0001
+2237 Xin Yao 0001
+2238 Tristan Charrier
+2239 Eric A. Hansen
+2240 Rong Zhou 0001
+2241 Doina Precup
+2242 Jinwen Ma
+2243 Minghua Deng
+2244 Xian-Sheng Hua 0001
+2245 Xiao Luo 0001
+2246 Zhongming Jin
+2247 Chaokun Wang
+2248 Rgis Sabbadin
+2249 William A. Woods
+2250 Jivko Sinapov
+2251 Arvind Agarwal
+2252 Sebastian Rudolph
+2253 Abdel-Illah Mouaddib
+2254 Tian Tian
+2255 Yudong Liu
+2256 Chengfei Liu
+2257 Lu Chen 0008
+2258 Rui Zhou 0001
+2259 Christophe Labreuche
+2260 Eyke Hllermeier
+2261 Michle Sebag
+2262 Angelo Fanelli 0001
+2263 Ning Chen 0005
+2264 Mohamed Siala 0002
+2265 Thomas Linsbichler
+2266 Robert Mattmller
+2267 Ashish Sabharwal
+2268 Oren Etzioni
+2269 Aniket Kittur
+2270 Dafna Shahaf
+2271 Joel Chan
+2272 Tom Hope
+2273 Jing-Cheng Shi
+2274 Alberto Camacho
+2275 Ivan Jos Varzinczak
+2276 Thomas Andreas Meyer
+2277 Stefan Mengel
+2278 Andrea Passerini
+2279 Fausto Giunchiglia
+2280 Stefano Teso
+2281 Ji Liu
+2282 Lin Liao
+2283 Zhuoye Ding
+2284 Hermann Kaindl
+2285 Minghui Qiu
+2286 Wei Lin 0016
+2287 Xiaofeng Zhu 0001
+2288 Zhong Ji
+2289 Tanzeem Choudhury
+2290 Tao Li 0001
+2291 Ke Zhang
+2292 Min Wu 0008
+2293 Congfu Xu
+2294 Xin Wang 0060
+2295 Yunhui Guo
+2296 Stefan Kramer 0001
+2297 Wei Wu
+2298 Yuejie Zhang
+2299 Shashi Shekhar
+2300 Panagiotis Kanellopoulos
+2301 Barry O'Sullivan
+2302 Yuexian Hou
+2303 Wanxiang Che
+2304 Kijung Shin
+2305 Ninh Pham
+2306 Robert West 0001
+2307 Wei Zhang 0016
+2308 Diane J. Cook
+2309 Lawrence B. Holder
+2310 Wolfgang Nejdl
+2311 Fei Mi
+2312 Yefeng Zheng 0001
+2313 Chen Li 0001
+2314 Cyril Terrioux
+2315 Brendan Juba
+2316 Peifeng Yin
+2317 Zhongzhi Shi
+2318 Qing Li 0001
+2319 Tyler Derr
+2320 Wenqi Fan
+2321 Yao Ma 0001
+2322 Luc Steels
+2323 Xianling Mao
+2324 Zheng Zhao
+2325 Lorenza Saitta
+2326 Hans J. Berliner
+2327 Qiang Qu
+2328 Seung-won Hwang
+2329 Yuexian Zou
+2330 Chao Xu 0006
+2331 Dongxiang Zhang
+2332 Bart Bogaerts 0001
+2333 Qianqian Wang
+2334 Atsushi Iwasaki
+2335 Tingting Zhang
+2336 Alberto O. Mendelzon
+2337 Bhavani Thuraisingham
+2338 Latifur Khan
+2339 Alberto Finzi
+2340 Min-Ling Zhang
+2341 Xu-Ying Liu
+2342 Chun Chen 0001
+2343 Marco Manna
+2344 George Dimitri Konidaris
+2345 Robert Holte
+2346 Dejing Dou
+2347 Issei Sato
+2348 Yu Zheng
+2349 Xiao Wang
+2350 Xiaoyuan Yi
+2351 Hao Xiong
+2352 Nicholas Ruozzi
+2353 Cheng-Lin Liu
+2354 Xu-Yao Zhang
+2355 Clia da Costa Pereira
+2356 Gianpiero Monaco
+2357 Qiang Zhang
+2358 Lidan Shou
+2359 Zhongle Xie
+2360 Lujun Zhao
+2361 Heyuan Wang
+2362 Jiayi Zheng
+2363 Shun Li
+2364 Tengjiao Wang 0003
+2365 Wei Chen 0021
+2366 Jerry R. Hobbs
+2367 Maxim Likhachev
+2368 Selmer Bringsjord
+2369 Kenny Q. Zhu
+2370 Hanghang Tong
+2371 Jian Lu 0001
+2372 Yuan Yao 0001
+2373 Tiejun Zhao
+2374 Xinchi Chen
+2375 Qi Tian 0001
+2376 Rachael Colley
+2377 Guilin Qi
+2378 Yanmin Zhu
+2379 Feida Zhu 0001
+2380 Wei Wei 0002
+2381 Julien Lesca
+2382 Ian Miguel
+2383 Steven Schockaert
+2384 Zied Bouraoui
+2385 Elizabeth Bondi
+2386 Wray L. Buntine
+2387 Yi Zhang
+2388 Deepak S. Turaga
+2389 Elias B. Khalil
+2390 Fatemeh Nargesian
+2391 Ehud Reiter
+2392 Avinatan Hassidim
+2393 Ofer Meshi
+2394 Eduard Eiben
+2395 Aris Anagnostopoulos
+2396 Luca Becchetti
+2397 Peter Struss
+2398 Chenghao Liu
+2399 Jianling Sun
+2400 Bingsheng He
+2401 Paul Saikko
+2402 Elena Botoeva
+2403 Michael Zakharyaschev
+2404 Vladislav Ryzhikov
+2405 Haitham Bou-Ammar
+2406 Si Wei
+2407 Xiaodan Zhu
+2408 Zhen-Hua Ling
+2409 Ashiqur R. KhudaBukhsh
+2410 Jill Freyne
+2411 Ondrej Kuzelka
+2412 Emiliano Lorini
+2413 Ying Xu
+2414 Henry W. Davis
+2415 Hao Yang
+2416 Karsten M. Borgwardt
+2417 Mahito Sugiyama
+2418 Jiajun Chen
+2419 Shujian Huang
+2420 Sylvain Lagrue
+2421 Bistra Dilkina
+2422 Antoni B. Chan
+2423 Michele Flammini
+2424 Vittorio Bil
+2425 Sheng-Jun Huang
+2426 Songcan Chen
+2427 Pinghua Gong
+2428 Tao Xiang
+2429 Fan Zhou
+2430 Chanyoung Park
+2431 Fei Wang
+2432 Nitin Yadav
+2433 George Katsirelos
+2434 Zeynep Kiziltan
+2435 Beidou Wang
+2436 Haifeng Liu
+2437 Roger C. Schank
+2438 Li Dong 0004
+2439 Krishnendu Chatterjee
+2440 Nils Bulling
+2441 Wojciech Jamroga
+2442 Jun Yu 0002
+2443 Zhou Yu
+2444 Zhiguo Long
+2445 Xuancheng Ren
+2446 Boyang Li 0001
+2447 Ning Chen 0002
+2448 Miao Zhang
+2449 Jie Xu 0012
+2450 Jian Liu
+2451 Jinan Xu
+2452 Yufeng Chen 0005
+2453 Yujie Zhang
+2454 Hiroaki Kitano
+2455 Jie Liu 0007
+2456 Na Li
+2457 Jeffrey Chan
+2458 Quanyu Dai
+2459 Glenn Fung
+2460 Rmer Rosales
+2461 Vinay P. Namboodiri
+2462 Neil Zhenqiang Gong
+2463 Sebastian Ordyniak
+2464 Thekla Hamm
+2465 Bartosz Bednarczyk
+2466 Xiao Wang 0017
+2467 Zinovi Rabinovich
+2468 Johannes Peter Wallner
+2469 Yuqian Li
+2470 Wee Kheng Leow
+2471 Pinyan Lu
+2472 Maarten de Rijke
+2473 Marc Toussaint
+2474 Risheng Liu
+2475 Xin Fan 0001
+2476 Zhongxuan Luo
+2477 Nicholas Roy
+2478 Chen Chu
+2479 Zhen Wang
+2480 Gary G. Hendrix
+2481 Fei Chen
+2482 Fei Wu 0004
+2483 Giovanni Semeraro
+2484 Munindar P. Singh
+2485 Nirav Ajmeri
+2486 Rod M. Burstall
+2487 Gilles Audemard
+2488 Ting Yao
+2489 Yu-Gang Jiang
+2490 Maria Luisa Bonet
+2491 Deheng Ye
+2492 Hua Wei 0001
+2493 Qiang Fu
+2494 Wei Yang 0032
+2495 Zhenhui Li
+2496 Peta Masters
+2497 Mingkui Tan
+2498 Yifan Zhang 0004
+2499 Taisuke Sato
+2500 Zili Zhang 0001
+2501 Susana Fernndez
+2502 Xiaoliang Fan
+2503 Lu Zhang 0023
+2504 Qihao Zhu
+2505 Wenjie Zhang
+2506 Yingfei Xiong 0001
+2507 Zeyu Sun 0004
+2508 Jure Leskovec
+2509 Rex Ying
+2510 Csaba Szepesvri
+2511 Guang Qiu
+2512 Eric P. Xing
+2513 Pengtao Xie
+2514 Shanghang Zhang
+2515 Longbo Huang
+2516 Xinmei Tian 0001
+2517 Dingwen Zhang
+2518 Chongjie Zhang
+2519 Prashant J. Shenoy
+2520 Hanyuan Zhang
+2521 Hao Wu 0011
+2522 Ke Xu
+2523 Kia-Fock Loe
+2524 Adrian Petcu
+2525 Guangyou Zhou
+2526 Tingting He
+2527 Wensheng Wu
+2528 Martha E. Pollack
+2529 Michael D. Moffitt
+2530 Shusen Yang
+2531 Dan Zhang 0007
+2532 Maoguo Gong
+2533 Edith Hemaspaandra
+2534 Jrg Rothe
+2535 Lane A. Hemaspaandra
+2536 Subhash Suri
+2537 Hao Liu
+2538 Parag Singla
+2539 Oliver Kutz
+2540 Li Gao
+2541 Peng Zhang 0001
+2542 Weixue Lu
+2543 Marc Lanctot
+2544 Jun Wang 0006
+2545 Xingquan Zhu 0001
+2546 Serena Villata
+2547 Junsong Yuan
+2548 Guy W. Mineau
+2549 Jia-Huai You
+2550 Hung Bui
+2551 Alfonso Gerevini
+2552 Ivan Serina
+2553 Erik Talvitie
+2554 Jiancheng Lv 0001
+2555 Wenqiang Lei
+2556 Dahua Lin
+2557 Tao Mei 0001
+2558 Cristiano Castelfranchi
+2559 Matteo Venanzi
+2560 Bruno Zanuttini
+2561 Norman M. Sadeh
+2562 Yi Yang
+2563 Feng Tian
+2564 Tu Bao Ho
+2565 Hitoshi Ogawa
+2566 Kokichi Tanaka
+2567 Ming Yin
+2568 Hanna Pasula
+2569 Yorick Wilks
+2570 Meng Fang
+2571 Bo Liu 0015
+2572 Jie Jiang
+2573 Yong Li 0038
+2574 Marcin Detyniecki
+2575 Sylvain Lamprier
+2576 Dorothea Baumeister
+2577 Steffen Rendle
+2578 Sbastien Lahaie
+2579 Xike Xie
+2580 Junwei Han
+2581 Gang Hua 0001
+2582 Wei Liu 0005
+2583 Xiaodan Liang
+2584 Fei Xia
+2585 Andr Grahl Pereira
+2586 Nicu Sebe
+2587 Bikramjit Banerjee
+2588 Sandip Sen
+2589 Remi Coletta
+2590 Raymond Reiter
+2591 Wei Wang
+2592 Talal Rahwan
+2593 Tomasz P. Michalak
+2594 Michael P. Georgeff
+2595 Bin Li 0027
+2596 Shuigeng Zhou
+2597 Sumit Gulwani
+2598 Jan Gasthaus
+2599 Valentin Flunkert
+2600 Jing Huo
+2601 Wenbin Li 0006
+2602 Yang Gao 0001
+2603 Fabian M. Suchanek
+2604 Gerhard Weikum
+2605 Klaus Berberich
+2606 Xibin Zhao
+2607 Sebastian Brandt 0001
+2608 Alex Rogers
+2609 Przemyslaw Andrzej Walega
+2610 Liu Yang
+2611 Kazumi Saito
+2612 Martin Zinkevich
+2613 Guojie Song
+2614 Lun Du
+2615 Yun Wang
+2616 Gal A. Kaminka
+2617 Xuejun Liao
+2618 Claudiu Musat
+2619 Boris Konev
+2620 Ankush Khandelwal
+2621 Anuj Karpatne
+2622 Vipin Kumar 0001
+2623 Xiaowei Jia
+2624 Zichen Zhu
+2625 Ismail Ilkan Ceylan
+2626 Xiuqiang He 0001
+2627 Luciano Serafini
+2628 Igor L. Markov
+2629 Claudiu Cristian Musat
+2630 Stephanie J. Cammarata
+2631 Kunpeng Liu 0001
+2632 Antonius Weinzierl
+2633 Matthias Westphal
+2634 Stefan Wlfl 0001
+2635 Roman Kontchakov
+2636 Vctor Gutirrez-Basulto
+2637 Yunbo Wang
+2638 Wulong Liu
+2639 Nabil Layada
+2640 Pierre Genevs
+2641 Xuanhui Wang
+2642 Jianhui Chen
+2643 Lei Tang 0001
+2644 Kaigui Bian
+2645 Yuanxing Zhang
+2646 Xiaojie Guo
+2647 Chu-Min Li
+2648 Kun He 0001
+2649 Yong Cheng
+2650 Shusen Wang
+2651 Zhihua Zhang
+2652 Yoshitaka Kameya
+2653 Wassila Ouerdane
+2654 Peng Wu
+2655 Zhenhua Dong
+2656 Lu Zhang 0021
+2657 Yongkai Wu
+2658 Sujit Gujar
+2659 Ling Zhang 0001
+2660 Tian Zhang
+2661 Dongxiao Zhu
+2662 Mohit Sharma
+2663 Shuangjia Zheng
+2664 Yuedong Yang
+2665 Parikshit Ram
+2666 Heinz Marburger
+2667 Froduald Kabanza
+2668 Adrian Weller
+2669 Daniel G. Bobrow
+2670 Aniello Murano
+2671 Stratis Ioannidis
+2672 Michelangelo Diligenti
+2673 Jian-Tao Sun
+2674 Spyros Angelopoulos 0001
+2675 Amedeo Napoli
+2676 Tei-Wei Kuo
+2677 Julia Stoyanovich
+2678 Ke Yang
+2679 Yonghong Tian 0001
+2680 Jie-Jing Shao
+2681 Rui Yang
+2682 Oliver Schulte
+2683 Jing Zhang 0037
+2684 Patrick Prosser
+2685 Haocong Rao
+2686 James F. Allen
+2687 Di Wu
+2688 Douglas H. Fisher
+2689 Jian Li
+2690 Yong Liu 0018
+2691 Jingwei Chen
+2692 Martin Wehrle
+2693 Valeria Fionda
+2694 Huishuai Zhang
+2695 Shimei Pan
+2696 Matthias Uflacker
+2697 Shuai Zhang 0007
+2698 Yi Tay
+2699 Hongtao Xie
+2700 Hongliang Fei
+2701 Steven Salzberg
+2702 Mohan Sridharan
+2703 Michel Leclre
+2704 Hongxu Chen
+2705 Qinyong Wang
+2706 Hans W. Guesgen
+2707 Ulrich Junker
+2708 Mikols Janota
+2709 Reuth Mirsky
+2710 Artur S. d'Avila Garcez
+2711 Mithun Chakraborty
+2712 Eduard H. Hovy
+2713 Yigal Arens
+2714 Liang Zhang
+2715 Ramesh C. Jain
+2716 Yun Xiao
+2717 Marc Denecker
+2718 Dan I. Moldovan
+2719 Shanshan Feng
+2720 Xiang Liu
+2721 Fatma Ozcan
+2722 David Carral
+2723 Markus Krtzsch
+2724 Zhongzhi Zhang
+2725 Albert Xin Jiang
+2726 Taiki Todo
+2727 Zhaohong Sun 0001
+2728 Arunesh Sinha
+2729 Yong Wang
+2730 Xin Li 0005
+2731 Kuldeep S. Meel
+2732 Liang Chen 0001
+2733 Houqiang Li
+2734 Yu Song
+2735 Patrick J. Hayes
+2736 Qi Wang 0009
+2737 Anastasia Paparrizou
+2738 Yasutoshi Ida
+2739 Aaron Sloman
+2740 Dongjin Song
+2741 Jiangchao Yao
+2742 Trong Nghia Hoang
+2743 Guandong Xu
+2744 Jian Wu 0001
+2745 Deyi Xiong
+2746 Chen Gao
+2747 Depeng Jin
+2748 Huan Yan
+2749 See-Kiong Ng
+2750 Wee Siong Ng
+2751 Mohit Kumar
+2752 Malek Mouhoub
+2753 Qianli Ma
+2754 Hong Zhang
+2755 Yang Zhou 0001
+2756 Ling Chen 0006
+2757 Giuseppe Perelli
+2758 Julian Gutierrez 0001
+2759 Marie-Odile Cordier
+2760 Richard C. T. Lee
+2761 Gabriele Farina
+2762 Leliane Nunes de Barros
+2763 Rodrigo Toro Icarte
+2764 Hongning Wang
+2765 Nan Wang
+2766 Luis Farias del Cerro
+2767 Meirav Zehavi
+2768 Hang Li 0001
+2769 Xin Jiang 0002
+2770 Zhengdong Lu
+2771 Aixin Sun
+2772 Manqing Dong
+2773 Sen Wang 0001
+2774 Ian P. Gent
+2775 Noam Hazon
+2776 Julie A. Shah
+2777 Miao Xie
+2778 Kush R. Varshney
+2779 Moninder Singh
+2780 Jiehua Chen 0001
+2781 Xinyi Xu
+2782 Mirella Lapata
+2783 Regina Barzilay
+2784 Adrian Haret
+2785 Shuhei Aida
+2786 Dianhai Yu
+2787 Fei Jiang
+2788 David Canfield Smith
+2789 Franois Goasdou
+2790 Marie-Christine Rousset
+2791 Jing Li 0034
+2792 Shafiq R. Joty
+2793 Qingyao Wu
+2794 Sanjay Ranka
+2795 Vasin Punyakanok
+2796 David Toman 0001
+2797 Debing Zhang
+2798 Anxiang Zeng
+2799 Rui Yan
+2800 Shou-De Lin
+2801 Yingce Xia
+2802 Zhibo Chen 0001
+2803 Naiyan Wang
+2804 Sairam Gurajada
+2805 Rachel Ben-Eliyahu-Zohary
+2806 Xiaohua Hu 0001
+2807 Zhenzhong Chen
+2808 Rongchun Li
+2809 Yong Dou
+2810 Yueqing Wang
+2811 Aditya Grover
+2812 Ankit Anand
+2813 Balaraman Ravindran
+2814 Bill Howe
+2815 Ivan Bratko
+2816 John K. Slaney
+2817 Carlo Zaniolo
+2818 Wei Wang 0010
+2819 Xu Yuan
+2820 Nils Jansen 0001
+2821 Jianan Zhao 0002
+2822 Qianlong Wen
+2823 Liang Zhao 0002
+2824 Xuchao Zhang
+2825 Ronald Fagin
+2826 Zhonghai Wu
+2827 Jianguo Li
+2828 Liang Wang 0001
+2829 Slobodan Vucetic
+2830 Kang Liu 0001
+2831 Leyu Lin
+2832 Jack Mostow
+2833 Zhao Li
+2834 Shijian Lu
+2835 Paolo Traverso
+2836 Piergiorgio Bertoli
+2837 Jan M. Zytkow
+2838 Sten-ke Trnlund
+2839 En Zhu
+2840 Jianping Yin
+2841 Guansong Pang
+2842 Ling Chen
+2843 C. Anantaram
+2844 Yang Liu 0005
+2845 James Cheney
+2846 Robby Goetschalckx
+2847 Noa Agmon
+2848 Oleg Maksimov
+2849 Frances A. Rosamond
+2850 Michael R. Fellows
+2851 Nemanja Djuric
+2852 Muhao Chen
+2853 Cheng Yang 0002
+2854 Rich Caruana
+2855 Wei Chen 0013
+2856 Katharina Morik
+2857 Guy Shani
+2858 Rajeev Motwani 0001
+2859 Matthias Schubert
+2860 Peng Han 0005
+2861 Yinan Zhang
+2862 Grant E. Weddell
+2863 Jie Zhang
+2864 Bin Yang 0002
+2865 Chenjuan Guo
+2866 Jian Tang 0005
+2867 Michael Benedikt
+2868 Gengyu Lyu
+2869 Songhe Feng
+2870 Sara Rouhani
+2871 Chengjie Wang
+2872 Junwei Zhu
+2873 Wenqing Chu
+2874 Ying Tai
+2875 Johannes Klaus Fichte
+2876 Markus Hecher
+2877 Claudia Picardi
+2878 Ye Wang
+2879 Paolo Turrini
+2880 Franco Sirovich
+2881 Bjrn W. Schuller
+2882 Zhaochun Ren
+2883 Maria-Florina Balcan
+2884 Matthew E. Taylor
+2885 Yong Li
+2886 Wei Li
+2887 Jingyi Yu
+2888 Andrzej Kaczmarczyk 0001
+2889 Cristina Conati
+2890 Anton van den Hengel
+2891 Chunhua Shen
+2892 Lu Yu 0006
+2893 Toshiyuki Sakai
+2894 Arthur Queffelec
+2895 Shuguang Cui
+2896 Zhen Li 0026
+2897 Joo Leite 0001
+2898 My T. Thai
+2899 Fabrizio Sebastiani 0001
+2900 Eli Boyarski
+2901 Hang Ma 0001
+2902 Yumi Iwasaki
+2903 Hoda Heidari
+2904 Chenguang Wang 0001
+2905 Bastien Maubert
+2906 Orna Kupferman
+2907 Amulya Yadav
+2908 Dongwon Lee 0001
+2909 Maryam Tabar
+2910 Dimitris N. Metaxas
+2911 Shaoting Zhang
+2912 Pablo Samuel Castro
+2913 Diedrich Wolter
+2914 Anthony G. Cohn
+2915 Michael Katz 0001
+2916 Jianxin Li 0001
+2917 Hongyao Ma
+2918 Guido Boella
+2919 Jian Li 0040
+2920 Enrico Giunchiglia
+2921 Peter Tio
+2922 Yonghua Zhu
+2923 Xuming He 0001
+2924 Satoshi Oyama
+2925 David G. Heath
+2926 Simon Kasif
+2927 Peter van Beek
+2928 Baoxiang Wang 0001
+2929 Weiming Lu 0001
+2930 Yongliang Shen 0001
+2931 Ling Luo
+2932 Jiebo Luo
+2933 Guanghui Wang 0006
+2934 Xiao Huang
+2935 Katja Hofmann
+2936 Yanan Sui
+2937 Yisong Yue
+2938 Gregg T. Vesonder
+2939 Shuai Li 0010
+2940 Shifu Hou
+2941 Yujie Fan
+2942 Meir Kalech
+2943 Leon Kellerhals
+2944 Bruce Krulwich
+2945 Shi Han
+2946 Jingtao Ding
+2947 Jie Qin
+2948 Carmine Ventre
+2949 Feipeng Zhao
+2950 Jiayi Ma 0001
+2951 Yang Cao
+2952 Xiting Wang
+2953 Ming-Ming Cheng
+2954 Rong Wang 0001
+2955 Gilles Richard
+2956 Stan Matwin
+2957 Edward Y. Chang
+2958 Steffen Hlldobler
+2959 Jesse Hoey
+2960 Alessandro Cimatti
+2961 Di Niu
+2962 Fred X. Han
+2963 Ronald de Haan
+2964 Nenghai Yu
+2965 Jinglin Xu
+2966 Michael A. Goodrich
+2967 Wei Bian
+2968 Jeff Z. Pan
+2969 Jiaoyan Chen
+2970 Yuji Matsumoto 0001
+2971 Chris Mellish
+2972 Yuan Qi 0001
+2973 Alexander Ihler
+2974 Hongyao Tang
+2975 Yan Zheng
+2976 Yi Ma
+2977 Zhaopeng Meng
+2978 Ann E. Robinson
+2979 William H. Paxton
+2980 Jingbo Zhu
+2981 Tong Xiao
+2982 Tongran Liu
+2983 Carmel Domshlak
+2984 Yanjing Wang 0001
+2985 Krishna P. Gummadi
+2986 Patrick Loiseau
+2987 Ying Shan
+2988 Sheng Tang
+2989 Danushka Bollegala
+2990 Shuxin Li
+2991 Peng Zhang
+2992 Christopher Archibald
+2993 Chandan K. Reddy
+2994 Jaegul Choo
+2995 Joonseok Lee
+2996 Miao Xu
+2997 Fan Zhou 0002
+2998 Goce Trajcevski
+2999 Qiang Gao
+3000 Ting Zhong
+3001 James Allan
+3002 Ron Bekkerman
+3003 Lior Rokach
+3004 Mehmet A. Orgun
+3005 Randy Goebel
+3006 Akinori Fujino
+3007 Masaaki Nagata
+3008 Leong Hou U
+3009 Ruichu Cai
+3010 Zhifeng Hao
+3011 Dekang Lin
+3012 Alexander Borgida
+3013 Quan Yuan 0001
+3014 Xutao Li
+3015 Yeow Meng Chee
+3016 Mihajlo Grbovic
+3017 Changhe Yuan
+3018 Chao Chen 0012
+3019 Fernando Diaz 0001
+3020 Jiaqing Liang
+3021 Zhe Xu
+3022 Rayid Ghani
+3023 Yan Liu 0002
+3024 Gen-ichiro Kinoshita
+3025 Masahiro Mori
+3026 Guillaume Aucher
+3027 Paolo Morettin
+3028 Zhicheng He 0001
+3029 Kaixiang Lin
+3030 Rui Xia
+3031 Jing Chen
+3032 Masakazu Ishihata
+3033 Takanori Maehara
+3034 Dong Yan
+3035 Xiaowei Guo
+3036 Ke Wang 0022
+3037 Zhendong Su 0001
+3038 Tiago Stegun Vaquero
+3039 Baobao Chang
+3040 Zhifang Sui
+3041 Jin Li
+3042 Wenqing Lin
+3043 Reshef Meir
+3044 Rudy Raymond
+3045 Tsuyoshi Id
+3046 Ron Alford
+3047 Jingjing Wang
+3048 Binbin Hu
+3049 Zhengwei Wu
+3050 Simon Razniewski
+3051 Sanmay Das
+3052 Yu Yang 0001
+3053 Zhefeng Wang
+3054 Honglun Zhang
+3055 Liqiang Xiao
+3056 Wenqing Chen
+3057 Yaohui Jin
+3058 Yongkun Wang
+3059 David D. Jensen
+3060 Harry G. Barrow
+3061 Jay M. Tenenbaum
+3062 Mohan Yang
+3063 Tong Zhao
+3064 Gerard de Melo
+3065 Jrg H. Siekmann
+3066 Peter Raulefs
+3067 Li Shen
+3068 Antonio Di Stasio 0001
+3069 Ann Now
+3070 Chenyang Wang 0003
+3071 Elisa Bertino
+3072 Guangcan Liu
+3073 Zhao Zhang 0001
+3074 Zheng Zhang 0006
+3075 Jintang Li
+3076 Chen Ma 0001
+3077 Wei Xu
+3078 Xue Liu 0001
+3079 Jilles Vreeken
+3080 Mario Boley
+3081 Panagiotis Mandros
+3082 Dong Yu
+3083 Lance M. Kaplan
+3084 Manuel Bodirsky
+3085 Jakub Michaliszyn
+3086 Marc Eisenstadt
+3087 Wangmeng Zuo
+3088 Xiao-Yuan Jing
+3089 Arianna Novaro
+3090 Srikanta Bedathur
+3091 Leonard Uhr
+3092 Anna Bramanti-Gregor
+3093 Matthieu Geist
+3094 Shichao Zhang
+3095 Daniel Boley
+3096 Andrew McCallum
+3097 Kamal Nigam
+3098 Nysret Musliu
+3099 Pan Hui 0001
+3100 Jiarong Xu
+3101 Lei Chen
+3102 Yang Yang 0009
+3103 Liang Shi
+3104 Elena Cabrio
+3105 Huiyuan Chen
+3106 Vladik Kreinovich
+3107 Shamim A. Naqvi
+3108 Yilun Jin
+3109 Ashish R. Mittal
+3110 Diptikalyan Saha
+3111 Jaydeep Sen
+3112 Xin Huang 0001
+3113 Jiawei Liu
+3114 Christian Komusiewicz
+3115 Gang Huang
+3116 Kira Radinsky
+3117 Barbara Hayes-Roth
+3118 Richard Washington
+3119 Bing Bai
+3120 Kun Bai
+3121 Yao Zhou
+3122 Sibel Adali
+3123 Jing Wang 0023
+3124 Peng Cui 0001
+3125 Shiqiang Yang
+3126 Ziwei Zhang
+3127 Pradeep Varakantham
+3128 Camille Bourgaux
+3129 Rafael Pealoza
+3130 Doug Downey
+3131 Susan T. Dumais
+3132 Lakshminarayanan Subramanian
+3133 Wenjie Zhang 0001
+3134 Xuemin Lin 0001
+3135 Yang Wang 0023
+3136 Fumin Shen
+3137 Jian Zhang 0002
+3138 Yazhou Yao
+3139 Deepak Mehta 0001
+3140 Michal Feldman
+3141 Shuai Ma 0001
+3142 Jennifer G. Dy
+3143 Eric Rice
+3144 Hen-Hsen Huang
+3145 Hsin-Hsi Chen
+3146 Feng Ji
+3147 Saket Joshi
+3148 Kalyan Veeramachaneni
+3149 Guohui Xiao 0001
+3150 Hongyuan Zhu
+3151 Xi Peng 0001
+3152 Simon Rey
+3153 ric Grgoire
+3154 Qiang Yang 0010
+3155 Xiaoming Li 0001
+3156 David Silver
+3157 Denis Moreira dos Reis
+3158 Gustavo E. A. P. A. Batista
+3159 Yoshihiro Yamanishi
+3160 Lus C. Lamb
+3161 Aishan Liu
+3162 Shihao Bai
+3163 Wei Liu
+3164 Mong-Li Lee
+3165 Wynne Hsu
+3166 Hyunsoo Cho
+3167 Sujian Li
+3168 Daniel S. Bernstein
+3169 Daniel Golovin
+3170 Robin Cohen
+3171 Timothy A. Mann
+3172 Siu Cheung Hui
+3173 Chao Li
+3174 Karim Tabia
+3175 Richard McConachy
+3176 Pawan Goyal 0002
+3177 Aoying Zhou
+3178 Dawei Cheng
+3179 Weining Qian
+3180 Shahaf S. Shperberg
+3181 Denis Deratani Mau
+3182 Hao Xu
+3183 Liqing Zhang 0001
+3184 Jana Koehler
+3185 Wenwu Ou
+3186 Fernando Martnez-Plumed
+3187 Yan Wang
+3188 Jan Van den Bussche
+3189 Ming Shao
+3190 Aravind Srinivasan
+3191 Jan Treur
+3192 J. Benton 0001
+3193 Yangtao Wang
+3194 Chen Chen
+3195 Song Wang
+3196 Yushun Dong
+3197 Nan Duan
+3198 Aidong Zhang
+3199 Liuyi Yao
+3200 Yue Yin
+3201 Song-Chun Zhu
+3202 Xin Zhao 0012
+3203 Philip R. Cohen
+3204 Gautam Biswas
+3205 Harikrishna Narasimhan
+3206 Xiao Chen
+3207 Mitsuru Kusumoto
+3208 Ashish Goel
+3209 Arthur Choi
+3210 Jinyang Gao
+3211 Kevin Chen-Chuan Chang
+3212 Vincent W. Zheng
+3213 Tal Grinshpoun
+3214 Tamir Tassa
+3215 Chuan Qin 0002
+3216 Naonori Ueda
+3217 Takeshi Yamada
+3218 Tomoharu Iwata
+3219 Luo Luo
+3220 Zengmao Wang
+3221 Koby Crammer
+3222 Huanbo Luan
+3223 Niloy Ganguly
+3224 Tracy Hammond
+3225 Weike Pan
+3226 Xiwang Yang
+3227 Mingdong Ou
+3228 Nan Li 0019
+3229 Shenghuo Zhu
+3230 Aristides Gionis
+3231 Gianmarco De Francisci Morales
+3232 Michael Mathioudakis
+3233 Martine De Cock
+3234 Gholamreza Haffari
+3235 Meng Qu
+3236 Mykola Pechenizkiy
+3237 Cho-Jui Hsieh
+3238 Inderjit S. Dhillon
+3239 John Grant
+3240 Jennifer Neville
+3241 Sebastin Moreno
+3242 Ashwin Ram
+3243 Pingchuan Ma 0004
+3244 Zhaodong Wang
+3245 Ke Wang
+3246 Ting Chen
+3247 Zhouyu Fu
+3248 Liang Pang
+3249 Yanyan Lan
+3250 Marco Gavanelli
+3251 Yi Huang
+3252 Julien Velcin
+3253 Fan Wu 0006
+3254 Guihai Chen
+3255 Zhenzhe Zheng
+3256 Gilad Zlotkin
+3257 Quan Z. Sheng
+3258 Zheng Chen 0001
+3259 Alexander Reinefeld
+3260 T. Anthony Marsland
+3261 Xiaopeng Hong
+3262 Ying Shen 0001
+3263 Evgeniy Gabrilovich
+3264 Skyler Speakman
+3265 Erkun Yang
+3266 Yanhua Yang
+3267 Alon Y. Halevy
+3268 Jayant Madhavan
+3269 Jianmin Ji
+3270 Lei Luo 0001
+3271 Ming Lei
+3272 Michael Beetz
+3273 Daniel J. Rosenkrantz
+3274 Madhav V. Marathe
+3275 Mayur Thakur
+3276 Yu Wang
+3277 Evdokia Nikolova
+3278 Utku Sirin
+3279 Victor Lagerkvist
+3280 Xudong Liu 0001
+3281 Kalev Kask
+3282 Lawrence G. Tesler
+3283 Riichiro Mizoguchi
+3284 Jingyuan Wang
+3285 Zejun Ma
+3286 Elliot Soloway
+3287 Floriana Esposito
+3288 Jinhui Tang 0001
+3289 Zechao Li
+3290 Tong Wei 0001
+3291 Murat Dundar
+3292 Christopher D. Manning
+3293 Paolo Guagliardo
+3294 Renato de Mori
+3295 Zhenjie Zhang
+3296 Brahim Hnich
+3297 Jun Gao 0003
+3298 Zhao Li 0007
+3299 Cong Yu 0001
+3300 Fei Wu 0003
+3301 Louis I. Steinberg
+3302 Haifeng Wang 0001
+3303 Tams Gergely
+3304 Jian Cheng 0001
+3305 Zeng-Guang Hou
+3306 Zhongxia Chen
+3307 Masaru Kitsuregawa
+3308 Masashi Toyoda
+3309 Simon de Givry
+3310 Osamu Kakusho
+3311 Donglin Wang
+3312 Akira Shimazu
+3313 Junyu Dong
+3314 Yang Chen
+3315 Takayuki Ito 0001
+3316 Wengang Zhou
+3317 Qinli Yang
+3318 Azriel Rosenfeld
+3319 Steven W. Zucker
+3320 Xinyu Dai
+3321 Fangli Xu
+3322 Po Hu
+3323 Prem Melville
+3324 Richard D. Lawrence
+3325 Vijil Chenthamarakshan
+3326 Vikas Sindhwani
+3327 Andrew S. Lan
+3328 Anshumali Shrivastava
+3329 Chunbin Lin
+3330 Jianguo Wang 0001
+3331 Zehong Hu
+3332 Neal Lesh
+3333 Chuhan Wu
+3334 Fangzhao Wu
+3335 Mingxiao An
+3336 Yongfeng Huang 0001
+3337 Yaohang Li
+3338 Hiroyuki Toda
+3339 Takeshi Kurashima
+3340 Cristina Baroglio
+3341 Matteo Baldoni
+3342 Shandian Zhe
+3343 Junliang Xing
+3344 Fabio Mercorio
+3345 Mario Mezzanzanica
+3346 Abhijnan Chakraborty
+3347 Daisy Zhe Wang
+3348 Frank Dignum
+3349 Stephen Cranefield
+3350 Virginia Dignum
+3351 Youzhi Zhang 0001
+3352 Yan Zhao 0008
+3353 Kavitha Srinivas
+3354 Oktie Hassanzadeh
+3355 Jiangzhang Gan
+3356 Rongyao Hu
+3357 Howard J. Hamilton
+3358 Yongjie Yang 0001
+3359 Stuart C. Shapiro
+3360 Xue Li
+3361 Arnaud Gotlieb
+3362 Jie Gui
+3363 Wei-Wei Tu
+3364 Arnold P. Boedihardjo
+3365 Jing Dai
+3366 Hongyu Ren
+3367 Sanjeev Khanna
+3368 Lianghao Xia
+3369 Alberto Martelli
+3370 Ugo Montanari
+3371 Rui Chen 0012
+3372 Ioana Giurgiu
+3373 Hanwang Zhang
+3374 Yunfei Jiang
+3375 Alon Y. Levy
+3376 Dan Suciu
+3377 Daniela Florescu
+3378 Mary F. Fernndez
+3379 Sanjukta Roy
+3380 Alexander Shleyfman
+3381 Shixia Liu
+3382 Sheng Ma
+3383 Chris Pal
+3384 Jaya Kawale
+3385 Nikos Vlassis
+3386 Qi Tan
+3387 Chuanren Liu
+3388 Hao Wang 0076
+3389 Chenchen Liu
+3390 Yadong Mu
+3391 Mrinmaya Sachan
+3392 Hankz Hankui Zhuo
+3393 Yan Yan 0002
+3394 Yang Li
+3395 Janardhan Rao Doppa
+3396 Harry Wechsler
+3397 Shen-Shyang Ho
+3398 Kamalakar Karlapalem
+3399 Fang Chen 0001
+3400 Yang Wang 0002
+3401 Jeremias Berg
+3402 Robert C. Berwick
+3403 Li Zhou 0006
+3404 Renato Paes Leme
+3405 Shaojun Wang
+3406 Tian Xia 0004
+3407 Marc Sebban
+3408 Tim Baarslag
+3409 Moshe Koppel
+3410 Stacy Marsella
+3411 Kun Kuang
+3412 Han Liu 0008
+3413 Xiaotong Zhang 0003
+3414 Ronen Feldman
+3415 Tan Yu
+3416 Guangjian Tian
+3417 Li Zhao 0007
+3418 Abdur Chowdhury
+3419 Aleksander Kolcz
+3420 Siddharth Srivastava
+3421 Yasuo Tabei
+3422 Veronika Thost
+3423 Xiaolong Wang 0001
+3424 Jie Liu
+3425 Jin Yu
+3426 Bin Cui 0001
+3427 Wei Zhai
+3428 Yang Cao 0010
+3429 Qihang Lin
+3430 Xi Chen
+3431 Jeffrey M. Dudek
+3432 Kamesh Munagala
+3433 Nick Cercone
+3434 Garrett Warnell
+3435 Can Wang 0004
+3436 Jos Luis Ambite
+3437 Mohammed J. Zaki
+3438 Yu Chen 0022
+3439 Lijun Zhang 0001
+3440 Shaozi Li
+3441 Na Zou
+3442 Qingquan Song
+3443 Dmitriy Zheleznyakov
+3444 Jianliang Gao
+3445 Jun Gao
+3446 Oskar Dressler
+3447 Vasant G. Honavar
+3448 Xianfeng Tang
+3449 Ananth Grama
+3450 Yi-Qi Hu
+3451 Wei Zhang
+3452 Hoang Nga Nguyen
+3453 Jiahao Wang
+3454 Liang Li
+3455 Bin Li 0035
+3456 Dong Hao
+3457 Xin Wang 0019
+3458 Jonathan Gratch
+3459 Han Li
+3460 Jian Xu 0015
+3461 Junqi Jin
+3462 Kun Gai
+3463 Weixun Wang
+3464 Kiyoharu Aizawa
+3465 Toshihiko Yamasaki
+3466 Junzhou Zhao
+3467 Pinghui Wang
+3468 Artur Dubrawski
+3469 Pengfei Wei
+3470 Yiping Ke
+3471 Zack Fitzsimmons
+3472 Anand S. Rao
+3473 Kai Ming Ting
+3474 Ye Zhu 0002
+3475 Guillermo Ricardo Simari
+3476 Alvaro del Val
+3477 Yuxiao Dong
+3478 Han Zhao 0002
+3479 Zhi Li
+3480 Dhaval Patel 0002
+3481 Alberto Barrn-Cedeo
+3482 Giovanni Da San Martino
+3483 Preslav Nakov
+3484 Jaemin Yoo
+3485 U Kang
+3486 Bin Wu
+3487 Yiran Chen 0001
+3488 HweeHwa Pang
+3489 Kyriakos Mouratidis
+3490 Xiaohua Liu
+3491 Yunsong Guo
+3492 Dmitri A. Dolgov
+3493 Herv Gallaire
+3494 Guimei Liu
+3495 Lan Xu
+3496 Jie Song
+3497 Antonella Poggi
+3498 Wei Gao 0008
+3499 Lavindra de Silva
+3500 Charles Elkan
+3501 Daniele Porello
+3502 Stphane Airiau
+3503 Denise Draper
+3504 Lu Qin 0001
+3505 Ying Zhang 0001
+3506 Zhe Quan
+3507 Yang Liu 0165
+3508 Bolin Ding
+3509 Shoujin Wang
+3510 Helen Meng
+3511 Yonatan Aumann
+3512 Yingjie Tian
+3513 Haoyi Xiong
+3514 Jinghui Chen
+3515 Sandra Zilles
+3516 Xusheng Luo
+3517 Stephen Soderland
+3518 Yingming Li
+3519 Santiago Ontan
+3520 Changyou Chen
+3521 Guibing Guo
+3522 Ralf Ksters
+3523 Eva Onaindia
+3524 Chuizheng Meng
+3525 Xun Zhou
+3526 Ju Fan
+3527 Lizhu Zhou
+3528 J. Andrew Bagnell
+3529 Jeff G. Schneider
+3530 Zonghan Wu
+3531 Alessandro Previti
+3532 Hao Zhou
+3533 Zaiqing Nie
+3534 Zhiting Hu
+3535 Jing Zhang 0001
+3536 Juanzi Li
+3537 Liang Gou
+3538 Xiang Wang 0010
+3539 Yan Li
+3540 Qi Yu 0001
+3541 Siqiang Luo
+3542 Wenqiang Zhang
+3543 Yuan Yuan 0001
+3544 Shane Legg
+3545 Chi Wang 0001
+3546 Jialu Liu
+3547 Marina Danilevsky
+3548 Xiaohong Guan
+3549 Xiaojun Quan
+3550 Diodato Ferraioli
+3551 Phokion G. Kolaitis
+3552 Xiaoyang Wang 0002
+3553 Bir Bhanu
+3554 Yunhong Wang
+3555 Jiaming Xu 0001
+3556 Hongbo Deng
+3557 Qitian Wu
+3558 Xiaofeng Gao 0001
+3559 Yang Xiang
+3560 Qing-Guo Chen
+3561 Xiaobo Wang
+3562 Yujing Hu
+3563 Lu Cheng
+3564 Zhi-Jie Wang 0009
+3565 Lin Ma 0002
+3566 Han Wu 0002
+3567 Edoardo Barba
+3568 Luigi Procopio
+3569 Charu C. Aggarwal
+3570 Wenchao Yu
+3571 Christopher Morris 0001
+3572 Octavian Udrea
+3573 Lyle H. Ungar
+3574 Song Zuo
+3575 Vahab S. Mirrokni
+3576 Brian Cantwell Smith
+3577 Nicola Paoletti
+3578 Qiong Luo 0001
+3579 Mingrui Wu
+3580 Oliviero Stock
+3581 Zheng Wang
+3582 Ullrich Hustadt
+3583 Mingfei Teng
+3584 Rui Cai
+3585 Hiroshi Sawada
+3586 Koh Takeuchi
+3587 Fangkai Yang
+3588 Ramachandra Kota
+3589 Brendan Lucier
+3590 Nika Haghtalab
+3591 Milos Hauskrecht
+3592 Ryosuke Shibasaki
+3593 Xuan Song 0001
+3594 Freddy Lcu
+3595 Donald Metzler
+3596 Marc Najork
+3597 Michael Bendersky
+3598 Cong Fu 0001
+3599 Yehoshua Sagiv
+3600 James Bailey 0001
+3601 Yunsheng Bai
+3602 Elliot Anshelevich
+3603 Long-Kai Huang
+3604 Hui Li
+3605 Gjergji Kasneci
+3606 Jianxin Wang 0001
+3607 Ting Hua
+3608 Zhaofei Yu
+3609 Marco Faella
+3610 Jie Li
+3611 Vu Nguyen 0001
+3612 Sylvie Coste-Marquis
+3613 Jianke Zhu
+3614 Bernhard Schlkopf
+3615 Biwei Huang
+3616 Kun Zhang 0001
+3617 Mingyuan Zhou
+3618 Jian Cao 0001
+3619 Amr Ahmed
+3620 Laura Wynter
+3621 Krzysztof Sornat
+3622 Mengdi Huai
+3623 Jinhui Xu 0001
+3624 Rui Zhang 0003
+3625 Dinesh Manocha
+3626 Paola Mello
+3627 Jian Li 0015
+3628 Anil Vullikanti
+3629 Zhang Xiong 0001
+3630 Junshan Wang
+3631 Kunqing Xie
+3632 Ross D. King
+3633 Qing Zhang
+3634 Jendrik Seipp
+3635 Andreas Niskanen
+3636 Thore Graepel
+3637 George H. L. Fletcher
+3638 Dingqi Yang
+3639 Ping Zhang 0016
+3640 Sanjoy Dey
+3641 Weiwei Li
+3642 Xiuyi Jia
+3643 Joshua Zhexue Huang
+3644 Shu Wu
+3645 Tieniu Tan
+3646 Isabelle Stanton
+3647 Stephan Gnnemann
+3648 Tim Januschowski
+3649 Junyi Li
+3650 Dong Xing
+3651 Qian Zheng
+3652 Lei Chen 0002
+3653 Renate A. Schmidt
+3654 Yizheng Zhao
+3655 Qin Lv
+3656 Bo Yuan 0003
+3657 Keith Decker
+3658 Dijun Luo
+3659 Fabrizio Silvestri
+3660 Md. Shad Akhtar
+3661 Tanmoy Chakraborty 0002
+3662 Heng Ji
+3663 Shufang Zhu 0001
+3664 Dana F. Wilkinson
+3665 Toshio Yokoi
+3666 Amit P. Sheth
+3667 Krishnaprasad Thirunarayan
+3668 Andrs Abeliuk
+3669 Gerardo Berbeglia
+3670 Kai Xiong
+3671 Amnon Lotem
+3672 Huanhuan Chen
+3673 Ye Liu 0002
+3674 Arnab Nandi 0001
+3675 Christopher R
+3676 Wei Wang 0028
+3677 Aditya Pal
+3678 Usama M. Fayyad
+3679 Li Xiong 0001
+3680 Xu Miao
+3681 Yalou Huang
+3682 Qiaozhu Mei
+3683 Ziniu Hu
+3684 Luca de Alfaro
+3685 Neoklis Polyzotis
+3686 Kai Xu
+3687 Xin Liu 0039
+3688 Rodrigo de Salvo Braz
+3689 Michael Kifer
+3690 Ryohei Fujimaki
+3691 Hanyang Liu
+3692 Beng Chin Ooi
+3693 Kee Yuan Ngiam
+3694 Ying Zhang 0015
+3695 Jean-Charles Rgin
+3696 Yan Xu
+3697 Jizhou Huang
+3698 Feng Li
+3699 John C. S. Lui
+3700 Zhipeng Luo
+3701 Junzhou Huang
+3702 Nils J. Nilsson
+3703 Terry Winograd
+3704 Amarjeet Singh 0001
+3705 Min Wang 0001
+3706 Di He
+3707 Guangxu Xun
+3708 Songlin Hu
+3709 Shengchao Qin
+3710 Fan Zhang 0036
+3711 Sen Yang
+3712 Ping Chen 0001
+3713 Sicheng Zhao
+3714 Jan Leike
+3715 Zhouyuan Huo
+3716 Anupam Datta
+3717 Tao Wang
+3718 Chao Li 0033
+3719 Richard S. Zemel
+3720 Xuan-Hong Dang
+3721 Tom Everitt
+3722 Sathappan Muthiah
+3723 Yu Hao 0001
+3724 Bo Chen
+3725 Hao Zhang
+3726 Aurlien Garivier
+3727 Jianmin Wang 0001
+3728 Xiao-Ming Wu 0003
+3729 Yehuda Koren
+3730 Animesh Mukherjee 0001
+3731 Le Song
+3732 Ramn Lpez de Mntaras
+3733 Sihong Xie
+3734 Jian Pei
+3735 Jianxin Wu 0001
+3736 Yuzhong Qu
+3737 Kristina Lerman
+3738 Nick G. Duffield
+3739 Catholijn M. Jonker
+3740 Ashwin Lall
+3741 Marianne Winslett
+3742 Zemin Liu
+3743 Xu Yang 0019
+3744 Shiqi Zhao
+3745 Honglei Guo
+3746 Zhong Su
+3747 Peggy L. Peissig
+3748 Zhaobin Kuang
+3749 Daixin Wang
+3750 Runze Wu
+3751 Xiangyu Zhao
+3752 Ruoming Jin
+3753 Xin Xu
+3754 Thomas Schiex
+3755 Pheng-Ann Heng
+3756 Berthe Y. Choueiry
+3757 Hao Jiang
+3758 Yunming Ye
+3759 ChengXiang Zhai
+3760 Meng Jiang 0001
+3761 Michael J. Swain
+3762 Nicolas Christin
+3763 Marco Tlio Ribeiro
+3764 Santiago Franco
+3765 Qingsong Wen
+3766 Xiaomin Song
+3767 Xuerui Wang
+3768 Lina Khatib
+3769 Kacper Sokol
+3770 Tobias Scheffer
+3771 Chiranjib Bhattacharyya
+3772 Li-Yan Yuan
+3773 Robert Kleinberg
+3774 Xian Wu
+3775 Xinyu Xing
+3776 Ji Liu 0002
+3777 Dimitris Papadias
+3778 Nikos Mamoulis
+3779 Nitin Indurkhya
+3780 Amnon Meisels
+3781 Guanbin Li
+3782 Sai Wu
+3783 Albert Bifet
+3784 Silviu Maniu
+3785 Ching-Yung Lin
+3786 Ana-Maria Popescu
+3787 Wei Shi
+3788 Aram Galstyan
+3789 Fred Morstatter
+3790 Pedro A. Szekely
+3791 Rok Sosic
+3792 Benny Kimelfeld
+3793 Vincent Vidal 0001
+3794 Marko Grobelnik
+3795 Antonio Rago 0001
+3796 Shichao Pei
+3797 Yongchun Zhu
+3798 Meltem ztrk
+3799 Stefano Moretti
+3800 Karel Hork
+3801 Tianfan Fu
+3802 Yizhou Zhang
+3803 Sunita Sarawagi
+3804 Jun Xu 0001
+3805 Rada Chirkova
+3806 Marc Gyssens
+3807 Yolanda E-Martn
+3808 Mengdi Zhang
+3809 Jingfeng Zhang
+3810 Junhui Li
+3811 Lei Cai
+3812 Tingyang Xu
+3813 Yatao Bian
+3814 Yu Rong
+3815 Qiangqiang Dai
+3816 Rong-Hua Li
+3817 Gideon Dror
+3818 Hannu Toivonen
+3819 Hui Su
+3820 Haoyu Wang 0004
+3821 Taifeng Wang
+3822 Michael W. Mahoney
+3823 Rajiv Khanna
+3824 Hong Huang 0001
+3825 Wei Zhou
+3826 Foster J. Provost
+3827 Nicolas Troquard
+3828 Ying Li
+3829 Zengfeng Huang
+3830 Xuan Wu 0003
+3831 Feng Tian 0006
+3832 Kenji Yamanishi
+3833 Yajun Wang 0001
+3834 Xiaojie Wang 0006
+3835 Ee-Peng Lim
+3836 Yi Wang
+3837 Ian Fox
+3838 Jenna Wiens
+3839 Kuansan Wang
+3840 Ke Zhou 0001
+3841 Yu Liu 0040
+3842 Ehud Gudes
+3843 Gkhan Tr
+3844 Huaixiu Zheng
+3845 Yan Yan 0006
+3846 Karl Aberer
+3847 Qi Li 0002
+3848 Si Qin
+3849 Thomas Moscibroda
+3850 Thomas Bolander
+3851 Piotr Indyk
+3852 Shourya Roy
+3853 Chenyi Zhuang
+3854 Nicholas Jing Yuan
+3855 Ruihua Song
+3856 Yuxuan Liang
+3857 Xianzhi Wang 0001
+3858 Bishan Yang
+3859 Yi Li
+3860 Deepayan Chakrabarti
+3861 Jianfeng Gao
+3862 Chen Zhu
+3863 Myra Spiliopoulou
+3864 Daniel Zgner
+3865 Yao Lu
+3866 A. Patricia Ambler
+3867 Robin J. Popplestone
+3868 Bingsheng Wang
+3869 Liangda Li
+3870 Xin Huang 0006
+3871 Stefano Leonardi 0001
+3872 Jeffrey Pound
+3873 Dan Pei
+3874 Meeyoung Cha
+3875 Robert P. Goldman
+3876 Yusuke Tanaka 0002
+3877 Huan Liu
+3878 Werner Nutt
+3879 Heng-Tze Cheng
+3880 Jing Wang
+3881 Panagiotis Karras
+3882 Saeed Amizadeh
+3883 Tao Guo
+3884 Andrea Seveso
+3885 Di Jiang
+3886 Huifeng Guo
+3887 Shouling Ji
+3888 Hsun-Ping Hsieh
+3889 Wee Sun Lee
+3890 Richard Fikes
+3891 Guiying Li
+3892 Jing Zhou
+3893 Min Wang
+3894 Xiuzhen Zhang
+3895 Wolfgang Dvork
+3896 Fenglong Ma
+3897 Qiuling Suo
+3898 Xiaoxiao Guo
+3899 Jason I. Hong
+3900 Yiling Chen 0001
+3901 Dawei Song 0001
+3902 Peng Zhang 0002
+3903 Michael J. Cafarella
+3904 Ben Kao
+3905 Feng Xu 0007
+3906 Chongyang Bai
+3907 Srijan Kumar
+3908 Qingheng Zhang
+3909 Wei Hu 0007
+3910 Wei Xue
+3911 Setsuo Ohsuga
+3912 Shiqiang Ding
+3913 Raymond Chi-Wing Wong
+3914 Peng Han
+3915 Kotagiri Ramamohanarao
+3916 Rui Liu 0014
+3917 Chih-Jen Lin
+3918 Hsiang-Fu Yu
+3919 Kai-Wei Chang
+3920 Zheng Wang 0010
+3921 Mengying Zhu
+3922 Qianqiao Liang
+3923 Joel Oren
+3924 Yuval Filmus
+3925 Jon M. Kleinberg
+3926 S. Sathiya Keerthi
+3927 Wei Chu
+3928 Massih-Reza Amini
+3929 Zhilin Yang
+3930 Long Yang
+3931 Hung Bui 0001
+3932 David Scott Warren
+3933 Jian Liang
+3934 Kunfeng Lai
+3935 Anastasios Noulas
+3936 Cecilia Mascolo
+3937 Xiao Zhou
+3938 Yingzi Wang
+3939 Shantanu Godbole
+3940 Anthony Sicilia
+3941 Tao Zhou 0001
+3942 Robert C. Miller
+3943 Chun-Ta Lu
+3944 Dennis McLeod
+3945 Cheng Qian 0001
+3946 Nicholas D. Sidiropoulos
+3947 Atsutoshi Kumagai
+3948 Stefan Wrobel
+3949 Xiang Ren 0001
+3950 Xiaotao Gu
+3951 Zhigang Chen 0003
+3952 Masashi Shimbo
+3953 Brian Kulis
+3954 Yongjian Fu 0001
+3955 Linchuan Xu
+3956 Yue Yu
+3957 Jianhuang Lai
+3958 Qiang He 0001
+3959 Zheng Li
+3960 Jiwei Tan
+3961 Boris Chidlovskii
+3962 Stephanie Rosenthal
+3963 Henry Tirri
+3964 Petri Myllymki
+3965 Tomasz Ksiezyk
+3966 Makoto Yamada
+3967 Xinjiang Lu
+3968 Quanshi Zhang
+3969 Feng Liang
+3970 Pu Zhao 0004
+3971 Saravan Rajmohan
+3972 Alina Beygelzimer
+3973 Christine Largout
+3974 Shen Ge
+3975 Jianqiang Shen
+3976 Xingjian Shi
+3977 Shuai Zhang
+3978 Weiqiang Wang
+3979 Cheng Long
+3980 Jian Sun 0021
+3981 Lijun Wu
+3982 Steven Skiena
+3983 Masoumeh T. Izadi
+3984 Kien A. Hua
+3985 Pengyang Wang
+3986 Xiaolin Li
+3987 Dawei Zhou 0003
+3988 Hasan Davulcu
+3989 Jian Zhang
+3990 Junpei Komiyama
+3991 Jian-Huang Lai
+3992 Edoardo Pirovano
+3993 Chang Zhou
+3994 Qi Song
+3995 Shuo Chen
+3996 Bo Chen 0023
+3997 Jiarui Qin
+3998 Weiwen Liu
+3999 James J. Lu
+4000 Jian Tan
+4001 Qi Zhao
+4002 Junyang Lin
+4003 Yan Zhu 0014
+4004 Zhiqiang Xu
+4005 Guofei Jiang
+4006 Abdullah Mueen 0001
+4007 Jingren Zhou
+4008 Jun Huang 0007
+4009 Jialei Wang
+4010 Ziyang Chen
+4011 Xinghua Qu
+4012 Yaoliang Yu
+4013 Jiahao Liu
+4014 Yibo Sun
+4015 Andrew McDonald
+4016 Wenyuan Dai
+4017 Yuqiang Chen
+4018 Hao Wang 0005
+4019 Fan Wu
+4020 Hiroaki Shiokawa
+4021 Yanchen Deng
+4022 Dennis E. Shasha
+4023 Zhiyong Shen
+4024 Mingming Sun
+4025 Joydeep Ghosh
+4026 Amy Unruh
+4027 Arnab Bhattacharya 0001
+4028 Sayan Ranu
+4029 Hideaki Kim
+4030 Mathieu Blondel
+4031 Naoki Marumo
+4032 Mehrdad Farajtabar
+4033 Guangquan Zhang 0001
+4034 Jie Lu 0001
+4035 Zheng Liu
+4036 Balaji Krishnamurthy
+4037 Auroop R. Ganguly
+4038 Evan Kodra
+4039 Ramakrishna R. Nemani
+4040 Sangram Ganguly
+4041 Thomas Vandal
+4042 Filip Murlak
+4043 Shuhao Zhang 0001
+4044 Han Xu
+4045 Wei Yu
+4046 Petra Selmer
+4047 Qiang Liu
+4048 Guanjie Zheng
+4049 David Hallac
+4050 Stephen P. Boyd
+4051 Roberto J. Bayardo Jr.
+4052 Xin Mu
+4053 Yang Yang
+4054 Jun Liu 0003
+4055 Bin Chen
+4056 Yu Li
+4057 Pauli Miettinen
+4058 Petri Kontkanen
+4059 Cheng Yang
+4060 Fuxun Yu
+4061 Xiang Chen 0010
+4062 Houxing Ren
+4063 Linjun Shou
+4064 Ming Gong
+4065 Ning Wu
+4066 Zhen Wen
+4067 Eli Upfal
+4068 Xuezhi Wang 0002
+4069 Jun Sakuma
+4070 Haiqing Chen
+4071 Amitabha Bagchi
+4072 Laura Chiticariu
+4073 Yunyao Li 0001
+4074 Roman Vaculn
+4075 Manfred Jaeger
+4076 Pradeep Natarajan
+4077 Payel Das
+4078 Martin Boissier 0001
+4079 Partha Pratim Talukdar
+4080 Mikhail Bilenko
+4081 Jun Huan
+4082 Shichen Liu
+4083 Bo Hu
+4084 Chang-Dong Wang
+4085 Ling Huang
+4086 Yufei Han
+4087 Yun Shen
+4088 Joo Gama 0001
+4089 Wei Chen
+4090 Yanwei Yu
+4091 Christian S. Jensen
+4092 Jun Rao
+4093 Jongwuk Lee
+4094 Paolo Papotti
+4095 Jia Li
+4096 Tanya Y. Berger-Wolf
+4097 Wang-Chien Lee
+4098 Daniel Kifer
+4099 Nick Roussopoulos
+4100 Junwei Pan
+4101 Melih Abdulhayoglu
+4102 Huan Sun
+4103 Sheng Chen
+4104 James Cheng
+4105 Jan Van Haaren
+4106 Tom Decroos
+4107 Guoping Hu
+4108 Yu Su 0002
+4109 Sibo Wang 0001
+4110 Charles Sutton
+4111 David Lo 0001
+4112 Prithwish Chakraborty
+4113 Yue Ning 0001
+4114 Yasin N. Silva
+4115 Brian Gallagher
+4116 Duen Horng Chau
+4117 Li Chen
+4118 Christopher Meek
+4119 Igor V. Cadez
+4120 Padhraic Smyth
+4121 Evangelos E. Papalexakis
+4122 Danai Koutra
+4123 Jiaming Shen
+4124 Jingbo Shang
+4125 Liyuan Liu
+4126 Johannes Gehrke
+4127 Kostas Zoumpatianos
+4128 Themis Palpanas
+4129 Yin Lou
+4130 Davide Mottin
+4131 Emmanuel Mller
+4132 Georgia Koutrika
+4133 Ioannis Tsamardinos
+4134 Sugato Basu
+4135 Xin Zhang
+4136 Yin Yang 0001
+4137 Alex Deng
+4138 Xiaolin Shi
+4139 Honglei Zhuang
+4140 Zhen Qin 0001
+4141 Liang Zhan
+4142 Paul M. Thompson
+4143 Yasuko Matsubara
+4144 Yasushi Sakurai
+4145 Ira Assent
+4146 Thomas Seidl 0001
+4147 Andrey Kan
+4148 Xin Luna Dong
+4149 Alexandru Niculescu-Mizil
+4150 Leman Akoglu
+4151 Mohammad Mahdian
+4152 Wei Jin 0009
+4153 Yiqi Wang 0001
+4154 Miao Fan
+4155 Shengwen Yang
+4156 Brett Wujek
+4157 Patrick Koch
+4158 Mounia Lalmas
+4159 Keqian Li
+4160 Kris Ganjam
+4161 Yeye He
+4162 Yi Ding
+4163 Ahmed El-Kishky
+4164 Qi He
+4165 Kamelia Aryafar
+4166 Vachik S. Dave
+4167 Xiquan Cui
+4168 Chetan Gupta 0001
+4169 Jian Chen 0016
+4170 Indrajit Bhattacharya
+4171 Alex Beutel
+4172 Jilin Chen
+4173 Lichan Hong
+4174 Zhe Zhao 0001
+4175 David W. Cheung
+4176 Bryan L. Lewis
+4177 Chih-Ya Shen
+4178 De-Nian Yang
+4179 Ming-Syan Chen
+4180 Jaewoo Lee
+4181 Parang Saraf
+4182 Atish Das Sarma
+4183 Neel Sundaresan
+4184 Robinson Piramuthu
+4185 Hengliang Luo
+4186 Michal Rosen-Zvi
+4187 Eric Reiman
+4188 Jing Li 0016
+4189 Kewei Chen 0001
+4190 Ravi Janardan
+4191 Teresa Wu
+4192 Yike Guo
+4193 Wenjun Zhou 0001
+4194 Jefrey Lijffijt
+4195 Tijl De Bie
+4196 Chris Volinsky
+4197 Yiming Ma
+4198 Fedor Borisyuk
+4199 Siddarth Malreddy
+4200 Yiqun Liu 0006
+4201 Sen Wu 0001
+4202 Yutao Zhang
+4203 Jun Zhang
+4204 Mohammed Javeed Zaki
+4205 Victor E. Lee
+4206 B. Aditya Prakash
+4207 Hongyang Gao
+4208 David F. Gleich
+4209 Daniel Ting
+4210 Ming-Kun Xie
+4211 Konstantina Christakopoulou
+4212 Markus Weimer
+4213 Matteo Interlandi
+4214 Yiwen Zhu
+4215 David J. DeWitt
+4216 Kristen LeFevre
+4217 Muhammad Bilal Zafar
+4218 Dik Lun Lee
+4219 Patrick Lucey
+4220 Mehran Sahami
+4221 Tong Yang 0003
+4222 Reynold Cheng
+4223 Yudian Zheng
+4224 Ashwin Machanavajjhala
+4225 Nilesh N. Dalvi
+4226 Ravi Kumar 0001
+4227 Vibhor Rastogi
+4228 Belle L. Tseng
+4229 Xiaodan Song
+4230 Yun Chi
+4231 Gagan Agrawal
+4232 Kaushik Sinha
+4233 Boxin Du
+4234 Lihui Liu
+4235 Stefan Feuerriegel
+4236 Robert L. Grossman
+4237 Alexandre V. Evfimievski
+4238 Rakesh Agrawal 0001
+4239 Ramakrishnan Srikant
+4240 Alexandros Labrinidis
+4241 Guobin Wu
+4242 Renqing He
+4243 Zhizhao Sun
+4244 Chengxi Zang
+4245 Linyun Yu
+4246 Renzhe Xu
+4247 Yunfei Lu
+4248 Fabio Pinelli
+4249 Fosca Giannotti
+4250 Mirco Nanni
+4251 Houping Xiao
+4252 Yoshihide Sekimoto
+4253 Matteo Riondato
+4254 Osmar R. Zaane
+4255 Di Chen
+4256 Jia Zeng
+4257 Mingxuan Yuan
+4258 Alexander J. Smola
+4259 Tao Tao
+4260 Bokai Cao
+4261 Rafael Alonso
+4262 Chao Du
+4263 Xu Zhang
+4264 Yifan Li
+4265 Yingnong Dang
+4266 Yuandong Tian
+4267 Yannis Theodoridis
+4268 Gyrgy J. Simon
+4269 Sanjay Purushotham
+4270 Jeff M. Phillips
+4271 Jimmy Lin
+4272 Jiong Yang 0001
+4273 Jia-Yu Pan
+4274 Yexin Li
+4275 Andrew Tomkins
+4276 Gregory Piatetsky-Shapiro
+4277 Sridhar Ramaswamy
+4278 Geoff Hulten
+4279 Neil Shah
+4280 Saurabh Verma
+4281 Tara Safavi
+4282 Tim Weninger
+4283 Jiejun Xu
+4284 Yinglong Xia
+4285 Jianhua Feng
+4286 Dmitry Pavlov
+4287 Heikki Mannila
+4288 Lu Duan
+4289 Yu Gong
+4290 Ramesh C. Agarwal
+4291 Kishlay Jha
+4292 Yaqing Wang
+4293 Bing Hu 0001
+4294 Yanping Chen 0005
+4295 Xiaowei Wang
+4296 Tristan Naumann
+4297 Songgaojun Deng
+4298 Bowen Du 0001
+4299 Jaideep Srivastava
+4300 Yuexiang Xie
+4301 Alexander Rodrguez
+4302 Amin Mantrach
+4303 Guo-Jun Qi
+4304 Andrew Zhai
+4305 Charles Rosenberg
+4306 Nikil Pancha
+4307 Caleb Chen Cao
+4308 H. V. Jagadish
+4309 Kaushik Rangadurai
+4310 Xiaoyi Liu
+4311 Jun Luo 0007
+4312 Yanhua Li
+4313 Sitaram Asur
+4314 Yingxue Zhang 0001
+4315 David Rohde
+4316 Martin Bompaire
+4317 Agma J. M. Traina
+4318 Robert F. Murphy
+4319 Sandeep Pandey
+4320 David Madigan
+4321 Corinna Cortes
+4322 Daryl Pregibon
+4323 Bradley C. Turnbull
+4324 Malay Haldar
+4325 Mustafa Abdool
+4326 Prashant Ramanathan
+4327 Tao Xu
+4328 Fengli Xu
+4329 Biye Jiang
+4330 Guorui Zhou
+4331 Kuang-chih Lee
+4332 Xiaoqiang Zhu
+4333 James G. Shanahan
+4334 Manik Varma
+4335 S. V. N. Vishwanathan
+4336 Bryan L. Matthews
+4337 Nikunj C. Oza
+4338 Kamal Ali
+4339 Ion Stoica
+4340 Sameer Agarwal 0002
+4341 Bee-Chung Chen
+4342 Deepak Agarwal
+4343 Srivatsan Laxman
+4344 Mengnan Du
+4345 Paul S. Bradley
+4346 Hao Lin 0002
+4347 Anil K. Jain 0001
+4348 Sanjay Chawla
+4349 Philip K. Chan
+4350 Wenke Lee
+4351 Bogdan Cautis
+4352 Weiwei Deng
+4353 Jesin Zakaria
+4354 Xiaojie Guo 0002
+4355 Austin R. Benson
+4356 Bryan Perozzi
+4357 Xiangnan Kong
+4358 Chao Zhang 0014
+4359 Qiming Chen
+4360 Umeshwar Dayal
+4361 Dino Pedreschi
+4362 Tok Wang Ling
+4363 Jing Gao
+4364 Subhabrata Mukherjee
+4365 Jen J. Gong
+4366 John V. Guttag
+4367 Krzysztof Koperski
+4368 Huaxiu Yao
+4369 Prithviraj Sen
+4370 Rajeev Rastogi
+4371 Srinivasan H. Sengamedu
+4372 Rebecca N. Wright
+4373 Goetz Graefe
+4374 Surajit Chaudhuri
+4375 Dan Sommerfield
+4376 Sen Cui
+4377 Weishen Pan
+4378 Erheng Zhong
+4379 Erik Vee
+4380 Sergei Vassilvitskii
+4381 Wei-Ying Ma
+4382 Yan Zheng 0001
+4383 Qi Li 0012
+4384 Geoffrey I. Webb
+4385 Feifei Li 0001
+4386 Carla E. Brodley
+4387 Raymond T. Ng
+4388 Ruben H. Zamar
+4389 Blaz Zupan
+4390 Claudia Perlich
+4391 Ryan A. Rossi
+4392 Sungchul Kim
+4393 Di Yao
+4394 Jingping Bi
+4395 Lei Zhang
+4396 Pei Lee
+4397 Xing Wang
+4398 Bart Goethals
+4399 Szymon Jaroszewicz
+4400 Toon Calders
+4401 Qian Sun
+4402 Nicholas Monath
+4403 Yuan Wang
+4404 Dong Xin
+4405 Hong Cheng 0001
+4406 Jianrong Tao
+4407 Linxia Gong
+4408 Bianca Zadrozny
+4409 John Langford 0001
+4410 Naoki Abe
+4411 Jinjun Xiong
+4412 Ada Wai-Chee Fu
+4413 Jeffrey Xu Yu
+4414 Desheng Zhang
+4415 Shuai Wang 0008
+4416 Bo Zhao 0001
+4417 Tak W. Yan
+4418 Ye Chen
+4419 Wei-Shinn Ku
+4420 Emaad A. Manzoor
+4421 Bin Gao 0001
+4422 Andrew J. Connolly
+4423 Kui Yu
+4424 Wei Ding 0003
+4425 Alexander Tuzhilin
+4426 Gediminas Adomavicius
+4427 Seung-Taek Park
+4428 Junjie Wu 0001
+4429 Makoto Onizuka
+4430 Francesco Bonchi
+4431 Francesco Gullo
+4432 Ari Kobren
+4433 Keli Xiao
+4434 Xu Zou
+4435 Ankur Teredesai
+4436 Senjuti Basu Roy
+4437 Jagdish Ramakrishnan
+4438 Udi Weinsberg
+4439 Faizan Javed
+4440 Qiaoling Liu
+4441 Niall M. Adams
+4442 Mingqiang Xue
+4443 Wei Chen 0025
+4444 Rasmus Pagh
+4445 Matthew Richardson
+4446 Saharon Rosset
+4447 Bo Long
+4448 Mitsunori Ogihara
+4449 C. Seshadhri 0001
+4450 Joe Walsh
+4451 Yuyang Wang 0001
+4452 Ian N. Davidson
+4453 Peter B. Walker
+4454 Sean Gilpin
+4455 Cdric Archambeau
+4456 Krishnaram Kenthapadi
+4457 Rodolphe Jenatton
+4458 Xinran He
+4459 Xin Jin
+4460 Thomas Grtner 0001
+4461 Nihit Desai
+4462 Kota Tsubouchi
+4463 Alexandre Termier
+4464 Bijaya Adhikari
+4465 Rose Yu
+4466 Sreenivas Gollapudi
+4467 Benjamin Han
+4468 Douglas Burdick
+4469 Sandeep Tata
+4470 Evimaria Terzi
+4471 Panayiotis Tsaparas
+4472 Taneli Mielikinen
+4473 Srujana Merugu
+4474 Jaewon Yang
+4475 Liang Zhang 0021
+4476 Hui Li 0005
+4477 Byung Suk Lee
+4478 Jae-Gil Lee 0001
+4479 Susik Yoon
+4480 Lauren Haynes
+4481 Ana Lelescu
+4482 Peter J. Haas
+4483 W. Scott Spangler
+4484 Ying Chen 0001
+4485 Jaideep Vaidya
+4486 Kian-Lee Tan
+4487 Alessandro Panconesi
+4488 Flavio Chierichetti
+4489 Manuel Gomez-Rodriguez
+4490 Pan Li 0005
+4491 Chih-Hua Tai
+4492 Brian Frasca
+4493 Roger Longbotham
+4494 Toby Walker
+4495 Ya Xu
+4496 Haoyuan Hu
+4497 Entong Shen
+4498 Ting Yu 0001
+4499 Xiaomin Fang
+4500 Waqar Hasan
+4501 Liangyue Li
+4502 Chenxu Zhu
+4503 Theodore Johnson
+4504 William DuMouchel
+4505 Haesun Park
+4506 Qi Li 0001
+4507 George Karypis
+4508 Jianying Hu
+4509 Le Gruenwald
+4510 Zhi-Li Zhang
+4511 Nate Veldt
+4512 Amit Dhurandhar
+4513 Guan Wang
+4514 Wei Ye 0001
+4515 Karthik Subbian
+4516 Nikhil Rao 0001
+4517 Dmitriy Fradkin
+4518 Fabian Mrchen
+4519 Xiaorui Liu
+4520 Yikun Ban
+4521 Paul E. Stolorz
+4522 Lian Yan
+4523 Antti Ukkonen
+4524 Carlos Castillo 0001
+4525 Kristin P. Bennett
+4526 Xiaoyi Du
+4527 Jouni K. Seppnen
+4528 Hillol Kargupta
+4529 Alessandro Epasto
+4530 Silvio Lattanzi
+4531 Huan Zhao
+4532 Mathias Kraus
+4533 Edwin M. Knorr
+4534 Nick Koudas
+4535 Achla Marathe
+4536 Patrick Butler
+4537 Rupinder Paul Khandpur
+4538 Qiang Zhu 0002
+4539 Alejandro Jaimes
+4540 Emre Kiciman
+4541 Jiezhong Qiu
+4542 Caihua Shan
+4543 Yangyong Zhu
+4544 Yun Xiong
+4545 Kevin Haas
+4546 Jrg Sander 0001
+4547 Junhao Gan
+4548 Qingping Yang
+4549 Yixuan Cao
+4550 Klemens Bhm
+4551 Binhang Yuan
+4552 Ce Zhang 0001
+4553 Yongjun He
+4554 Charalampos E. Tsourakakis
+4555 Stavros Sintos
+4556 Wen-Chih Peng
+4557 Ruofei Zhang
+4558 Anirban Dasgupta 0001
+4559 Petros Drineas
+4560 Vanja Josifovski
+4561 Diane Tang
+4562 Hanzhi Wang
+4563 Zhewei Wei
+4564 Yunyue Zhu
+4565 Chengkai Li
+4566 Jun Yang 0001
+4567 Pankaj K. Agarwal
+4568 You Wu 0001
+4569 Henry G. Goldberg
+4570 Lisa Friedland
+4571 Brian Karrer
+4572 Eugene Agichtein
+4573 Jinha Kim
+4574 Jie Wang 0005
+4575 Peter Wonka
+4576 Xifeng Yan
+4577 Tamraparni Dasu
+4578 Xiao Bai 0002
+4579 Hiroshi Murata
+4580 Ryo Asaoka
+4581 Taichi Kiwaki
+4582 Geoffrey M. Voelker
+4583 Lawrence K. Saul
+4584 Stefan Savage
+4585 Ni Lao
+4586 Gholamreza Nakhaeizadeh
+4587 Abraham Silberschatz
+4588 Lanjun Wang
+4589 Lingyang Chu
+4590 Koji Tsuda
+4591 Josh Attenberg
+4592 Bo Li 0064
+4593 Reza Zafarani
+4594 Amol Ghoting
+4595 Ling Liu 0001
+4596 Muchao Ye
+4597 Xiaowei Xu 0001
+4598 Ariel Fuxman
+4599 Nimrod Megiddo
+4600 Jiaxin Huang
+4601 Yu Meng 0001
+4602 Yu Zhang 0044
+4603 Haolan Chen
+4604 Weidong Guo
+4605 Mengying Sun
+4606 An Zhuo
+4607 Daniel N. Hill
+4608 Alexander G. Gray
+4609 Yan Liang 0004
+4610 lisa Fromont
+4611 Haibin Cheng
+4612 Keith Henderson
+4613 Tina Eliassi-Rad
+4614 Divesh Srivastava
+4615 Inci M. Baytas
+4616 Wei Peng 0001
+4617 Praveen Chandar
+4618 Haojun Zhang
+4619 Limsoon Wong
+4620 Chunqiu Zeng
+4621 Qingqing Long
+4622 Edoardo M. Airoldi
+4623 Jean Pouget-Abadie
+4624 Souvik Ghosh
+4625 Miron Livny
+4626 Narayan Bhamidipati
+4627 Xiaodong Zhang 0001
+4628 Yunyi Zhang
+4629 Aleksandar Lazarevic
+4630 Kyuseok Shim
+4631 Jun'ichi Takeuchi
+4632 George Forman
+4633 Kave Eshghi
+4634 Jian Kang
+4635 Kaikai Ge
+4636 Yudan Liu
+4637 Nagaraj Kota
+4638 Yucheng Low
+4639 Chaoming Song
+4640 Alexey Drutsa
+4641 Gleb Gusev
+4642 Han Zhu
+4643 Chris Jermaine
+4644 Xiuyao Song
+4645 Cynthia Rudin
+4646 Matei Zaharia
+4647 Shivaram Venkataraman
+4648 Xiangrui Meng
+4649 Jie Bao 0003
+4650 Ruiyuan Li
+4651 Sijie Ruan
+4652 Tianfu He
+4653 Liangjie Hong
+4654 Yuchen Li 0001
+4655 Richard F. Helm
+4656 Wentao Wang 0006
+4657 Daheng Wang
+4658 Balaji Padmanabhan
+4659 Mark Crovella
+4660 Theodoros Lappas
+4661 Yu Xu
+4662 Zheng Wang 0011
+4663 Hans-Peter Kriegel
+4664 Mihael Ankerst
+4665 Madeleine Udell
+4666 Michael S. Steinbach
+4667 John Boaz Lee
+4668 Hiroshi Nakagawa
+4669 Fabio Vandin
+4670 Leonardo Pellegrina
+4671 Yuxiong He
+4672 Michael Hay
+4673 Zhifeng Bao
+4674 Shijin Wang 0001
+4675 Jiang Bian 0001
+4676 Eytan Bakshy
+4677 Lei Yu 0001
+4678 David Garca-Soriano
+4679 Edo Liberty
+4680 Fotis Psallidas
+4681 Mohammad Hossein Namaki
+4682 Subru Krishnan
+4683 J. C. Mao
+4684 Xian Li
+4685 Elke A. Rundensteiner
+4686 Thomas Hartvigsen
+4687 Ian En-Hsu Yen
+4688 David Wai-Lok Cheung
+4689 Mary McGlohon
+4690 Hima Patel
+4691 Laure Berti-quille
+4692 Nitin Gupta 0005
+4693 Shashank Mujumdar
+4694 Shazia Afzal
+4695 Olivier Verscheure
+4696 Jayavel Shanmugasundaram
+4697 Willi Klsgen
+4698 Anitha Kannan
+4699 Qin Zhang 0001
+4700 Jennifer Widom
+4701 David Newman 0001
+4702 Grgoire Jauvion
+4703 Nicolas Grislain
+4704 Jinoh Oh
+4705 Caetano Traina Jr.
+4706 Linsey Pang
+4707 Junfeng Ge
+4708 Richard R. Muntz
+4709 Sudipto Guha
+4710 Qianyue Hao
+4711 Nikolaj Tatti
+4712 Polina Rozenshtein
+4713 Lei Cao 0004
+4714 Rupesh Gupta
+4715 Khalid El-Arini
+4716 Himabindu Lakkaraju
+4717 Stephen H. Bach
+4718 Arno Siebes
+4719 Hwanjun Song
+4720 Steven Euijong Whang
+4721 Luis J. Salazar
+4722 Ninghui Li
+4723 Mohammad Taha Bahadori
+4724 Yongxin Tong
+4725 Bo Zong
+4726 Vincent S. Tseng
+4727 Rdiger Wirth
+4728 Pan Pan
+4729 Yinghui Xu
+4730 Yingya Zhang
+4731 Mingyang Zhang 0001
+4732 Chao Liu 0001
+4733 Ming Hua 0001
+4734 Lucian Popa 0001
+4735 Kaushik Chakrabarti
+4736 Yu Yin
+4737 Wentao Zhang
+4738 Yang Li 0106
+4739 Yangyu Tao
+4740 Zeang Sheng
+4741 Zhi Yang 0001
+4742 Jin Xu 0010
+4743 Jingbo Zhou
+4744 Milind R. Naphade
+4745 Sambit Sahu
+4746 Lionel M. Ni
+4747 Siyuan Liu
+4748 Patrick Pantel
+4749 David G. Andersen
+4750 Rui Ding 0001
+4751 Huaijun Jiang
+4752 Yu Shen
+4753 Andreas Zfle
+4754 Matthias Renz
+4755 Flip Korn
+4756 Silu Huang
+4757 Fangbo Tao
+4758 Lidan Wang
+4759 Ying Cui
+4760 Jinhong Jung
+4761 Sahin Cem Geyik
+4762 David Buttler
+4763 Dhruv Choudhary
+4764 Jiyan Yang
+4765 Yuzhen Huang
+4766 Vitaly Shmatikov
+4767 Junming Liu
+4768 Lei Yuan 0001
+4769 Xiaotong Shen
+4770 Renchi Yang
+4771 Xiaokui Xiao
+4772 Martin Scholz
+4773 Namyong Park
+4774 Qingkai Zeng 0001
+4775 Si Zhang
+4776 Daniel B. Neill
+4777 Kaustav Das
+4778 Wilfred Ng
+4779 Weiqing Wang 0001
+4780 Petko Bogdanov
+4781 Fengyi Tang
+4782 Yi Su
+4783 Alexander Hinneburg
+4784 Daniel A. Keim
+4785 Bill Yuan-chi Chiu
+4786 John McPherson
+4787 Yuanyuan Tian
+4788 Peter Scheuermann
+4789 Jianxin Ma
+4790 Ichiro Takeuchi
+4791 Masayuki Karasuyama
+4792 Cheng-Wei Wu
+4793 Ralf Herbrich
+4794 Arthur Zimek
+4795 Tobias Emrich
+4796 Brendan Kitts
+4797 Bruce A. Shapiro
+4798 Jason Tsong-Li Wang
+4799 Kaizhong Zhang
+4800 Donatella Firmani
+4801 Paolo Merialdo
+4802 Rishabh Mehrotra
+4803 Ananthram Swami
+4804 Yingxia Shao
+4805 Wei-Lin Chiang
+4806 Masatoshi Yoshikawa
+4807 Han Su
+4808 Kai Zeng 0002
+4809 Alexandrin Popescul
+4810 Byron Dom
+4811 Tong Zhang 0001
+4812 Amit Somech
+4813 Tova Milo
+4814 Arun Kejariwal
+4815 Jiashuo Liu
+4816 Kai Puolamki
+4817 Varun Aggarwal
+4818 Anmol Bhasin
+4819 Zang Li
+4820 Hector Garcia-Molina
+4821 Vasilis Verroios
+4822 Pavel Berkhin
+4823 Mohammad Al Hasan
+4824 Xupeng Miao
+4825 Zhichao Han
+4826 David M. Blei
+4827 Chris Clifton
+4828 Lars Schmidt-Thieme
+4829 Jun Shi
+4830 Shuo Xiang
+4831 Jianping Zhang
+4832 Geoff Holmes 0001
+4833 Michael Mitzenmacher
+4834 Prabhakar Raghavan
+4835 Yintao Yu
+4836 Xin Dong 0001
+4837 Hongtu Zhu
+4838 Rui Song 0006
+4839 Igor Labutov
+4840 Satoshi Morinaga
+4841 Brian D. Davison 0001
+4842 Ramesh Nallapati
+4843 Johan Ugander
+4844 Satish V. Ukkusuri
+4845 Takahiro Yabe
+4846 Kun Fu 0002
+4847 Yue Lu 0002
+4848 Alin Dobra
+4849 Tian Zhou
+4850 Ricard Gavald
+4851 Dimitrios Gunopulos
+4852 Zhe Zhang
+4853 Matthias Grossglauser
+4854 Victor Kristof
+4855 Guannan Liu
+4856 Salvatore Ruggieri
+4857 Sumit Negi
+4858 Karthik Raman 0001
+4859 Haojie Pan
+4860 Pedro Bizarro
+4861 Dawei Gao
+4862 Lothar Thiele
+4863 Zimu Zhou
+4864 Darya Chudova
+4865 Jerry Kiernan
+4866 Chidanand Apt
+4867 Clement T. Yu
+4868 Hongkun Zhao
+4869 Weiyi Meng
+4870 Stefano Lonardi
+4871 D. Sculley
+4872 Min Zhou 0006
+4873 Manish Marwah
+4874 Anthony K. H. Tung
+4875 Wen Jin
+4876 Fangcheng Fu
+4877 Jiawei Jiang
+4878 S. Muthukrishnan 0001
+4879 Samuel Madden
+4880 Virglio A. F. Almeida
+4881 Muhammad Aurangzeb Ahmad
+4882 Lei Zhang 0001
+4883 Zijian Zheng
+4884 Marios Hadjieleftheriou
+4885 Michail Vlachos
+4886 Kiri Wagstaff
+4887 Assaf Schuster
+4888 Daniel Keren
+4889 Panagiotis Papapetrou
+4890 Kaidi Zhao
+4891 Chong Wang
+4892 Yi Chen 0001
+4893 Krishna Gade
+4894 Alessio Conte
+4895 Roberto Grossi
+4896 Feng Wang
+4897 Xinbing Wang
+4898 Aaron Flores 0001
+4899 Evangelos Simoudis
+4900 Douglas Stott Parker Jr.
+4901 Vagelis Hristidis
+4902 Nanyu Chen
+4903 Vijay V. Raghavan 0001
+4904 Jeong-Hoon Lee
+4905 Min-Soo Kim 0002
+4906 Wook-Shin Han
+4907 Jian Tang 0008
+4908 Kun Liu
+4909 Suju Rajan
+4910 Vladan Radosavljevic
+4911 Kilian Q. Weinberger
+4912 Lei Han 0001
+4913 Byron J. Gao
+4914 Venkatesh Ganti
+4915 William B. March
+4916 Wei Tong
+4917 Trevor Hastie
+4918 Chuishi Meng
+4919 Jinyan Li 0001
+4920 Ashton Anderson
+4921 Daniel P. Huttenlocher
+4922 Chenyang Lu 0001
+4923 Cyrus Shahabi
+4924 Linhong Zhu
+4925 Daniel Barbar
+4926 Behzad Golshan
+4927 Shaoxu Song
+4928 Kathleen Fisher
+4929 Brian Dalessandro
+4930 Rod Hook
+4931 Abdullah Uz Tansel
+4932 Rui Li 0049
+4933 Anirban Majumder
+4934 Lei Shi 0002
+4935 Lei Zou 0001
+4936 Changchang Yin
+4937 Mustafa Ispir
+4938 Pengfei Wang 0008
+4939 Xiaoyi Zeng
+4940 Samuel Ieong
+4941 Ines Frber
+4942 Bang Liu
+4943 Zilong Bai
+4944 Karthikeyan Shanmugam
+4945 Hung Le
+4946 Michael L. Wick
+4947 Chen Zhao
+4948 Qirong Ho
+4949 Mirek Riedewald
+4950 Hai Li 0001
+4951 Paulo Shakarian
+4952 Da Yan 0001
+4953 Sethuraman Panchanathan
+4954 Bhargav Kanagal
+4955 D. Sivakumar 0001
+4956 James Sharpnack
+4957 Dehua Cheng
+4958 Elke Achtert
+4959 Peer Krger
+4960 Qingyun Wu
+4961 Jenny Chiang
+4962 Bailu Ding
+4963 Ahmed Metwally 0001
+4964 Chuan Yu
+4965 Ke Wang 0001
+4966 Yue Wang
+4967 Xiaofeng He
+4968 Xiaojian Zhao
+4969 Jeonghee Yi
+4970 Ruhi Sharma Mittal
+4971 Shanmukha C. Guttula
+4972 Spiros Papadimitriou
+4973 Yossi Matias
+4974 Weiguo Zheng
+4975 Mianwei Zhou
+4976 Rong Ge 0002
+4977 Cindy Xide Lin
+4978 Binghui Wang
+4979 Laxman Dhulipala
+4980 Edwin P. D. Pednault
+4981 Ramakrishnan Kannan
+4982 Lei Li 0001
+4983 Wenchong He
+4984 Zhe Jiang 0001
+4985 Xueqing Liu 0001
+4986 Aria Haghighi
+4987 Harsha Nori
+4988 Chao Shen 0005
+4989 Li Zheng 0001
+4990 Liang Tang
+4991 Jing Tang 0004
+4992 Yitong Zhou
+4993 Richard W. Vuduc
+4994 Walter F. Stewart
+4995 Andrew S. Fast
+4996 Jianhui Ma
+4997 Ori Stitelman
+4998 Troy Raeder
+4999 Gerome Miklau
+5000 Cheng Li 0012
+5001 Nikos Anerousis
+5002 Shu Tao
+5003 Filip Radlinski
+5004 Scott Gaffney
+5005 Shumo Chu
+5006 Liang Wang
+5007 Feng Pan
+5008 Jiong Yang
+5009 Xun Zheng
+5010 Paul G. Sorenson
+5011 Laks V. S. Lakshmanan
+5012 Lars Backstrom
+5013 Yaguang Li
+5014 Kaiping Zheng
+5015 Chao Deng
+5016 Rundong Li
+5017 Zhirong Liu
+5018 Martin L. Kersten
+5019 Maya Okawa
+5020 Fei Pan
+5021 Kun Zhou
+5022 Keng-hao Chang
+5023 Gunhee Kim
+5024 Nan Zhang 0004
+5025 Jens Dittrich
+5026 Xiao Cheng
+5027 Aditya G. Parameswaran
+5028 Xiaoran Yan
+5029 Kun Liu 0001
+5030 Christoph Helma
+5031 Gautam Das 0001
+5032 Lijun Chang
+5033 Manas Joglekar
+5034 Tianyang Zhang
+5035 Diane Lambert
+5036 Jos C. Pinheiro
+5037 Mike Colagrosso
+5038 Peter Lofgren
+5039 Shyamsundar Rajaram
+5040 Georgiana Ifrim
+5041 Dan Zhang
+5042 Guoliang Li 0001
+5043 Marc E. Maier
+5044 Jianlin Feng
+5045 Qiang Huang
+5046 Qiong Fang
+5047 Graham Cormode
+5048 Zhijun Yin
+5049 Erhard Rahm
+5050 Qing Wang 0002
+5051 Ning Zhong 0001
+5052 Bin Wu 0003
+5053 Ke Yi 0001
+5054 Wei Dong 0007
+5055 Wubai Zhou
+5056 Yexi Jiang
+5057 Mudhakar Srivatsa
+5058 Ting Wang 0006
+5059 Arpan Man Sainju
+5060 Wentao Wu 0001
+5061 Bernhard Seeger
+5062 Jens-Peter Dittrich
+5063 Elena Zheleva
+5064 Abdul Quamar
+5065 Chuan Lei
+5066 Fatma zcan
+5067 Vasilis Efthymiou
+5068 David P. Woodruff
+5069 Jiayu Li
+5070 Junghoo Cho
+5071 Yang Weng
+5072 Ali Dasdan
+5073 Tingjian Ge
+5074 Ashish Gupta
+5075 Wei Wang 0059
+5076 Mahashweta Das
+5077 Edward Choi
+5078 Andrea Tagarelli
+5079 Gio Wiederhold
+5080 Gustavo Alonso
+5081 Jens Teubner
+5082 Haiquan Chen
+5083 Si Si
+5084 Wenlin Chen
+5085 Donald Kossmann
+5086 Pierre Senellart
+5087 Jianfeng Zhang
+5088 Avraham Shinnar
+5089 Martin Hirzel
+5090 Daniel Jiang
+5091 Yufei Tao 0001
+5092 Longqi Yang
+5093 Joel L. Wolf
+5094 Kun-Lung Wu
+5095 Smriti Bhagat
+5096 Chenglong Wang
+5097 Todd C. Mowry
+5098 Barna Saha
+5099 Ross Maciejewski
+5100 Sarah Tan
+5101 Arno J. Knobbe
+5102 Dharmendra S. Modha
+5103 Xiaoxin Yin
+5104 Phillip B. Gibbons
+5105 Xuehua Shen
+5106 Jie Liu 0001
+5107 Jian Guo 0002
+5108 Weijie Zhao 0001
+5109 Venu Satuluri
+5110 George Kollios
+5111 Hasso Plattner
+5112 Kunal Punera
+5113 Pavel A. Dmitriev
+5114 Somit Gupta
+5115 Jinyun Yan
+5116 Shaunak Chatterjee
+5117 Sergey Brin
+5118 Anand Rajaraman
+5119 Panagiotis G. Ipeirotis
+5120 Wei Lu 0002
+5121 Christopher M. Jermaine
+5122 Rainer Gemulla
+5123 Yannis Sismanis
+5124 Jiannan Wang
+5125 Minmin Chen
+5126 Xinyu Wei
+5127 Ouri Wolfson
+5128 Johann Gamper
+5129 Michael H. Bhlen
+5130 Abdulhakim Ali Qahtan
+5131 Philippe Bonnet
+5132 James Hodson
+5133 Ran Wolff 0001
+5134 John Paparrizos
+5135 Zhengyang Wang
+5136 Alan J. Demers
+5137 Kenny Qili Zhu
+5138 Ahmed K. Elmagarmid
+5139 Mourad Ouzzani
+5140 Nan Tang 0001
+5141 Raul Castro Fernandez
+5142 Eunyee Koh
+5143 Sam Shah
+5144 Tomasz Imielinski
+5145 Dong Wei 0001
+5146 Mohammadreza Esfandiari
+5147 Sihem Amer-Yahia
+5148 Jianhui Sun
+5149 Yu Wang 0160
+5150 Cludio T. Silva
+5151 Fan Du
+5152 Juliana Freire
+5153 Yashoteja Prabhu
+5154 Shiby Thomas
+5155 Hongjun Lu
+5156 Herodotos Herodotou
+5157 Da Zheng
+5158 Einat Neumann
+5159 Yizhak Idan
+5160 Peng Jiang
+5161 Jianhua Yin
+5162 Il-Yeol Song
+5163 Prasad Deshpande
+5164 Apostol Natsev
+5165 John R. Smith
+5166 Sarvjeet Singh
+5167 Bin Shao
+5168 Minqing Hu
+5169 Meng Liu
+5170 Shengqi Yang
+5171 Furui Liu
+5172 Daniel J. Abadi
+5173 Kjetil Nrvg
+5174 Lorenzo De Stefani
+5175 Xiaohui Yu 0001
+5176 Zhengkui Wang
+5177 Xin Lin
+5178 Guozhu Dong
+5179 Zheyan Shen
+5180 Yizhou Yan
+5181 John C. Shafer
+5182 Sriram Subramanian
+5183 Yu Shi 0002
+5184 Sebastian Schelter
+5185 Maria Luisa Sapino
+5186 Mingxi Wu
+5187 Zheng Zhang 0001
+5188 M. Tamer zsu
+5189 Ning Ruan
+5190 Moshe Gabel
+5191 Suman Nath
+5192 Paul Barford
+5193 Yi-Leh Wu
+5194 Di Yang
+5195 Arnd Christian Knig
+5196 Shinichi Morishita
+5197 Takeshi Fukuda
+5198 Takeshi Tokuyama
+5199 Yasuhiko Morimoto
+5200 Dong Li
+5201 Zhi Liu
+5202 Wenliang Du
+5203 Hiroshi Tanaka
+5204 Shusaku Tsumoto
+5205 Himchan Park
+5206 Bo Wang
+5207 Larisa Shwartz
+5208 Andrew McGregor 0001
+5209 Larry Kerschberg
+5210 Peixiang Zhao
+5211 Sheng Wang 0011
+5212 Gregory R. Ganger
+5213 Chung-Min Chen
+5214 Shan-Hung Wu
+5215 Baile Shi
+5216 Eugene J. Shekita
+5217 Walker M. White
+5218 Jun'ichi Tatemura
+5219 Bin He 0001
+5220 Torsten Hoefler
+5221 Sudip Roy 0002
+5222 Hao Wu 0057
+5223 Shan Wang 0001
+5224 Abhijith Kashyap
+5225 Vassilis J. Tsotras
+5226 Yiyan Qi
+5227 Theodoros Rekatsinas
+5228 Riccardo Torlone
+5229 Peter Triantafillou
+5230 Chuan Xiao 0001
+5231 Jianbin Qin
+5232 Yaoshu Wang
+5233 Shi Gao
+5234 Andy Diwen Zhu
+5235 Xiaodong Zhang
+5236 Changji Li
+5237 Hongzhi Chen
+5238 Hanan Samet
+5239 Dan Olteanu
+5240 Shazia Wasim Sadiq
+5241 Christian A. Lang
+5242 Hong Gao 0001
+5243 Jianzhong Li 0001
+5244 Sourav S. Bhowmick
+5245 Emanuel Zgraggen
+5246 Tim Kraska
+5247 Minos N. Garofalakis
+5248 Kenneth A. Ross
+5249 Stefan Berchtold
+5250 Won Kim 0001
+5251 Bogdan Alexe
+5252 Ioana Roxana Stanoi
+5253 Mauricio A. Hernndez
+5254 Rajasekar Krishnamurthy
+5255 Michael J. Carey 0001
+5256 Alexander L. Wolf
+5257 Arthur M. Keller
+5258 Ramana Yerneni
+5259 Wilburt Labio
+5260 Arvola Chan
+5261 Daniel R. Ries
+5262 Nathan Goodman
+5263 Divyakant Agrawal
+5264 C. Mohan 0001
+5265 Joseph M. Hellerstein
+5266 Marcel Kornacker
+5267 Naveen Ashish
+5268 Wen-Syan Li
+5269 Dimitrios Tsoumakos
+5270 Ioannis Konstantinou
+5271 Nectarios Koziris
+5272 Nikolaos Papailiou
+5273 Botong Huang
+5274 Carsten Binnig
+5275 Ismail Oukid
+5276 Norman May
+5277 Jiaqi Gu 0001
+5278 Huey-Eng Chua
+5279 Betty Salzberg
+5280 Rui Wang 0002
+5281 Joy Arulraj
+5282 Shamkant B. Navathe
+5283 Russell Sears
+5284 Praveen Seshadri
+5285 Arun Kumar 0001
+5286 Jeffrey F. Naughton
+5287 Jignesh M. Patel
+5288 Cheng Xu 0004
+5289 Anil Nori
+5290 Hans-Jrg Schek
+5291 Olga Papaemmanouil
+5292 Stratos Idreos
+5293 Ankur Dave
+5294 Michael Armbrust
+5295 George Lapis
+5296 Guy M. Lohman
+5297 Hamid Pirahesh
+5298 Roberta Cochrane
+5299 Tobin J. Lehman
+5300 Mohamed Y. Eltabakh
+5301 Carlo Curino
+5302 Alexander Thomson
+5303 Kun Ren
+5304 Thaddeus Diamond
+5305 David DeHaan
+5306 Wenfei Fan
+5307 Xin Wang 0064
+5308 Markus M. Breunig
+5309 Jeff LeFevre
+5310 Philip Bohannon
+5311 Calton Pu
+5312 Wei Han
+5313 Wei Tang 0005
+5314 Alfons Kemper
+5315 Peter A. Boncz
+5316 Thomas Neumann 0001
+5317 Viktor Leis
+5318 Piero Fraternali
+5319 Stefano Ceri
+5320 Stefano Paraboschi
+5321 Laura M. Haas
+5322 Rene J. Miller
+5323 Anastassia Ailamaki
+5324 Stavros Harizopoulos
+5325 Vladislav Shkapenyuk
+5326 Babak Salimi
+5327 Boris Glavic
+5328 Jiongli Zhu
+5329 Romila Pradhan
+5330 Meihui Zhang 0001
+5331 Vivek R. Narasayya
+5332 Amarnath Gupta
+5333 Calisto Zuzarte
+5334 Haibo Hu 0001
+5335 Shalom Tsur
+5336 Sumit Ganguly
+5337 Alexander Kalinin 0001
+5338 Ugur etintemel
+5339 Theo Hrder
+5340 Jos A. Blakeley
+5341 Torsten Grust
+5342 Bongki Moon
+5343 Sang-Won Lee 0001
+5344 Woon-Hak Kang
+5345 Yang-Suk Kee
+5346 Inderpal Narang
+5347 Lin Qiao
+5348 Vijayshankar Raman
+5349 Abdallah Salama
+5350 Erfan Zamanian
+5351 David Maier 0001
+5352 Kristin Tufte
+5353 Vassilis Papadimos
+5354 Sharad Mehrotra
+5355 Amol Deshpande
+5356 Yanqing Peng
+5357 Luis Leopoldo Perez
+5358 Amr El Abbadi
+5359 Mohammad Javad Amiri
+5360 Srinath Shankar
+5361 Shivnath Babu
+5362 Joachim Hammer
+5363 Michael Stonebraker
+5364 Quoc Trung Tran
+5365 Changkyu Kim
+5366 Eric Sedlar
+5367 Jatin Chhugani
+5368 Nadathur Satish
+5369 Pradeep Dubey
+5370 Tim Kaldewey
+5371 Yannis Kotidis
+5372 Ziyang Liu 0001
+5373 Krithi Ramamritham
+5374 Carlos Garcia-Alvarado
+5375 Carlos Ordonez 0001
+5376 David A. Patterson
+5377 Michael J. Franklin
+5378 Alexandra Meliou
+5379 Eugene Wu 0002
+5380 Xiaolan Wang 0001
+5381 Hongfei Guo
+5382 Jonathan Goldstein
+5383 Per-ke Larson
+5384 Janet L. Wiener
+5385 Maurice van Keulen
+5386 Stefan Manegold
+5387 Nicolas Bruno
+5388 Jeffrey D. Ullman
+5389 Venky Harinarayan
+5390 George P. Copeland
+5391 Franz Frber
+5392 Saravanan Thirumuruganathan
+5393 Akhil Arora 0001
+5394 Sainyam Galhotra
+5395 Panos K. Chrysanthis
+5396 Alan D. Fekete
+5397 George Fletcher 0001
+5398 Mohamed F. Mokbel
+5399 Zeyuan Shang
+5400 Barzan Mozafari
+5401 David B. Lomet
+5402 Jorge-Arnulfo Quian-Ruiz
+5403 Volker Markl
+5404 Zoi Kaoudi
+5405 Srikanth Kandula
+5406 Mehmet Altinel
+5407 Stanley B. Zdonik
+5408 Thomas Baby
+5409 Mohammad Dashti 0001
+5410 Sang Kyun Cha
+5411 Henry F. Korth
+5412 Dirk Habich
+5413 Thomas Kissinger
+5414 Wolfgang Lehner
+5415 Ziawasch Abedjan
+5416 Eric Lo 0001
+5417 Pengfei Zhang
+5418 Yaron Kanza
+5419 Spyros Blanas
+5420 Michael Hammer
+5421 Andrew Pavlo
+5422 Prashanth Menon
+5423 Muralidhar Krishnaprasad
+5424 Vikas Arora
+5425 Zhen Hua Liu
+5426 Anish Das Sarma
+5427 Dana Van Aken
+5428 Andrey Balmin
+5429 Kevin S. Beyer
+5430 Man Lung Yiu
+5431 Tsz Nam Chan
+5432 Lin Ma 0006
+5433 Alexandros Biliris
+5434 Euthimios Panagos
+5435 William O'Connell
+5436 Huahai Yang
+5437 Jingbo Xu
+5438 Antonios Deligiannakis
+5439 Nikos Giatrakos
+5440 Kai-Uwe Sattler
+5441 Prajakta Kalmegh
+5442 Wenyuan Yu
+5443 P. P. S. Narayan
+5444 S. Seshadri
+5445 S. Sudarshan 0001
+5446 Haibo Chen 0001
+5447 Zhaoguo Wang
+5448 Dong Deng 0001
+5449 Stephan Seufert
+5450 Sudeepa Roy
+5451 Zhengjie Miao
+5452 Donovan A. Schneider
+5453 Fernando Chirigati
+5454 Harish Doraiswamy
+5455 Wolfgang Gatterbauer
+5456 Shaul Dar
+5457 Abolfazl Asudeh
+5458 Azade Nazi
+5459 Abhijit Pol
+5460 Subramanian Arumugam 0002
+5461 Yannis Velegrakis
+5462 Ali Ghodsi 0002
+5463 Peter Bailis
+5464 Ahmed Eldawy
+5465 Anastasia Ailamaki
+5466 Ioannis Alagiannis
+5467 Susan B. Davidson
+5468 Zhuowei Bao
+5469 Mehul A. Shah
+5470 Jiaheng Lu
+5471 Zhen Zhang 0001
+5472 Yanlei Diao
+5473 Csar A. Galindo-Legaria
+5474 Florian Waas
+5475 Klaus R. Dittrich
+5476 Eric N. Hanson
+5477 Jrme Simon
+5478 Kristi Morton
+5479 Nicola Onose
+5480 Hakan Hacigms
+5481 Oliver Po
+5482 Cheng Sheng 0001
+5483 Jianzhong Li
+5484 Harry K. T. Wong
+5485 Philip A. Bernstein
+5486 Peter R. Pietzuch
+5487 Sailesh Krishnamurthy
+5488 Chavdar Botev
+5489 Yikai Zhang 0001
+5490 Ios Kotsogiannis
+5491 Hyungsoo Jung 0001
+5492 Jim Gray 0001
+5493 Yanif Ahmad
+5494 Brian Hentschel
+5495 Michael S. Kester
+5496 Stavros Papadopoulos 0001
+5497 Bruce G. Lindsay 0001
+5498 Anna Fariha
+5499 Raoni Loureno
+5500 Anisoara Nica
+5501 Xin Zhang 0002
+5502 Azza Abouzied
+5503 Stelios Paparizos
+5504 Yuqing Wu
+5505 Marcos Antonio Vaz Salles
+5506 Tuan Cao
+5507 Huanchen Zhang
+5508 Felix Naumann
+5509 Yang Cao 0012
+5510 Ioannis Mytilinis
+5511 Yannis E. Ioannidis
+5512 Yannis Manolopoulos
+5513 Reynold S. Xin
+5514 Sanjay Krishnan
+5515 Stijn Vansummeren
+5516 Immanuel Trummer
+5517 Jiong He
+5518 Johns Paul
+5519 Alan Halverson
+5520 Rimma V. Nehme
+5521 Ashish Gupta 0001
+5522 Inderpal Singh Mumick
+5523 Arijit Khan 0001
+5524 Pinar Tzn
+5525 Adina Crainiceanu
+5526 Prakash Linga
+5527 James Clifford
+5528 Chee Yong Chan
+5529 Olga Poppe
+5530 Can Lu
+5531 Muyang Liu
+5532 Yuanhao Li 0003
+5533 Willis Lang
+5534 Nikolaus Augsten
+5535 Walid G. Aref
+5536 Sergey Melnik 0001
+5537 Yannis Katsis
+5538 Alin Deutsch
+5539 Bo Tang 0016
+5540 Sudipto Das
+5541 Alkis Simitsis
+5542 Supun Nakandala
+5543 Alexander Aiken
+5544 Dong Young Yoon
+5545 Philipp M. Grulich
+5546 Sebastian Bre
+5547 Steffen Zeuch
+5548 Tilmann Rabl
+5549 Wen-Chi Hou
+5550 Gang Gou
+5551 Daniel Deutch
+5552 Yuval Moskovitch
+5553 Atul Adya
+5554 Barbara Liskov
+5555 Robert Gruber
+5556 Umesh Maheshwari
+5557 Yuri Breitbart
+5558 Haitao Yuan 0002
+5559 Christine Tomlinson
+5560 Darrell Woelk
+5561 Markus Pilman
+5562 Simon Loesing
+5563 Alvin Cheung
+5564 Lipyeow Lim
+5565 Pekka Kostamaa
+5566 AnHai Doan
+5567 Esteban Arcaute
+5568 Ganesh Krishnan
+5569 Paul Suganthan G. C.
+5570 Rohit Deep
+5571 Vijay Raghavendra
+5572 Kai Huang
+5573 Ryan Marcus
+5574 Sona Hasani
+5575 Raghav Kaushik
+5576 Ravishankar Ramamurthy
+5577 Arvind Arasu
+5578 Denilson Barbosa 0001
+5579 Ming-Chien Shan
+5580 Jinfeng Li
+5581 Xiao Yan 0002
+5582 Manos Athanassoulis
+5583 Luis Gravano
+5584 Karthik Ramachandra 0002
+5585 Dhruba Borthakur
+5586 Tolga Bozkaya
+5587 Z. Meral zsoyoglu
+5588 Sriram Padmanabhan
+5589 Matthias Boehm 0001
+5590 Gang Luo 0001
+5591 Benot Dageville
+5592 Marcin Zukowski
+5593 Thierry Cruanes
+5594 Magdalena Balazinska
+5595 Prasang Upadhyaya
+5596 Peter Zabback
+5597 Louiqa Raschid
+5598 Jinsoo Lee
+5599 Yang-Sae Moon
+5600 Badrish Chandramouli
+5601 Ravi Ramamurthy
+5602 Dieter Gawlick
+5603 Hanuma Kodavalla
+5604 Ken Eguro
+5605 Panagiotis Antonopoulos
+5606 Ramarathnam Venkatesan
+5607 Wenjian Xu
+5608 Ziqiang Feng
+5609 Markos Zaharioudakis
+5610 Ihab F. Ilyas
+5611 Chee-Yong Chan
+5612 Shangyu Luo
+5613 Michael Kaminsky
+5614 Angela Bonifati
+5615 Xiangyao Yu
+5616 Yannis Chronis
+5617 Zhihan Guo
+5618 Liuba Shrira
+5619 Miguel Castro 0001
+5620 Youngchoon Park
+5621 David R. Karger
+5622 Dean Jacobs
+5623 Milos Nikolic 0001
+5624 Shay Gershtein
+5625 Slava Novgorodov
+5626 Benjamin Bercovitz
+5627 Carl-Christian Kanne
+5628 Vuk Ercegovac
+5629 Ren Mller 0001
+5630 Side Li
+5631 Vraj Shah
+5632 Ravi Krishnamurthy
+5633 Peter Buneman
+5634 Rmi Rampin
+5635 Anant Jhingran
+5636 Chaitanya K. Baru
+5637 Hui-I Hsiao
+5638 Robert Christensen
+5639 Luc Bouganim
+5640 Philippe Pucheral
+5641 Narain H. Gehani
+5642 Oded Shmueli
+5643 Adam Silberstein
+5644 Brian F. Cooper
+5645 Wenchao Zhou
+5646 Franois Bancilhon
+5647 Danica Porobic
+5648 Wei Cao 0006
+5649 Xiaojie Feng
+5650 Yusong Gao
+5651 Nelson Mendona Mattos
+5652 Kangfei Zhao
+5653 Emiran Curtmola
+5654 Yannis Papakonstantinou
+5655 Ioana Manolescu
+5656 Serge Abiteboul
+5657 Bjrn r Jnsson 0001
+5658 Dong Xie 0001
+5659 Anil Shanbhag
+5660 Giuseppe Santucci
+5661 Tiziana Catarci
+5662 Peter Muth
+5663 Brandon Haynes
+5664 Luis Ceze
+5665 Lele Yu
+5666 Henning Khler
+5667 Huaiyu Zhu 0001
+5668 Shivakumar Vaithyanathan
+5669 Sriram Raghavan
+5670 Amr El-Helw
+5671 Lyublena Antova
+5672 Michalis Petropoulos
+5673 Mohamed A. Soliman
+5674 Zhongxian Gu
+5675 Lukasz Golab
+5676 Kaiyu Feng
+5677 Jose Picado
+5678 Dennis Tsichritzis
+5679 Amir Ilkhechi
+5680 Benjamin Httasch
+5681 Nathaniel Weir
+5682 Prasetya Utama
+5683 R. G. G. Cattell
+5684 Andreas Kipf
+5685 Konstantinos Karanasos
+5686 Peter Widmayer
+5687 Philipp Eichmann
+5688 Guido Moerkotte
+5689 Yueting Chen
+5690 Adriane Chapman
+5691 Denis Hirn
+5692 Martin Farach-Colton
+5693 Michael A. Bender
+5694 Prashant Pandey 0001
+5695 Rob Johnson
+5696 Patrick E. O'Neil
+5697 Bin Liu 0002
+5698 Chris Olston
+5699 Hazem Elmeleegy
+5700 Norman W. Paton
+5701 Suzanne M. Embury
+5702 Val Tannen
+5703 Zachary G. Ives
+5704 Holger Pirk
+5705 Ashraf Aboulnaga
+5706 Michael J. Zwilling
+5707 Shimin Chen
+5708 Anastasios Kementsietsidis
+5709 Harumi A. Kuno
+5710 Shahram Ghandeharizadeh
+5711 Chris Douglas
+5712 Sriram Rao
+5713 Pingcheng Ruan
+5714 Ba Quan Truong
+5715 Timos K. Sellis
+5716 Oliver Kennedy
+5717 Chao Tian 0001
+5718 Jialin Ding
+5719 Umar Farooq Minhas
+5720 Tobias Mhlbauer
+5721 Alekh Jindal
+5722 Leilani Battle
+5723 Boon Thau Loo
+5724 Micah Sherr
+5725 Guna Prasaad
+5726 Nesime Tatbul
+5727 Peter M. Fischer 0001
+5728 Hong Su
+5729 Kajal T. Claypool
+5730 Li Chen 0016
+5731 Hyeontaek Lim
+5732 Tyson Condie
+5733 David E. Simmen
+5734 David W. Stemple
+5735 Sanjay Agrawal 0001
+5736 Johann Christoph Freytag
+5737 Utkarsh Srivastava
+5738 Hongrae Lee
+5739 Verena Kantere
+5740 Donald D. Chamberlin
+5741 Latha S. Colby
+5742 King-Lup Liu
+5743 Nitin Gupta 0003
+5744 Hans-Arno Jacobsen
+5745 Ruben Mayer
+5746 Matthias Jarke
+5747 Chin-Wan Chung
+5748 Saehan Jo
+5749 Jayant R. Haritsa
+5750 Hyunjung Park 0001
+5751 Kyu-Young Whang
+5752 Ippokratis Pandis
+5753 Orestis Polychroniou
+5754 Todd J. Green
+5755 Martin Theobald
+5756 Ivan T. Bowman
+5757 Hua Lu 0001
+5758 Mariano P. Consens
+5759 Muhsen Owaida
+5760 Zsolt Istvn
+5761 Rahul Shah
+5762 Sunil Prabhakar
+5763 Lefteris Sidirourgos
+5764 Georges Gardarin
+5765 Chun Zhang
+5766 Edward Gan
+5767 Yahiko Kambayashi
+5768 Kothuri Venkata Ravi Kanth
+5769 Stanley Y. W. Su
+5770 Lingjiao Chen
+5771 Paraschos Koutris
+5772 Matthew Butrovich
+5773 Akrivi Vlachou
+5774 Christos Doulkeridis
+5775 Adam Marcus 0002
+5776 Zongheng Yang
+5777 Marie Jacob
+5778 Farhan Tauheed
+5779 Stphane Bressan
+5780 Thomas Heinis
+5781 Richard T. Snodgrass
+5782 Jennie Duggan
+5783 Kevin Wilkinson
+5784 Qizhen Zhang 0001
+5785 Prasan Roy
+5786 Anurag Gupta
+5787 Yiru Chen
+5788 Kian Win Ong
+5789 Wai Kit Wong
+5790 Cecilia M. Procopiuc
+5791 Arie Shoshani
+5792 Bin Dong 0002
+5793 Kesheng Wu
+5794 Wang-Chiew Tan
+5795 Somesh Jha
+5796 Tianhao Wang 0001
+5797 Dirk Van Gucht
+5798 Minhao Jiang
+5799 Zhiyuan Chen 0003
+5800 Siddharth Seth
+5801 Johes Bater
+5802 Manasi Vartak
+5803 Patrick Valduriez
+5804 Ming-Ling Lo
+5805 Yuan-Chi Chang
+5806 Jan Paredaens
+5807 Aaron J. Elmore
+5808 Nave Frost
+5809 Jan Rittinger
+5810 Mirella M. Moro
+5811 Miao Qiao
+5812 Richard Sidle
+5813 Yingjun Wu
+5814 Hao Zhang 0098
+5815 Howard Ho
+5816 Xuntao Cheng
+5817 Song Wang 0001
+5818 Roger King
+5819 Jana Giceva
+5820 Jess Camacho-Rodrguez
+5821 Alberto Lerner
+5822 Fan Yang 0002
+5823 Fei Xu
+5824 Vincent Y. Lum
+5825 Manoj Syamala
+5826 Arash Termehchy
+5827 Donghui Zhang
+5828 Mohammad Sadoghi
+5829 Dmitri V. Kalashnikov
+5830 Oliver Spatscheck
+5831 Yan Qi 0002
+5832 Sam Madden
+5833 Alexander Shraer
+5834 Rebecca Taft
+5835 Dominik Moritz
+5836 Hari Balakrishnan
+5837 Zografoula Vagena
+5838 Nicolas Anciaux
+5839 Gerald J. Popek
+5840 Dongqing Yang
+5841 Asterios Katsifodimos
+5842 Su Feng
+5843 Vasilis Vassalos
+5844 Faisal Nawab
+5845 Tien Tuan Anh Dinh
+5846 Shixuan Sun
+5847 Randy H. Katz
+5848 Ping Lu
+5849 Qiang Yin 0002
+5850 Ruiqi Xu
+5851 Pawel Terlecki
+5852 Richard Michael Grantham Wesley
+5853 Sudipta Sengupta
+5854 Curt J. Ellmann
+5855 Karthikeyan Ramasamy
+5856 Kurt A. Shoens
+5857 Wang Chiew Tan
+5858 Asuman Dogac
+5859 Shi Qiao 0001
+5860 Erik Paulson 0001
+5861 Jinglin Peng
+5862 Pei Wang
+5863 Yoshiharu Ishikawa
+5864 Jagan Sankaranarayanan
+5865 Zhongjun Jin
+5866 Jiewen Huang
+5867 Milind Joshi
+5868 Kyoungmin Kim
+5869 Seongyun Ko
+5870 Curtis E. Dyreson
+5871 Yannis Vassiliou
+5872 Xiao Hu 0005
+5873 Ralf Schneider
+5874 Thomas Brinkhoff
+5875 Brad Glasbergen
+5876 Khuzaima Daudjee
+5877 Michael Abebe 0001
+5878 Tieying Zhang
+5879 Richard T. B. Ma
+5880 Amit Shukla 0001
+5881 In Seo
+5882 Mohammad Alizadeh
+5883 Divy Agrawal
+5884 Mohamed Yakout
+5885 Yongjoo Park
+5886 Semih Salihoglu
+5887 Witold Litwin
+5888 Zechao Shang
+5889 Naga K. Govindaraju
+5890 Paolo Atzeni
+5891 Yael Amsterdamer
+5892 Seth J. White
+5893 Marek Rusinkiewicz
+5894 Chaitanya Mishra
+5895 Sanjib Das
+5896 Eric Simon
+5897 Lawrence A. Rowe
+5898 Witold Lipski Jr.
+5899 Christopher Olston
+5900 Haifeng Jiang
+5901 Louis Woods
+5902 Sebastian Link
+5903 Svetlozar Nestorov
+5904 Georgios Giannikis
+5905 Venkatesh Raghavan
+5906 Frederick Reiss 0001
+5907 Dimitris Tsirogiannis
+5908 Mitch Cherniack
+5909 Shivakumar Venkataraman
+5910 Jose M. Faleiro
+5911 Chengliang Chai
+5912 Sophie Cluet
+5913 Vassilis Christophides
+5914 Roger S. Barga
+5915 Christoph Quix
+5916 Alexander Brodsky 0001
+5917 Beda Christoph Hammerschmidt
+5918 Kenneth Salem
+5919 Jeffrey Jestes
+5920 Matteo Lissandrini
+5921 Leonidas Fegaras
+5922 Jaeseon Yu
+5923 Jong-Bin Kim
+5924 Sooyong Kang
+5925 Haozhou Wang
+5926 Songting Chen
+5927 Melanie Herschel
+5928 Eugene Wong 0001
+5929 Igor Tatarinov
+5930 Alec Grieser
+5931 Scott Shenker
+5932 Gabriel Bender
+5933 Florin Rusu
+5934 Karl Schnaitter
+5935 Swarup Acharya
+5936 Viswanath Poosala
+5937 Marc T. Friedman
+5938 Arjun Dasgupta
+5939 Chinya V. Ravishankar
+5940 Wolfgang Kfer
+5941 Hannes Voigt
+5942 Juan F. Sequeda
+5943 Stefan Plantikow
+5944 Tobias Lindaaker
+5945 Thibault Sellam
+5946 Zhuoyue Zhao
+5947 Haran Boral
+5948 Jieming Shi
+5949 Michel Scholl
+5950 Xueyan Tang
+5951 Paris C. Kanellakis
+5952 Amir Gilad
+5953 Junxiong Wang
+5954 Niv Dayan
+5955 Erkang Zhu
+5956 Amirhesam Shahvarani
+5957 Sudarshan S. Chawathe
+5958 Donatello Santoro
+5959 Manolis M. Tsangaris
+5960 Joshua Spiegel
+5961 Till Westmann
+5962 Vinayak R. Borkar
+5963 Julian Shun
+5964 Benjamin C. Reed
+5965 Giansalvatore Mecca
+5966 Elizabeth J. O'Neil
+5967 Wenbo Tao
+5968 Martin Kaufmann
+5969 Giuseppe Pelagatti
+5970 Brad Adelberg
+5971 Shawn R. Jeffery
+5972 Arnon Rosenthal
+5973 Matthew O. Ward
+5974 Xuedi Qin
+5975 Yuyu Luo
+5976 Bugra Gedik
+5977 Alex Galakatos
+5978 Richard Hull 0001
+5979 Jianwen Su
+5980 Sebastian Michel 0001
+5981 Chanik Park
+5982 Jaeyoung Do
+5983 Arjun Radhakrishna
+5984 Ashish Tiwari 0001
+5985 Dallan Quass
+5986 Alireza Rezaei Mahdiraji
+5987 Behrouz Derakhshan
+5988 Omran A. Bukhres
+5989 Ying Lu
+5990 Uwe Rhm
+5991 Stavros Christodoulakis
+5992 Cristian Diaconu
+5993 Benjamin Schlegel
+5994 Jarek Gryz
+5995 Chang Ge 0002
+5996 Xi He 0001
+5997 Kevin Keliang Zhao
+5998 Raymond A. Lorie
+5999 Qian Lin
+6000 Sheldon J. Finkelstein
+6001 Ahmad Ghazal
+6002 Alain Crolotte
+6003 Dumitrel Loghin
+6004 Cong Yan
+6005 Timothy Griffin
+6006 Isabel F. Cruz
+6007 Florian Kerschbaum
+6008 Brian Babcock
+6009 Xiang Lian
+6010 Daniele Braga
+6011 Subhadeep Sarkar
+6012 Arnaud Sahuguet
+6013 Florian M. Waas
+6014 Michael Duller
+6015 Hiren Patel
+6016 Tarique Siddiqui
+6017 Mian Lu
+6018 C. Unnikrishnan
+6019 William Bohrer
+6020 Justin J. Levandoski
+6021 Chen Xu 0001
+6022 Dixin Tang
+6023 Berthold Reinwald
+6024 Yuchao Tao
+6025 Lucja Kot
+6026 Ulf Leser
+6027 Yan Chen 0022
+6028 Reynold Xin
+6029 Tobias Mayr 0001
+6030 Justin Talbot
+6031 Gultekin zsoyoglu
+6032 A. Prasad Sistla
+6033 Arun N. Swami
+6034 Frank Neven
+6035 Wim Martens
+6036 Dayou Zhou
+6037 Victor Vianu
+6038 Shariq Rizvi
+6039 Kaan Kara
+6040 Yiqiu Wang
+6041 Favyen Bastani
+6042 SungRan Cho
+6043 Jussi Myllymaki
+6044 Eric Chu
+6045 Weiyuan Wu
+6046 Catriel Beeri
+6047 Peter M. Schwarz
+6048 Matthias Jasny
+6049 Tobias Ziegler 0001
+6050 Javier Garca-Garca 0001
+6051 Davood Rafiei
+6052 Marco Brambilla 0001
+6053 Tiark Rompf
+6054 Parke Godfrey
+6055 Donghyoung Han
+6056 Marian H. Nodine
+6057 Richard S. Brice
+6058 Vipul Kashyap
+6059 Matthaios Olma
+6060 Stratis Viglas
+6061 Youze Tang
+6062 Mo Sha 0002
+6063 Balakrishna R. Iyer
+6064 Bart Samwel
+6065 Wentao Li 0001
+6066 Xiaoyang Sean Wang
+6067 Ilya Kolchinsky
+6068 Nikos Sarkas
+6069 Ken Goldberg
+6070 Michael R. Anderson
+6071 Haridimos Kondylakis
+6072 Ziheng Wei
