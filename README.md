@@ -1,9 +1,6 @@
-# FoCore
-FocusCore Decomposition of Multilayer Graphs
+# FocusCore Decomposition of Multilayer Graphs
 
 ## Dataset
-
----
 
 Download datasets and put them into the /Dataset folder.
 
@@ -22,8 +19,6 @@ The two case study datasets are also included as ``dblp-ijcai-kdd-mod.txt`` and 
 The missing datasets are available at [FirmCore](https://github.com/joint-em/FTCS/tree/main/Code/Datasets) and [multilayer kCore](https://github.com/egalimberti/multilayer_core_decomposition).
 
 ## Usage
-
----
 
 ### Accelerate by Cython
 
