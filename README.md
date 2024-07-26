@@ -71,3 +71,19 @@ Compute denest subgraph of Homo Dataset:
 ```shell
 python main.py -a Subgraph -d homo
 ```
+
+## To Cite This Paper
+
+```bibtex
+@inproceedings{wangFocusCoreDecompositionMultilayer2024,
+  title = {{{FocusCore Decomposition}} of {{Multilayer Graphs}}},
+  booktitle = {2024 {{IEEE}} 40th {{International Conference}} on {{Data Engineering}} ({{ICDE}})},
+  author = {Wang, Run-An and Liu, Dandan and Zou, Zhaonian},
+  year = {2024},
+  pages = {2792--2804},
+  issn = {2375-026X},
+  doi = {10.1109/ICDE60146.2024.00218},
+  url = {https://ieeexplore.ieee.org/document/10597766},
+}
+
+```
