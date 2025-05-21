@@ -3,6 +3,7 @@ import constant as C
 from Utils.log import Log
 from Utils.Timer import Timer
 import Algorithm.FoCore as FoCore
+import Algorithm.FoCache as FoCoreExt
 from MLGraph.MLGraph import MLGraph
 
 if __name__ == '__main__':
@@ -10,7 +11,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='FocusCore Decomposition of Multilayer Graphs')
 
     # arguments
-    parser.add_argument('-a', type=str, dest="action", default="Subgraph", help='Action, Decomposition')
+    parser.add_argument('-a', type=str, dest="action", default="Decomposition", help='Action, Decomposition')
     parser.add_argument('-m', type=str, dest="algorithm", default="diff", help='Algorithm, FirmCore, FirmTruss')
     parser.add_argument('-d', type=str, dest="dataset", default="homo", help='Dataset name')
     # options
@@ -62,6 +63,12 @@ if __name__ == '__main__':
             L.info('---------- FoCore Decomposition ----------')
             FoCore.focore_decomposition(multilayer_graph.adjacency_list, multilayer_graph.nodes_iterator,
                                         multilayer_graph.layers_iterator, args.dataset, save=args.save)
+
+    elif args.action == 'Cache':
+        if args.algorithm == "diff":
+            L.info('---------- Check correctness of FoCore Index ----------')
+            FoCoreExt.check(multilayer_graph.adjacency_list, multilayer_graph.nodes_iterator,
+                            multilayer_graph.ordered_layers_iterator, args.dataset)
 
     elif args.action == 'Subgraph':
         L.info('---------- FoCore Densest Subgraph Search ----------')

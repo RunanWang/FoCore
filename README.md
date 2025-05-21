@@ -72,6 +72,20 @@ Compute denest subgraph of Homo Dataset:
 python main.py -a Subgraph -d homo
 ```
 
+### FoCore Cache
+
+```shell
+python main.py -a Cache -d [dataset(default homo)]
+```
+
+examples:
+
+Compute denest subgraph of Homo Dataset:
+
+```shell
+python main.py -a Cache -d homo
+```
+
 ## To Cite This Paper
 
 ```bibtex

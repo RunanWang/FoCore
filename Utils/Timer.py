@@ -1,5 +1,5 @@
 from sys import platform
-from resource import getrusage, RUSAGE_SELF
+# from resource import getrusage, RUSAGE_SELF
 from time import time
 from Utils.log import Log
 
@@ -21,7 +21,7 @@ class Timer:
     def stop(self):
         # end the algorithm
         self.total_time += self.current_seconds() - self.start_time
-        self.total_memory = memory_usage_resource()
+        self.total_memory = 0 #memory_usage_resource()
 
     def print_timer(self):
         L.info('Duration Time: ' + str(self.total_time) + 's')
@@ -53,13 +53,13 @@ class AccumulateTimer:
         return int(round(time() * 1000)) / 1000.0
 
 
-def memory_usage_resource():
-    # denominator for MB
-    rusage_denominator = 1024
-    # if the OS is MAC OSX
-    if platform == 'darwin':
-        # adjust the denominator
-        rusage_denominator *= rusage_denominator
-
-    # return the memory usage
-    return getrusage(RUSAGE_SELF).ru_maxrss / rusage_denominator
+# def memory_usage_resource():
+#     # denominator for MB
+#     rusage_denominator = 1024
+#     # if the OS is MAC OSX
+#     if platform == 'darwin':
+#         # adjust the denominator
+#         rusage_denominator *= rusage_denominator
+#
+#     # return the memory usage
+#     return getrusage(RUSAGE_SELF).ru_maxrss / rusage_denominator
